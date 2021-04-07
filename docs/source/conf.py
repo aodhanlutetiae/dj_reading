@@ -15,8 +15,8 @@
 
 # project = 'dj_list'
 project = 'data journalism reading'
-copyright = '2021, Aidan'
-author = 'Aidan'
+copyright = "2021, Aidan O'Donnell"
+author = "Aidan O'Donnell"
 
 # The full version, including alpha/beta/rc tags
 release = '0.1'
