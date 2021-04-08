@@ -3,9 +3,9 @@ READING LIST FOR DATA JOURNALISM
 
 This is the reading list for data journalism and computational journalism courses at
 `Jomec <https://www.cardiff.ac.uk/journalism-media-and-culture>`__ (Cardiff University)
-as of the middle of 2021. Readings from it are assigned to undergraduate and postgraduate journalism
-students. Some references have a link to the text in the university library system limited to registered students
-but most of the works below are online and the rest are available from book dealers.
+as of the middle of 2021. Readings are assigned to undergraduate and postgraduate journalism
+students. Some references have a link to the the university library system that is only available
+to registered students but most of the works below are online and the others are available from book dealers.
 
 
 Basics
@@ -395,13 +395,12 @@ guidelines <https://www.bbc.com/editorialguidelines/guidelines>`__
 `BBC. Style guide <https://www.bbc.co.uk/newsstyleguide/all>`__
 
 `Corbett, Philip B. Copy edit
-this! (list of quiz links) <https://aodhanlutetiae.github.io/posts/2020/10/blog-post-13/>`__
+this! (complete list of quiz links) <https://aodhanlutetiae.github.io/posts/2020/10/blog-post-13/>`__
 
 `Editors’ Code of Practice Committee. The Editors’
 Codebook <https://www.editorscode.org.uk/downloads/codebook/codebook-2019.pdf>`__
 
-`Guardian style
-guide <https://www.theguardian.com/guardian-observer-style-guide-a>`__
+`Guardian. Style guide <https://www.theguardian.com/guardian-observer-style-guide-a>`__
 
 `Impress. Standards code <https://www.impress.press/standards/>`__
 
@@ -568,6 +567,48 @@ us more negative about migrants. De Correspondent. September
 
 
 
+Network analysis
+================
+
+Tools:
+
+- `Flourish <https://flourish.studio/visualisations/network-charts/>`__
+- `NodeXL (excel) <https://nodexlgraphgallery.org/Pages/AboutNodeXL.aspx>`__
+- `Gephi <https://gephi.org/>`__
+- `Hyphe <https://hyphe.medialab.sciences-po.fr/>`__
+- `Network X (python) <https://pypi.org/project/networkx/>`__
+- `Neo4j <https://neo4j.com/graphgists/?category=investigative-journalism>`__
+
+`Bounegru et al. Visual network exploration for data journalists. 2017 <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3043912>`__
+
+`Bounegru et al. Networks as storytelling devices in journalism. 2016 <https://www.tandfonline.com/doi/pdf/10.1080/21670811.2016.1186497>`__
+
+`Bradshaw, Paul. A journalist’s introduction to network analysis. 2020 <https://onlinejournalismblog.com/2020/06/08/a-journalists-introduction-to-network-analysis>`__
+
+`Bradshaw, Paul. Empathy as an investigative tool. 2020 <https://onlinejournalismblog.com/2020/02/19/empathy-investigative-journalism-story-ideas>`__
+
+`Brown, Meta S. Why Panama Papers journalists use graph databases. 2016 <https://www.forbes.com/sites/metabrown/2016/04/30/why-panama-papers-journalists-use-graph-databases>`__
+
+`ICIJ. Neo4j sandbox and ICIJ datasets. <https://sandbox.neo4j.com/?usecase=icij-panama-papers>`__
+
+`Hill, Sophie. My little crony. 2021 <https://sophieehill.shinyapps.io/my-little-crony/>`__
+
+`Hunger, Michael & Lyon, William. Analyzing the Panama Papers with Neo4j: Data Models, Queries & More. 2016
+<https://neo4j.com/blog/analyzing-panama-papers-neo4j/>`__
+
+`Intal, Carla & Yasseri, Taha. Dissent and Rebellion in the House of Commons: a social network analysis of Brexit-related divisions <https://arxiv.org/pdf/1908.08859.pdf>`__
+
+`Lindenberg, Frederich. Here's why investigative reporters need to know knowledge graphs. GIJN. 2020
+<https://gijn.org/2020/08/11/heres-why-investigative-reporters-need-to-know-knowledge-graphs>`__
+
+`Romano, Tricia. In Seattle art world, women run the show. The Seattle Times. 2016
+<https://www.seattletimes.com/entertainment/visual-arts/in-seattle-art-world-women-run-the-show/>`__
+
+`Wild, Johnna. Digital investigations for journalists: How to follow the digital trail of people and entities.
+Module 4: Network analysis <https://journalismcourses.org/course/digital-investigations-for-journalists_self/>`__
+
+
+
 Numeracy & statistics
 =====================
 
@@ -691,7 +732,8 @@ Bazzell, Michael. *Open Source Intelligence Techniques*. Inteltechniques. 8th ed
 `Carrieri, Matt. Open-source evidence and the International Criminal Court. Harvard Human Rights Journal. April 2019.
 <https://harvardhrj.com/2019/04/open-source-evidence-and-the-international-criminal-court/>`__
 
-Chauhan, Sudhanshu & Kumar Panda, Nutan. *Hacking Web Intelligence*. Syngress, April 2015.
+Chauhan, Sudhanshu & Kumar Panda, Nutan. *Hacking Web Intelligence: open source intelligence and web reconnaissance
+concepts and techniques*. Syngress, April 2015.
 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51125020520002420>`__
 
 *Digital Investigation*. Academic journal.
@@ -701,10 +743,10 @@ Dubberly, Sam, Koenig, Alexa & Murray, Daragh. *Digital Witness. Using Open Sour
 
 Higgins, Eliot. *We are Bellingcat. An intelligence agency for the people*. Bloomsbury, 2021
 
-Pool, Hans. Bellingcat. Truth in a post-truth world. 2018. 60’
-`Library resource (Box of Broadcasts): <https://learningonscreen.ac.uk/ondemand/index.php/prog/15C85789?bcast=131686533>`__
+Pool, Hans. *Bellingcat. Truth in a post-truth world*. 2018. 60’ documentary
+`Library resource (Box of Broadcasts) <https://learningonscreen.ac.uk/ondemand/index.php/prog/15C85789?bcast=131686533>`__
 
-'Silverman, Craig. Verification Handbook 2 <http://verificationhandbook.com/downloads/verification.handbook.2.pdf>'__
+`Silverman, Craig. Verification Handbook 2 <http://verificationhandbook.com/downloads/verification.handbook.2.pdf>`__
 
 
 
