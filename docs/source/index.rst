@@ -28,7 +28,7 @@ Datajournalism.com <https://datajournalism.com/read/handbook/two>`__
 `GIJC conference 2019. Video
 playlist <https://www.youtube.com/playlist?list=PLrCL-ZiCvKYteU2XOChSkW1l7-oRHzwxV>`__
 
-Harford, Tim. Ponder your personal experience, *How to make the world
+Harford, Tim. Ponder your personal experience. *How to make the world
 add up. Ten rules for thinking differently about numbers*. Bridge Street
 Press, 2020
 
@@ -36,7 +36,7 @@ Press, 2020
 2015 <https://gijn.org/2015/11/12/fifty-years-of-journalism-and-data-a-brief-history/>`__
 
 `International Journalism Festival (Perugia) 2019. Video
-series <https://media.journalismfestival.com/programme/2019/category/data-journalism-school>`__
+playlist <https://media.journalismfestival.com/programme/2019/category/data-journalism-school>`__
 
 Meyer, Philip. The Journalism We Need. *Precision Journalism*.
 Rowman & Littlefield, 1973, 2002, 4th ed. p. 1-17
@@ -454,7 +454,7 @@ repository <https://docs.github.com/en/free-pro-team@latest/github/creating-clon
 2016 <https://www.ipso.co.uk/rulings-and-resolution-statements/ruling/?id=03350-16>`__
 
 `Lorentzen, Christian. I wasn’t just a brain in a jar. Review of Edward
-Snowden’s Permanent Record. London Review of Books. 41/18, Sept 2019 <https://www.lrb.co.uk/the-paper/v41/n18/christian-lorentzen/i-wasn-t-just-a-brain-in-a-jar>__`
+Snowden’s Permanent Record. London Review of Books. 41/18, Sept 2019 <https://www.lrb.co.uk/the-paper/v41/n18/christian-lorentzen/i-wasn-t-just-a-brain-in-a-jar>`__
 
 
 
@@ -540,8 +540,8 @@ Wales <http://www2.nphs.wales.nhs.uk:8080/PubHObservatoryProjDocs.nsf/85c5075673
 
 Peterson, Michael. *Online maps with APIs and webservices*. Springer, 2012
 
-Robinson, Arthur H. The look of maps. An examination of cartographic
-design. Esri, 2010
+Robinson, Arthur H. *The look of maps. An examination of cartographic
+design*. Esri press classics, 1952; 2010
 
 Slocum, Terry. *Thematic cartography and geovisualisation*. 3rd ed. Prentice Hall, 2010
 
@@ -557,52 +557,48 @@ us more negative about migrants. De Correspondent. September
 Numeracy & statistics
 =====================
 
-Bergstrom, Carl T. & West, Jevin D. Calling Bullsh-t. The art of
-scepticism in a data-driven world. Allen Lane, 2020
+Bergstrom, Carl T. & West, Jevin D. *Calling Bullsh-t. The art of
+scepticism in a data-driven world*. Allen Lane, 2020
 
-Blastland, Michael & Dilnot, Andrew. The Tiger that isn’t. Seeing
-through a world of numbers. Profile, 2008
+Blastland, Michael & Dilnot, Andrew. *The Tiger that isn’t. Seeing
+through a world of numbers*. Profile, 2008
 
 `Cohen, Sarah. Numbers in the Newsroom: Using Math and Statistics in
-News, 2nd ed., 2014,
-IRE <https://www.ire.org/product/numbers-in-the-newsroom-using-math-and-statistics-in-news-second-edition-e-version/>`__
+News, 2nd ed., IRE, 2014 <https://www.ire.org/product/numbers-in-the-newsroom-using-math-and-statistics-in-news-second-edition-e-version/>`__
 
-Cohn, Victor & Cope, Lewis. News and numbers. Wiley-Blackwell, 3rd ed.
+Cohn, Victor & Cope, Lewis. *News and numbers*. Wiley-Blackwell, 3rd ed.
 2012
 
 `Cushion, Stephen, Lewis, Justin & Callaghan, Robert. Data Journalism,
 Impartiality And Statistical Claims. Towards more independent scrutiny
-in news reporting. Journalism Practice, 11/2017, p.
-1198-1215 <https://www.tandfonline.com/doi/full/10.1080/17512786.2016.1256789>`__
+in news reporting. Journalism Practice, 11/2017, p. 1198-1215 <https://www.tandfonline.com/doi/full/10.1080/17512786.2016.1256789>`__
 
 `Davies, William. How statistics lost their power. Guardian,
 2017 <https://www.theguardian.com/politics/2017/jan/19/crisis-of-statistics-big-data-democracy>`__
 
-Goldacre, Ben. Big Pharma. How drug companies mislead doctors and harm
-patients. 4th Estate, 2012
+Goldacre, Ben. Big Pharma. *How drug companies mislead doctors and harm
+patients*. 4th Estate, 2012
 
-`Gould, Stephen Jay. The median isn’t the message, Ceylon Medical
-Journal, Vol.49(4), 2004,
-p.139-40 <https://cmj.sljol.info/articles/abstract/10.4038/cmj.v49i4.1930/>`__
+`Gould, Stephen Jay. The median isn’t the message. Ceylon Medical
+Journal. Vol.49(4), 2004, p. 139-40 <https://cmj.sljol.info/articles/abstract/10.4038/cmj.v49i4.1930/>`__
 
-Hand, David J. Statistics. A very short introduction. OUP, 2008
+Hand, David J. *Statistics. A very short introduction*. OUP, 2008
 
-Harford, Tim. How to make the world add up. Bridge Street Press, 2020
+Harford, Tim. *How to make the world add up*. Bridge Street Press, 2020
 
 `Huff, Darrell. How to lie with statistics. Norton,
 1954 <http://faculty.neu.edu.cn/cc/zhangyf/papers/How-to-Lie-with-Statistics.pdf>`__
 
-Jerven, Morten. Preface, Poor Numbers. Cornell University Press,
-2013, p. ix–xiv
+Jerven, Morten. Preface. *Poor Numbers*. Cornell University Press, 2013, p. ix–xiv
 
 `Jerven, Morten & Wilkinson, Kate. Hard data and soft statistics: A
 guide to critical reporting. Datajournalism.com,
 2019 <https://datajournalism.com/read/longreads/hard-data-and-soft-statistics-a-guide-to-critical-reporting>`__
 
-Kahneman, Daniel. Thinking, Fast and Slow. Penguin, 2011
+Kahneman, Daniel. *Thinking, Fast and Slow*. Penguin, 2011
 
 `Kaplan, Daniel. Statistical Modelling.
-2017 <https://dtkaplan.github.io/SM2-bookdown/language-of-models.html#explanatory-variables>`__
+2017 <https://dtkaplan.github.io/SM2-bookdown>`__
 
 `Lievesley, Denise. A guide to statistics for journalists. Reuters
 Institute, 2020. 1h
@@ -611,23 +607,23 @@ Video <https://www.youtube.com/watch?v=_qioPxHuk0U>`__
 `Marshall, Sarah. How to correctly report numbers in the news.
 2012 <https://www.journalism.co.uk/skills/how-to-report-numbers-in-the-news/s7/a547659/>`__
 
-Meyer, Philip. Precision Journalism. A Reporter’s Introduction to
-Social Science Methods. Rowman & Littlefield, 4th ed., 2002.
+Meyer, Philip. *Precision Journalism. A Reporter’s Introduction to
+Social Science Methods*. Rowman & Littlefield, 4th ed., 2002.
 [Especially chapter 3, Some elements of data analysis and chapter 4,
 Harnessing the power of statistics]
 
-Paulos, John Allen. A Mathematician Reads the Newspapers. Penguin,
+Paulos, John Allen. *A Mathematician Reads the Newspapers*. Penguin,
 1995
 
-Paulos, John Allen. Innumeracy. Mathematical illiteracy and its
-consequences. Penguin, 1988
+Paulos, John Allen. *Innumeracy. Mathematical illiteracy and its
+consequences*. Penguin, 1988
 
 `Reinhart, Alex. Statistics Done Wrong. The woefully complete guide.
 No Starch Press,
 2015 <http://www.r-5.org/files/books/computers/dev-teams/trenches/Alex_Reinhart-Statistics_Done_Wrong-EN.pdf>`__
 
-Reuben, Anthony. Statistical. Ten easy ways to avoid being misled by
-numbers. Constable, 2019
+Reuben, Anthony. *Statistical. Ten easy ways to avoid being misled by
+numbers*. Constable, 2019
 
 `Rosling, Hans. The joy of stats. 1h
 Video <https://www.gapminder.org/videos/the-joy-of-stats/>`__
@@ -639,15 +635,15 @@ non-mathematicians. Penguin, 2018
 you and how to ask the right questions. Sense About Science.
 2010 <https://senseaboutscience.org/activities/making-sense-of-statistics/>`__
 
-Silver, Nate. The Signal and the Noise. The Art and Science of
-Prediction. Penguin, 2012
+Silver, Nate. *The Signal and the Noise. The Art and Science of
+Prediction*. Penguin, 2012
 
-Spiegelhalter, David. The Art of Statistics. Learning from Data.
+Spiegelhalter, David. *The Art of Statistics. Learning from Data*.
 Pelican, 2019
 
 `Spiegelhalter, David. Communicating statistics, risk and uncertainty
 in the age of Covid-19. 2020. 40' Video (from 7’
-20) <https://media.ed.ac.uk/media/Communicating+statistics%2C+risk+and+uncertainty+in+the+age+of+Covid/1_y2lw3u6d>`__
+20") <https://media.ed.ac.uk/media/Communicating+statistics%2C+risk+and+uncertainty+in+the+age+of+Covid/1_y2lw3u6d>`__
 
 `Stray, Jonathan. Drawing conclusions from data. 2013. 1h 30'
 Video <https://www.youtube.com/watch?v=3NuyRKNkBQg>`__
@@ -659,7 +655,7 @@ Video <https://www.youtube.com/watch?v=3NuyRKNkBQg>`__
 Review of Books. 43/2, January
 2021 <https://www.lrb.co.uk/the-paper/v43/n02/paul-taylor/insanely-complicated-hopelessly-inadequate>`__
 
-Wheelan, Charles. Naked statistics. Stripping the dread from the data.
+Wheelan, Charles. *Naked statistics. Stripping the dread from the data*.
 Norton, 2013
 
 
