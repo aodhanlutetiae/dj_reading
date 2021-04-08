@@ -1,10 +1,11 @@
 READING LIST FOR DATA JOURNALISM
 ================================
 
-This is the reading list for data journalism courses at `Jomec <https://www.cardiff.ac.uk/journalism-media-and-culture>`__ (Cardiff University)
+This is the reading list for data journalism and computational journalism courses at
+`Jomec <https://www.cardiff.ac.uk/journalism-media-and-culture>`__ (Cardiff University)
 as of the middle of 2021. Readings from it are assigned to undergraduate and postgraduate journalism
-students. Some references have a link to the text in the university library system but most of them are online
-and the rest are available from book dealers.
+students. Some references have a link to the text in the university library system limited to registered students
+but most of the works below are online and the rest are available from book dealers.
 
 
 Basics
@@ -158,8 +159,8 @@ and how to 'flatten the curve', Washington Post, March
 
 
 
-Datahubs & sources
-==================
+Data sources & data hubs
+========================
 
 — See this, our `growing list of
 datasets <https://docs.google.com/document/d/1jwWhnAXX1ctCH7C4Q3De6Za8PV5Xo61gCfeMVOeIUTg/edit?usp=sharing>`__
@@ -673,12 +674,48 @@ Norton, 2013
 
 
 
+OSINT
+=====
+
+`Ahmad, Mohammed Idriss. Bellingcat and how open source reinvented journalism. The New York Review of Books. June 2019
+<https://www.nybooks.com/daily/2019/06/10/bellingcat-and-how-open-source-reinvented-investigative-journalism/>`__
+
+`Baack, Stefan. Data Journalism’s Entanglements with Civic Tech. The Data Journalism Handbook 2.
+<https://datajournalism.com/read/handbook/two/organising-data-journalism/data-journalisms-entanglements-with-civic-tech>`__
+
+Bazzell, Michael. *Open Source Intelligence Techniques*. Inteltechniques. 8th ed. 2021
+
+`Berkeley Law Human Rights Center. Berkeley Protocol on Digital Open Source Investigations. Berkeley & UN, 2020
+<https://www.law.berkeley.edu/article/human-rights-center-berkeley-protocol-social-media-evidence-war-crimes-nuremberg/>`__
+
+`Carrieri, Matt. Open-source evidence and the International Criminal Court. Harvard Human Rights Journal. April 2019.
+<https://harvardhrj.com/2019/04/open-source-evidence-and-the-international-criminal-court/>`__
+
+Chauhan, Sudhanshu & Kumar Panda, Nutan. *Hacking Web Intelligence*. Syngress, April 2015.
+`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51125020520002420>`__
+
+*Digital Investigation*. Academic journal.
+`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA5188045320002420>`__
+
+Dubberly, Sam, Koenig, Alexa & Murray, Daragh. *Digital Witness. Using Open Source Information for Human Rights Investigation, Documentation, and Accountability*. OUP, 2020
+
+Higgins, Eliot. *We are Bellingcat. An intelligence agency for the people*. Bloomsbury, 2021
+
+Pool, Hans. Bellingcat. Truth in a post-truth world. 2018. 60’
+`Library resource (Box of Broadcasts): <https://learningonscreen.ac.uk/ondemand/index.php/prog/15C85789?bcast=131686533>`__
+
+'Silverman, Craig. Verification Handbook 2 <http://verificationhandbook.com/downloads/verification.handbook.2.pdf>'__
+
+
+
 Scraping & APIs
 ===============
 
 — See also **Ethics** and **Legal**
 
 Bradshaw, Paul. *Scraping for Journalists*. Leanpub, 2017
+
+`Google. Robots.txt files overview <https://developers.google.com/search/docs/advanced/robots/intro>`__
 
 Heydt, Michael. *Python web scraping cookbook*. Packt, 2018
 
@@ -693,10 +730,7 @@ Mitchell, Ryan. *Web scraping with Python*. O'Reilly, 2nd ed. 2018
 `Ni, Daniel. Five Tips for web scraping without getting booted.
 2019 <https://www.scraperapi.com/blog/5-tips-for-web-scraping/>`__
 
-`Robots.txt files. Google's
-overview <https://developers.google.com/search/docs/advanced/robots/intro>`__
-
-`Schacht, Kira, A web scraping toolkit for journalists,
+`Schacht, Kira. A web scraping toolkit for journalists,
 2019 <https://journocode.com/2019/01/web-scraping-tools-journalists-how-to/>`__
 
 `Shiab, Nael, Web scraping. A journalist’s guide, GIJN,
