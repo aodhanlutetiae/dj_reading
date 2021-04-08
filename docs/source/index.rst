@@ -3,8 +3,8 @@ READING LIST FOR DATA JOURNALISM
 
 This is the reading list for data journalism and computational journalism courses at
 `Jomec <https://www.cardiff.ac.uk/journalism-media-and-culture>`__ (Cardiff University)
-as of the middle of 2021. Readings are assigned to undergraduate and postgraduate journalism
-students. Some references have a link to the the university library system that is only available
+as of the middle of 2021 and are assigned to undergraduate and postgraduate journalism
+students. Some references have a link to the Cardiff University library system that is only available
 to registered students but most of the works below are online and the others are available from book dealers.
 
 
@@ -14,14 +14,13 @@ Basics
 Associated Press. Data Journalism. *The Associated Press Stylebook*. 55th ed.,
 2020-22. p. 358-63
 
-Dasgupta, Subrata. The ‘stuff’ of computing, *Computer Science. A very
-short introduction*. OUP, 2016, p. 1-12
+`Bounegru, Liliana & Gray, Jonathan. The data journalism handbook: towards a critical data practice. Amsterdam University Press, 2021 <https://library.oapen.org/bitstream/handle/20.500.12657/47509/9789048542079.pdf>`__
 
-`Data Journalism Handbook One.
+`Bounegru, Liliana, Chambers, Lucy & Gray, Jonathan. The data journalism handbook (One). 2011
 Datajournalism.com <https://datajournalism.com/read/handbook/one>`__
 
-`Data Journalism Handbook Two.
-Datajournalism.com <https://datajournalism.com/read/handbook/two>`__
+Dasgupta, Subrata. The ‘stuff’ of computing, *Computer Science. A very
+short introduction*. OUP, 2016, p. 1-12
 
 `Freeguard, Gavin. A data reading list (books, blogs, podcasts).
 2021 <https://docs.google.com/spreadsheets/d/1aM-tiyWZrxvn7frpmqjh6ObByn2y3LOIn8ZPuN1Ng5o/edit?usp=sharing>`__
@@ -84,12 +83,10 @@ Covid-19 model, Fivethirtyeight. March
 2020 <https://fivethirtyeight.com/features/why-its-so-freaking-hard-to-make-a-good-covid-19-model/>`__
 
 `Burn-Murdoch, John. Coronavirus trajectory tracker explained. 2020.
-6'
-Video <https://www.ft.com/video/9a72a9d4-8db1-4615-8333-4b73ae3ddff8>`__
+6' Video <https://www.ft.com/video/9a72a9d4-8db1-4615-8333-4b73ae3ddff8>`__
 
 `Burn-Murdoch, John. EJC Trust conference: The FT’s trajectory
-tracker. 2020. 20'
-Video <https://www.youtube.com/watch?v=pn6PjdGc-lw>`__
+tracker. 2020. 20' Video <https://www.youtube.com/watch?v=pn6PjdGc-lw>`__
 
 `Byrd, Josh et al. These charts track how coronavirus is spreading
 around the world. ABC (au),
@@ -109,10 +106,9 @@ journalists.
 `Georgia public health. What is a moving average and why is it useful?
 2020 <https://www.georgiaruralhealth.org/blog/what-is-a-moving-average-and-why-is-it-useful/>`__
 
-`GIJN. Evaluating the evidence. 1h 20' Video.
-2020 <https://www.youtube.com/watch?v=A7vLA7hQ5rI>`__
+`GIJN. Evaluating the evidence. 2020. 1h 20' Video <https://www.youtube.com/watch?v=A7vLA7hQ5rI>`__
 
-`GIJN. Covid hub <https://gijn.org/series/covid19/>`__
+`GIJN. Covid-19 hub <https://gijn.org/series/covid19/>`__
 
 `Harford, Tim. Statistics, lies and the virus: Tim Harford’s five
 lessons from a pandemic. Financial Times. September
@@ -126,22 +122,22 @@ April
 loads. Medium. March
 2020 <https://medium.com/nightingale/thirteen-things-to-visualize-about-covid-19-besides-case-loads-581fa90348dd>`__
 
-`Makulic, Amanda. Ten Considerations Before You Create Another Chart
-About Covid-19, Medium. March
+`Makulic, Amanda. Ten considerations before you create another chart
+about Covid-19, Medium. March
 2020 <https://medium.com/nightingale/ten-considerations-before-you-create-another-chart-about-covid-19-27d3bd691be8>`__
 
-`Meers, Jelta, How Data Journalists Exposed the Real Covid-19 Death
-Toll in Brazil. GIJN, July
+`Meers, Jelta, How data journalists exposed the real Covid-19 death
+toll in Brazil. GIJN, July
 2020 <https://gijn.org/2020/07/28/how-data-journalists-exposed-the-real-covid-19-death-toll-in-brazil>`__
 
-`ONS Project Cairo (overall portfolio but includes Covid-19
+`ONS. Project Cairo (overall portfolio but includes Covid-19
 work) <https://onsvisual.github.io/project_cairo/index.html>`__
 
-`Philip, Rowan. How to Tackle the Global Undercount in Covid-19 Deaths:
-Reporters Offer Tips and Techniques, GIJN, May
+`Philip, Rowan. How to tackle the global undercount in Covid-19 deaths:
+reporters offer tips and techniques, GIJN, May
 2020 <https://gijn.org/2020/05/26/how-to-tackle-the-global-undercount-in-covid-19-deaths-reporters-offer-tips-and-techniques>`__
 
-`Reuters. Breaking the wave. How to graph the
+`Reuters. Breaking the wave: How to graph the
 curve <https://graphics.reuters.com/HEALTH-CORONAVIRUS/CASUALTIES/gjnpwjmqvwr/index.html>`__
 
 `Reuters. A deluge of death in northern Italy, March
@@ -152,7 +148,7 @@ the age of Covid. 40'
 Video <https://media.ed.ac.uk/media/Communicating+statistics%2C+risk+and+uncertainty+in+the+age+of+Covid/1_y2lw3u6d>`__
 
 `Stevens, Harry. Why outbreaks like coronavirus spread exponentially,
-and how to 'flatten the curve', Washington Post, March
+and how to 'flatten the curve'. Washington Post. March
 2020 <https://www.washingtonpost.com/graphics/2020/world/corona-simulator/>`__
 
 `Tableau. Covid-19 hub <https://www.tableau.com/covid-19-coronavirus-data-resources>`__
@@ -213,11 +209,10 @@ cookbook*, Packt, 2018
 `Knight Center. Ethics and equity in data journalism. Online course.
 2020 <https://www.journalismcourses.org/course/equity-ethics-in-data-journalism-hands-on-approaches-to-getting-your-data-right-2/>`__
 
-Marconi, Francesco. Newsmakers: Artificial Intelligence and the Future
-of Journalism. Columbia University Press, 2020
+Marconi, Francesco. *Newsmakers: Artificial Intelligence and the Future
+of Journalism*. Columbia University Press, 2020
 
-Mitchell, Ryan. Legalities & ethics of web scraping. Web scraping
-with Python. 2nd ed., 2018
+Mitchell, Ryan. Legalities & ethics of web scraping. *Web scraping with Python*. 2nd ed. 2018
 
 `NPR. Did George Floyd die or was he murdered?
 2020 <https://www.npr.org/sections/publiceditor/2020/06/04/868969745/did-george-floyd-die-or-was-he-murdered-one-of-many-ethics-questions-npr-must-an?t=1610277517399>`__
@@ -232,7 +227,7 @@ Sage, 2019, p. 206-09
 `Scrapinghub. The Web Scraping Best Practices
 Guide <https://scrapinghub.com/guides/web-scraping-best-practices>`__
 
-`Sellars, Andrew. Twenty Years of Web Scraping and the Computer Fraud
+`Sellars, Andrew. Twenty years of web scraping and the Computer Fraud
 and Abuse Act. Boston University Journal of Science & Technology Law.
 24, 2018 <https://scholarship.law.bu.edu/faculty_scholarship/465>`__
 
@@ -246,8 +241,7 @@ claims. Wired,
 `Stone, Deborah. The Ethics of Counting. James Madison Award Lecture.
 2017 <https://www.cambridge.org/core/services/aop-cambridge-core/content/view/6EB60C0EAB17A50F89038721F3379A9A/S1049096517001767a.pdf/2017_james_madison_award_lecture_the_ethics_of_counting.pdf>`__
 
-`Velotio. Scraping Guidelines / Best
-Practices <https://www.velotio.com/engineering-blog/web-scraping-introduction-best-practices-caveats>`__
+`Velotio. Scraping guidelines & best practices <https://www.velotio.com/engineering-blog/web-scraping-introduction-best-practices-caveats>`__
 
 
 
@@ -259,6 +253,10 @@ spreadsheets <https://multimedia.journalism.berkeley.edu/tutorials/spreadsheets/
 
 Bradshaw, Paul. *Finding stories with spreadsheets*. Leanpub, 2016
 
+`GCF Global. Google spreadsheets <https://edu.gcfglobal.org/en/googlespreadsheets>`__
+
+`Google. Sheets training & help <https://support.google.com/a/users/answer/9282959>`__
+
 `Groeger, Lena. Spreadsheets
 lab <http://lenagroeger.s3.amazonaws.com/talks/orlando/exercises/Spreadsheets/spreadsheetslab.html>`__
 
@@ -268,22 +266,27 @@ lab <http://lenagroeger.s3.amazonaws.com/talks/orlando/exercises/Spreadsheets/sp
 `Houston, Brant. Let the spreadsheet do the math.
 2019 <https://gijn.org/2019/05/21/eight-simple-ways-to-let-the-spreadsheet-do-the-math-so-you-can-focus-on-the-story/>`__
 
+`Lambrechts, Maarten. Cleaning data in Excel: video course. Datajournalism.com. 1h 30' video <https://datajournalism.com/watch/cleaning-data-in-excel>`__
+
+`MacDonald, Matthew. Excel 2013: the missing manual. O'Reilly <http://index-of.co.uk/OFIMATICA/OReilly%20Excel%202013,%20The%20Missing%20Manual.pdf>`__
+
 `NY Times. Data course spreadsheets
 cheatsheets <https://drive.google.com/drive/folders/1l2DAll0Jc3Vq6vA9sLDzsBQVo6KBnE7x>`__
 
-`Webster, Mary-Jo. Excel
-basics <https://sites.google.com/view/mj-basic-data-academy/excel-basics>`__
+`Webster, Mary-Jo. Excel basics <https://sites.google.com/view/mj-basic-data-academy/excel-basics>`__
+
+`Webster, Mary-Jo. Excel magic. 2019 <https://mjwebster.github.io/DataJ/tipsheets/ExcelMagic.pdf>`__
 
 
 
 FOI
 ===
 
-`Amin, Lucas & Montague, Brendan. Foia without the lawyer.
-TCIJ <https://tcij.org/handbooks/foia-without-the-lawyer/>`__
+Amin, Lucas & Montague, Brendan. *FOIA without the lawyer: freedom, information and the press*. TCIJ, 2012
 
-`Bartlett, Rachel. How to submit a freedom of information request.
-Journalism.co.uk,
+Amin, Lucas & Montague, Brendan. *EIRs without the lawyer: the journalist's guide to the Environmental Information Regulations*. TCIJ, 2013
+
+`Bartlett, Rachel. How to submit a freedom of information request. Journalism.co.uk,
 2012 <https://www.journalism.co.uk/skills/how-to-submit-a-freedom-of-information-request/s7/a548038/>`__
 
 `Basnett, Guy & McNamara, Paul. FOI at ten. How all journalists can use
@@ -474,7 +477,7 @@ Snowden’s Permanent Record. London Review of Books. 41/18, Sept 2019 <https://
 Mapping
 =======
 
-`Bugnion, Pascal. Jupyter-gmaps.
+`Bugnion, Pascal. Jupyter-gmaps: embedding google maps in notebooks.
 2016 <https://jupyter-gmaps.readthedocs.io/en/latest/tutorial.html>`__
 
 Cutts, Andrew. *QGIS quick start guide*. Packt, 2019
@@ -551,12 +554,10 @@ Wales <http://www2.nphs.wales.nhs.uk:8080/PubHObservatoryProjDocs.nsf/85c5075673
 `ONS. All geographic codes for the UK.
 2020 <https://geoportal.statistics.gov.uk/datasets/register-of-geographic-codes-june-2020-for-the-united-kingdom-v2>`__
 
-Peterson, Michael. *Online maps with APIs and webservices*. Springer, 2012
-
 Robinson, Arthur H. *The look of maps. An examination of cartographic
 design*. Esri press classics, 1952; 2010
 
-Slocum, Terry. *Thematic cartography and geovisualisation*. 3rd ed. Prentice Hall, 2010
+Slocum, Terry et al. *Thematic cartography and geovisualisation*. 3rd ed. Prentice Hall, 2010
 
 `Tableau. Overview of maps in
 Tableau <https://help.tableau.com/current/pro/desktop/en-us/maps_build.htm>`__
@@ -573,11 +574,13 @@ Network analysis
 Tools:
 
 - `Flourish <https://flourish.studio/visualisations/network-charts/>`__
-- `NodeXL (excel) <https://nodexlgraphgallery.org/Pages/AboutNodeXL.aspx>`__
+- `NodeXL (excel). Windows only <https://nodexlgraphgallery.org/Pages/AboutNodeXL.aspx>`__
 - `Gephi <https://gephi.org/>`__
 - `Hyphe <https://hyphe.medialab.sciences-po.fr/>`__
 - `Network X (python) <https://pypi.org/project/networkx/>`__
 - `Neo4j <https://neo4j.com/graphgists/?category=investigative-journalism>`__
+
+`Aldhous, Peter. NodeXL for network analysis. 2014 <https://www.peteraldhous.com/CAR/CAR2014_NodeXL.pdf>`__
 
 `Bounegru et al. Visual network exploration for data journalists. 2017 <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3043912>`__
 
@@ -596,7 +599,7 @@ Tools:
 `Hunger, Michael & Lyon, William. Analyzing the Panama Papers with Neo4j: Data Models, Queries & More. 2016
 <https://neo4j.com/blog/analyzing-panama-papers-neo4j/>`__
 
-`Intal, Carla & Yasseri, Taha. Dissent and Rebellion in the House of Commons: a social network analysis of Brexit-related divisions <https://arxiv.org/pdf/1908.08859.pdf>`__
+`Intal, Carla & Yasseri, Taha. Dissent and Rebellion in the House of Commons: a social network analysis of Brexit-related divisions. 2020 <https://arxiv.org/pdf/1908.08859.pdf>`__
 
 `Lindenberg, Frederich. Here's why investigative reporters need to know knowledge graphs. GIJN. 2020
 <https://gijn.org/2020/08/11/heres-why-investigative-reporters-need-to-know-knowledge-graphs>`__
@@ -631,7 +634,7 @@ in news reporting. Journalism Practice, 11/2017, p. 1198-1215 <https://www.tandf
 `Davies, William. How statistics lost their power. Guardian,
 2017 <https://www.theguardian.com/politics/2017/jan/19/crisis-of-statistics-big-data-democracy>`__
 
-Goldacre, Ben. Big Pharma. *How drug companies mislead doctors and harm
+Goldacre, Ben. *Big Pharma. How drug companies mislead doctors and harm
 patients*. 4th Estate, 2012
 
 `Gould, Stephen Jay. The median isn’t the message. Ceylon Medical
