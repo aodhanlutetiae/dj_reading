@@ -1,8 +1,10 @@
 READING LIST FOR DATA JOURNALISM
 ================================
 
-This is the reading list for data journalism courses at Jomec (Cardiff University)
-as of Spring 2021.
+This is the reading list for data journalism courses at `Jomec <https://www.cardiff.ac.uk/journalism-media-and-culture>`__ (Cardiff University)
+as of the middle of 2021. Readings from it are assigned to undergraduate and postgraduate journalism
+students. Some references have a link to the text in the university library system but most of them are online
+and the rest are available from book dealers.
 
 
 Basics
@@ -660,7 +662,7 @@ in the age of Covid-19. 2020. 40' Video (from 7’
 Video <https://www.youtube.com/watch?v=3NuyRKNkBQg>`__
 
 `Stray, Jonathan. The curious journalist’s guide to data. Tow Center,
-2018 <https://towcenter.gitbooks.io/curious-journalist-s-guide-to-data/content/quantification/>`__
+2018 <https://towcenter.gitbooks.io/curious-journalist-s-guide-to-data/content/>`__
 
 `Taylor, Paul. Insanely complicated. Hopelessly inadequate. London
 Review of Books. 43/2, January
@@ -676,19 +678,19 @@ Scraping & APIs
 
 — See also **Ethics** and **Legal**
 
-Bradshaw, Paul. Scraping for Journalists. Leanpub, 2017
+Bradshaw, Paul. *Scraping for Journalists*. Leanpub, 2017
 
-Heydt, Michael. Python web scraping cookbook. Packt, 2018
+Heydt, Michael. *Python web scraping cookbook*. Packt, 2018
 
-Jarmul, Katherine & Lawson, Richard. Python web scraping: fetching data
-from the web, Packt, 2nd ed. 2017
+Jarmul, Katherine & Lawson, Richard. *Python web scraping: fetching data
+from the web*. Packt, 2nd ed. 2017
 
-Kouzis-Loukas, Dimitrios. Learning Scrapy: learn the art of efficient
-web scraping and crawling with Python. Packt, 2016
+Kouzis-Loukas, Dimitrios. *Learning Scrapy: learn the art of efficient
+web scraping and crawling with Python*. Packt, 2016
 
-Mitchell, Ryan. Web scraping with Python. O'Reilly, 2nd ed. 2018
+Mitchell, Ryan. *Web scraping with Python*. O'Reilly, 2nd ed. 2018
 
-`Ni, Daniel. 5 Tips for web scraping without getting booted.
+`Ni, Daniel. Five Tips for web scraping without getting booted.
 2019 <https://www.scraperapi.com/blog/5-tips-for-web-scraping/>`__
 
 `Robots.txt files. Google's
@@ -785,19 +787,16 @@ charts <https://researchbriefings.files.parliament.uk/documents/SN05073/SN05073.
 visualisation with free tools. Online course.
 2019 <https://live-journalismcourses.pantheonsite.io/course/data-journalism-and-visualization-with-free-tools/>`__
 
+`Levontin, Polina & Walton, Jo Lindsay, Visualising Uncertainty. Sad
+Press, 2020 <https://spiral.imperial.ac.uk/bitstream/10044/1/80424/2/VUI_221219.pdf>`__
+
 `Matejka, Justin & Fitzmaurice, George. Same Stats, Different Graphs:
 Generating Datasets with Varied Appearance and Identical Statistics
 through Simulated Annealing, CHI,
 2017 <https://www.researchgate.net/publication/316652618_Same_Stats_Different_Graphs_Generating_Datasets_with_Varied_Appearance_and_Identical_Statistics_through_Simulated_Annealing>`__
 
-`ONS. Styleguide <https://style.ons.gov.uk/category/data-visualisation/>`__
-
-`Levontin, Polina & Walton, Jo Lindsay, Visualising Uncertainty. Sad
-Press,
-2020 <https://spiral.imperial.ac.uk/bitstream/10044/1/80424/2/VUI_221219.pdf>`__
-
 Posavec, Stefanie & Lupi, Giorgia. *Dear Data*. Particular Books,
-2016 `Project <http://www.dear-data.com/theproject>`__
+2016 & `Project <http://www.dear-data.com/theproject>`__
 
 `Rost, Lisa Charlotte. How to choose more beautiful colors for your data
 visualisation. Blogpost, Datawrapper,
@@ -806,14 +805,14 @@ visualisation. Blogpost, Datawrapper,
 `Sunlight Foundation. Dataviz style
 guidelines <https://github.com/amycesal/dataviz-style-guide/blob/master/Sunlight-StyleGuide-DataViz.pdf>`__
 
-Tufte, Edward. The visual display of quantitative information, 2nd ed.
+Tufte, Edward. *The visual display of quantitative information*. 2nd ed.
 Graphics Press, 2001
 
-Tufte, Edward. Envisioning information. Graphics Press, 1990
+Tufte, Edward. *Envisioning information*. Graphics Press, 1990
 
-Tufte, Edward. Beautiful Evidence. Graphics Press, 2006
+Tufte, Edward. *Beautiful Evidence*. Graphics Press, 2006
 
-Tableau resources
+Tableau resources:
 
 -  `Reference
    gathering <http://www.dataplusscience.com/TableauReferenceGuide/>`__
