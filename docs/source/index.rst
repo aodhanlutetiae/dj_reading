@@ -1,8 +1,8 @@
 READING LIST FOR DATA JOURNALISM
 ================================
 
-This is the reading list for data journalism as of Spring 2021.
-
+This is the reading list for data journalism courses at Jomec (Cardiff University)
+as of Spring 2021.
 
 
 Basics
@@ -371,19 +371,19 @@ placed <https://www.whatdotheyknow.com/>`__
 Journalism
 ==========
 
-`ABC Style
+`ABC. Style
 guide <https://about.abc.net.au/abc-editorial/the-abc-style-guide/>`__
 
-`Associated Press. News Values &
-Principles <https://www.ap.org/about/news-values-and-principles/downloads/ap-news-values-and-principles.pdf>`__
+`Associated Press. News values &
+principles <https://www.ap.org/about/news-values-and-principles/downloads/ap-news-values-and-principles.pdf>`__
 
-`BBC Editorial
+`BBC. Editorial
 guidelines <https://www.bbc.com/editorialguidelines/guidelines>`__
 
-`BBC Style guide <https://www.bbc.co.uk/newsstyleguide/all>`__
+`BBC. Style guide <https://www.bbc.co.uk/newsstyleguide/all>`__
 
 `Corbett, Philip B. Copy edit
-this! <https://www.nytimes.com/interactive/2019/06/26/insider/copy-edit-this-17.html>`__
+this! (list of quiz links) <https://aodhanlutetiae.github.io/posts/2020/10/blog-post-13/>`__
 
 `Editors’ Code of Practice Committee. The Editors’
 Codebook <https://www.editorscode.org.uk/downloads/codebook/codebook-2019.pdf>`__
@@ -391,14 +391,14 @@ Codebook <https://www.editorscode.org.uk/downloads/codebook/codebook-2019.pdf>`_
 `Guardian style
 guide <https://www.theguardian.com/guardian-observer-style-guide-a>`__
 
-`Independent Press Standards Organisation (IPSO),
-‘Rulings’ <https://www.ipso.co.uk/rulings-and-resolution-statements/>`__
+`IPSO.
+Rulings <https://www.ipso.co.uk/rulings-and-resolution-statements/>`__
 
 `IPSO. Editors’
 Code <https://www.ipso.co.uk/editors-code-of-practice/>`__
 
-Kovach, Bill & Rosenstiel, Tom. The Elements of Journalism. What
-newspeople should know and the public should expect. Three Rivers
+Kovach, Bill & Rosenstiel, Tom. *The Elements of Journalism. What
+newspeople should know and the public should expect*. Three Rivers
 Press, 2012
 
 `NCTJ. Skills
@@ -415,14 +415,14 @@ code <https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-codes/broadcast-
 1946 <https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/>`__
 
 `Reuters. Handbook of
-Journalism <http://handbook.reuters.com/index.php?title=Main_Page>`__
+journalism <http://handbook.reuters.com/index.php?title=Main_Page>`__
 
 
 
 Legal
 =====
 
-`Baranetsky, Victoria. Data Journalism and the Law (US). Columbia
+`Baranetsky, Victoria. Data Journalism and the Law [US]. Columbia
 Journalism Review.
 2018 <https://www.cjr.org/tow_center_reports/data-journalism-and-the-law.php>`__
 
@@ -436,11 +436,13 @@ drives of leaked files. Guardian.
 `Defence and Security Media Advisory (DSMA) Committee. Standing
 Notices <https://dsma.uk/standing-notices/>`__
 
+Dodd, Mike & Hanna, Mark. *McNae’s Essential Law for Journalists*. 25th ed., 2020
+
 `Georgiev, Peter. A robot commits libel. Who is responsible?, RJI,
 2019 <https://www.rjionline.org/stories/a-robot-commits-libel-who-is-responsible?fbclid=IwAR3KrcMo-AQqqiZmIeyTGbtSEBkcDBleVy4-K49_TT3XBVPlhWVG1LgMxM4>`__
 
-`Github. The legal side of Open
-Source <https://opensource.guide/legal/>`__
+`Github. The legal side of open
+source <https://opensource.guide/legal/>`__
 
 `Github. Licensing a
 repository <https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/licensing-a-repository>`__
@@ -451,8 +453,8 @@ repository <https://docs.github.com/en/free-pro-team@latest/github/creating-clon
 `IPSO. Decision 03350-16 InFacts v The Sun.
 2016 <https://www.ipso.co.uk/rulings-and-resolution-statements/ruling/?id=03350-16>`__
 
-Lorentzen, Christian. I wasn’t just a brain in a jar. Review of Edward
-Snowden’s Permanent Record. London Review of Books. 41/18, Sept 2019
+`Lorentzen, Christian. I wasn’t just a brain in a jar. Review of Edward
+Snowden’s Permanent Record. London Review of Books. 41/18, Sept 2019 <https://www.lrb.co.uk/the-paper/v41/n18/christian-lorentzen/i-wasn-t-just-a-brain-in-a-jar>__`
 
 
 
@@ -462,7 +464,7 @@ Mapping
 `Bugnion, Pascal. Jupyter-gmaps.
 2016 <https://jupyter-gmaps.readthedocs.io/en/latest/tutorial.html>`__
 
-Cutts, Andrew. QGIS quick start guide. Packt, 2019
+Cutts, Andrew. *QGIS quick start guide*. Packt, 2019
 
 `Datawrapper. Walkthrough for live choropleth
 map <https://academy.datawrapper.de/article/236-how-to-create-a-live-updating-symbol-map-or-choropleth-map>`__
@@ -479,27 +481,25 @@ Rethinking Maps. New Frontiers in Cartographic Theory. Routledge,
 2009, p.
 1-25 <https://personalpages.manchester.ac.uk/staff/m.dodge/rethinking_maps_introduction_pageproof.pdf>`__
 
-`Ericson, Matthew. When maps shouldn’t be maps. Blogpost.
+`Ericson, Matthew. When maps shouldn’t be maps.
 2011 <http://www.ericson.net/content/2011/10/when-maps-shouldnt-be-maps/>`__
 
-`ESRI, US election 2016. Battle of the maps. Blogpost.
+`ESRI. US election 2016. Battle of the maps.
 2016 <https://communityhub.esriuk.com/geoxchange/2016/11/1/us-election-2016-battle-of-the-maps>`__
 
-`Field, Kenneth & Dorling, Danny. UK election cartography,
+`Field, Kenneth & Dorling, Danny. UK election cartography.
 International Journal of cartography. 2/2,
 2016 <https://www.geog.ox.ac.uk/research/transformations/gis/papers/2017/UK_election_cartography.pdf>`__
 
 `Field, Kenneth. Thematic map
 design <https://carto.maps.arcgis.com/apps/MapJournal/index.html?appid=e5518bc48d0742f9975583079727be5c>`__
 
-`Giulani, Diego & Napolitano, Maurizio. Online course materials.
-Geospatial analysis and representation for data science. University of
+`Giulani, Diego & Napolitano, Maurizio. Online course: Geospatial analysis and representation for data science. University of
 Trento, 2020 <https://napo.github.io/geospatial_course_unitn/>`__
 
-Graser, Anita. Learning QGIS. Packt, 2016
+Graser, Anita. *Learning QGIS*. Packt, 2016
 
-Graser, Anita & Peterson, Gretchen. QGIS map design. Locate Press,
-2018
+Graser, Anita & Peterson, Gretchen. *QGIS map design*. Locate Press, 2018
 
 `Green, Chris. Mapping the Brexit vote. Blogpost.
 2017 <https://www.ox.ac.uk/news-and-events/oxford-and-brexit/brexit-analysis/mapping-brexit-vote>`__
@@ -510,24 +510,24 @@ Graser, Anita & Peterson, Gretchen. QGIS map design. Locate Press,
 `Mapschool. A free introduction to GEO <https://mapschool.io/>`__
 
 `Marcoux, Jacques. Geographic information systems, a use case for
-journalists. Datajournalism.com, Nov
+journalists. Datajournalism.com.
 2019 <https://datajournalism.com/read/longreads/geographic-information-systems-a-use-case-for-journalists>`__
 
 `Mason, Betty. Election maps are everywhere. Don’t let them fool you.
 NY Times.
 2020 <https://www.nytimes.com/interactive/2020/10/30/opinion/election-results-maps.html>`__
 
-`McConchie, Alan. How we watched the (U.S.) election.
+`McConchie, Alan. How we watched the [U.S.] election.
 2020 <https://hi.stamen.com/how-we-watched-the-election-at-stamen-fd3cedae7ed9>`__
 
-Monmonier, Mark. How to lie with maps. 3rd ed., University of Chicago
+Monmonier, Mark. *How to lie with maps*. 3rd ed., University of Chicago
 Press, 2018
 
 `Morphocode. The use of color in
 maps <https://morphocode.com/the-use-of-color-in-maps/>`__
 
-Muehlenhaus, Ian. Web cartography: map design for interactive and
-mobile devices. CRC Press, 2014
+Muehlenhaus, Ian. *Web cartography: map design for interactive and
+mobile devices*. CRC Press, 2014
 
 `NHS. Summary of geographical areas in
 Wales <http://www2.nphs.wales.nhs.uk:8080/PubHObservatoryProjDocs.nsf/85c50756737f79ac80256f2700534ea3/3b8079b7c790215680257e51004e0bd5/$FILE/20150422_WalesGeographies_Web.pdf>`__
@@ -538,19 +538,17 @@ Wales <http://www2.nphs.wales.nhs.uk:8080/PubHObservatoryProjDocs.nsf/85c5075673
 `ONS. All geographic codes for the UK.
 2020 <https://geoportal.statistics.gov.uk/datasets/register-of-geographic-codes-june-2020-for-the-united-kingdom-v2>`__
 
-Peterson, Michael. Online maps with APIs and webservices. Springer,
-2012
+Peterson, Michael. *Online maps with APIs and webservices*. Springer, 2012
 
 Robinson, Arthur H. The look of maps. An examination of cartographic
 design. Esri, 2010
 
-Slocum, Terry. Thematic cartography and geovisualisation. 3rd ed.
-Prentice Hall, 2010
+Slocum, Terry. *Thematic cartography and geovisualisation*. 3rd ed. Prentice Hall, 2010
 
 `Tableau. Overview of maps in
 Tableau <https://help.tableau.com/current/pro/desktop/en-us/maps_build.htm>`__
 
-`Vermeulen, Maite, de Korte and van Houtum. How maps in the media make
+`Vermeulen, Maite, de Korte & van Houtum. How maps in the media make
 us more negative about migrants. De Correspondent. September
 2020 <https://thecorrespondent.com/664/how-maps-in-the-media-make-us-more-negative-about-migrants/738023272448-bac255ba>`__
 
