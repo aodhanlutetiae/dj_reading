@@ -11,8 +11,6 @@ Basics
 AP. Data Journalism. *The Associated Press Stylebook*. 55th ed.,
 2020-22. p. 358-63
 
-`BBC Academy <https://www.bbc.co.uk/academy/en/>`__
-
 Dasgupta, Subrata. The ‘stuff’ of computing, *Computer Science. A very
 short introduction*. OUP, 2016, p. 1-12
 
@@ -165,6 +163,18 @@ Datahubs & sources
 — See this `continuing list of
 datasets <https://docs.google.com/document/d/1jwWhnAXX1ctCH7C4Q3De6Za8PV5Xo61gCfeMVOeIUTg/edit?usp=sharing>`__
 
+
+
+Digital security
+================
+
+`Committee to Protect Journalists. Digital safety kit for journalists <https://cpj.org/2019/07/digital-safety-kit-journalists/>`__
+
+`Global Cyber Alliance. Cybersecurity toolkit for journalists <https://gcatoolkit.org/journalists>`__
+
+`Rory Peck Trust. Digital security resources for freelancers <https://rorypecktrust.org/freelance-resources/digital-security/>`__
+
+`RSF. Digital security guide <https://helpdesk.rsf.org/digital-security-guide/>`__
 
 
 
@@ -377,6 +387,8 @@ guide <https://about.abc.net.au/abc-editorial/the-abc-style-guide/>`__
 `Associated Press. News values &
 principles <https://www.ap.org/about/news-values-and-principles/downloads/ap-news-values-and-principles.pdf>`__
 
+`BBC Academy <https://www.bbc.co.uk/academy/en/>`__
+
 `BBC. Editorial
 guidelines <https://www.bbc.com/editorialguidelines/guidelines>`__
 
@@ -390,6 +402,8 @@ Codebook <https://www.editorscode.org.uk/downloads/codebook/codebook-2019.pdf>`_
 
 `Guardian style
 guide <https://www.theguardian.com/guardian-observer-style-guide-a>`__
+
+`Impress. Standards code <https://www.impress.press/standards/>`__
 
 `IPSO.
 Rulings <https://www.ipso.co.uk/rulings-and-resolution-statements/>`__
