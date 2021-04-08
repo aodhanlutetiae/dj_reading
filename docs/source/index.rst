@@ -8,7 +8,7 @@ as of Spring 2021.
 Basics
 ======
 
-AP. Data Journalism. *The Associated Press Stylebook*. 55th ed.,
+Associated Press. Data Journalism. *The Associated Press Stylebook*. 55th ed.,
 2020-22. p. 358-63
 
 Dasgupta, Subrata. The ‘stuff’ of computing, *Computer Science. A very
@@ -23,7 +23,7 @@ Datajournalism.com <https://datajournalism.com/read/handbook/two>`__
 `Freeguard, Gavin. A data reading list (books, blogs, podcasts).
 2021 <https://docs.google.com/spreadsheets/d/1aM-tiyWZrxvn7frpmqjh6ObByn2y3LOIn8ZPuN1Ng5o/edit?usp=sharing>`__
 
-`GIJC conference 2019. Video
+`Global Investigative Journalism Conference 2019. Video
 playlist <https://www.youtube.com/playlist?list=PLrCL-ZiCvKYteU2XOChSkW1l7-oRHzwxV>`__
 
 Harford, Tim. Ponder your personal experience. *How to make the world
@@ -53,7 +53,7 @@ Census 2021
 
 Hutchinson, Roger. *The Butcher, the baker, the candlestick maker*. Abacus, 2017
 
-`Jack, Andrew & Giles, Chris. Academics warn census in pandemic risks distorting government grants. *Financial Times*. March 2021 <https://www.ft.com/content/f55336fc-9d89-4b43-92d1-dae18f6d950d>`__
+`Jack, Andrew & Giles, Chris. Academics warn census in pandemic risks distorting government grants. Financial Times. March 2021 <https://www.ft.com/content/f55336fc-9d89-4b43-92d1-dae18f6d950d>`__
 
 
 
@@ -92,14 +92,14 @@ Video <https://www.youtube.com/watch?v=pn6PjdGc-lw>`__
 around the world. ABC (au),
 2020 <https://www.abc.net.au/news/2020-05-13/coronavirus-numbers-worldwide-data-tracking-charts/12107500?nw=0&pfmredir=sm>`__
 
-`Chang, Kenneth. A different way to chart the spread of Coronavirus.
+`Chang, Kenneth. A different way to chart the spread of coronavirus.
 NY Times.
 2020 <https://www.nytimes.com/2020/03/20/health/coronavirus-data-logarithm-chart.html>`__
 
 `Field, Kenneth. Mapping coronavirus data responsibly. Feb
 2020 <https://www.esri.com/arcgis-blog/products/product/mapping/mapping-coronavirus-responsibly/>`__
 
-`First Draft News. Covering Coronavirus: an online course for
+`First Draft News. Covering coronavirus: an online course for
 journalists.
 2020 <https://firstdraftnews.org/latest/covering-coronavirus-an-online-course-for-journalists>`__
 
@@ -115,7 +115,7 @@ journalists.
 lessons from a pandemic. Financial Times. September
 2020 <https://www.ft.com/content/92f64ea9-3378-4ffe-9fff-318ed8e3245e>`__
 
-`Johnson, Oliver. How to read Coronavirus graphs. The Spectator.
+`Johnson, Oliver. How to read coronavirus graphs. The Spectator.
 April
 2020 <https://www.spectator.co.uk/article/how-to-read-coronavirus-graphs>`__
 
@@ -124,17 +124,17 @@ loads. Medium. March
 2020 <https://medium.com/nightingale/thirteen-things-to-visualize-about-covid-19-besides-case-loads-581fa90348dd>`__
 
 `Makulic, Amanda. Ten Considerations Before You Create Another Chart
-About COVID-19, Medium. March
+About Covid-19, Medium. March
 2020 <https://medium.com/nightingale/ten-considerations-before-you-create-another-chart-about-covid-19-27d3bd691be8>`__
 
-`Meers, Jelta, How Data Journalists Exposed the Real COVID-19 Death
+`Meers, Jelta, How Data Journalists Exposed the Real Covid-19 Death
 Toll in Brazil. GIJN, July
 2020 <https://gijn.org/2020/07/28/how-data-journalists-exposed-the-real-covid-19-death-toll-in-brazil>`__
 
-`ONS Project Cairo (overall portfolio but includes Covid 19
+`ONS Project Cairo (overall portfolio but includes Covid-19
 work) <https://onsvisual.github.io/project_cairo/index.html>`__
 
-`Philip, Rowan. How to Tackle the Global Undercount in COVID-19 Deaths:
+`Philip, Rowan. How to Tackle the Global Undercount in Covid-19 Deaths:
 Reporters Offer Tips and Techniques, GIJN, May
 2020 <https://gijn.org/2020/05/26/how-to-tackle-the-global-undercount-in-covid-19-deaths-reporters-offer-tips-and-techniques>`__
 
@@ -152,15 +152,14 @@ Video <https://media.ed.ac.uk/media/Communicating+statistics%2C+risk+and+uncerta
 and how to 'flatten the curve', Washington Post, March
 2020 <https://www.washingtonpost.com/graphics/2020/world/corona-simulator/>`__
 
-`Tableau. Covid
-hub <https://www.tableau.com/covid-19-coronavirus-data-resources>`__
+`Tableau. Covid-19 hub <https://www.tableau.com/covid-19-coronavirus-data-resources>`__
 
 
 
 Datahubs & sources
 ==================
 
-— See this `continuing list of
+— See this, our `growing list of
 datasets <https://docs.google.com/document/d/1jwWhnAXX1ctCH7C4Q3De6Za8PV5Xo61gCfeMVOeIUTg/edit?usp=sharing>`__
 
 
@@ -181,32 +180,32 @@ Digital security
 Ethics
 ======
 
-— See **Journalism** section for Codes, Guidelines and Frameworks
+— See **Journalism** section for Codes and Guidelines
 
 `Alsudais, Abdulkareem. Incorrect Data in the Widely Used Inside Airbnb
-Dataset, 2020 <https://arxiv.org/abs/2007.03019>`__
+Dataset. 2020 <https://arxiv.org/abs/2007.03019>`__
 
 Christian, Sue Ellen. Cognitive Biases and Errors as Cause—and
-Journalistic Best Practices as Effect, Journal of Mass Media Ethics,
+Journalistic Best Practices as Effect. *Journal of Mass Media Ethics*.
 28:3, 2013. p. 160-74
 
 Craig et al., To Post or Not to Post: Online Discussion of Gun Permit
 Mapping and the Development of Ethical Standards in Data Journalism.
-Journalism & Mass Communication Quarterly, January 2017
+*Journalism & Mass Communication Quarterly*, January 2017
 
 `Craig et al. Ethical questions in data journalism and the power of
 online discussion.
 Datajournalism.com <https://datajournalism.com/read/longreads/ethical-questions-in-data-journalism-and-the-power-of-online-discussion>`__
 
-Criado-Perez, Caroline. Invisible women: data bias in a world designed
-for men. Abrams, 2019
+Criado-Perez, Caroline. *Invisible women: data bias in a world designed
+for men*. Abrams, 2019
 
 Gold, Zachardy & Latonero, Mark. Robots Welcome? Ethical and Legal
-Considerations for Web Crawling and Scraping, Washington Journal of
-Law, Technology & Arts, 13/3, 2018, p. 275
+Considerations for Web Crawling and Scraping. *Washington Journal of
+Law, Technology & Arts*. 13/3, 2018, p. 275
 
-Heydt, Michael. Scraping. Code of conduct’, Python web scraping
-cookbook, Packt, 2018
+Heydt, Michael. Scraping. Code of conduct. *Python web scraping
+cookbook*, Packt, 2018
 
 `Knight Center. Ethics and equity in data journalism. Online course.
 2020 <https://www.journalismcourses.org/course/equity-ethics-in-data-journalism-hands-on-approaches-to-getting-your-data-right-2/>`__
@@ -224,14 +223,14 @@ with Python. 2nd ed., 2018
 profiles, Sept
 2019 <https://www.reuters.com/article/us-microsoft-linkedin-profiles/microsofts-linkedin-loses-appeal-over-access-to-user-profiles-idUSKCN1VU21W>`__
 
-Rogers, Richard. The API and the ethics turn. Doing Digital Methods.
+Rogers, Richard. The API and the ethics turn. *Doing Digital Methods*.
 Sage, 2019, p. 206-09
 
 `Scrapinghub. The Web Scraping Best Practices
 Guide <https://scrapinghub.com/guides/web-scraping-best-practices>`__
 
 `Sellars, Andrew. Twenty Years of Web Scraping and the Computer Fraud
-and Abuse Act, Boston University Journal of Science & Technology Law,
+and Abuse Act. Boston University Journal of Science & Technology Law.
 24, 2018 <https://scholarship.law.bu.edu/faculty_scholarship/465>`__
 
 `Shiab, Nael. On the ethics of web scraping. GIJN,
@@ -255,16 +254,15 @@ Excel & Sheets
 `Berkeley Media Lab. A quick and easy guide to
 spreadsheets <https://multimedia.journalism.berkeley.edu/tutorials/spreadsheets/>`__
 
-`Bradshaw, Paul. Finding stories with spreadsheets. Leanpub,
-2016 <https://leanpub.com/spreadsheetstories>`__
+Bradshaw, Paul. *Finding stories with spreadsheets*. Leanpub, 2016
 
 `Groeger, Lena. Spreadsheets
 lab <http://lenagroeger.s3.amazonaws.com/talks/orlando/exercises/Spreadsheets/spreadsheetslab.html>`__
 
-`Houston, Brant. Spreadsheets for journalism. Datajournalism.com,
+`Houston, Brant. Spreadsheets for journalism. Datajournalism.com.
 2019 <https://datajournalism.com/read/longreads/spreadsheets-for-journalism>`__
 
-`Houston, Brant. Let the spreadsheet do the math,
+`Houston, Brant. Let the spreadsheet do the math.
 2019 <https://gijn.org/2019/05/21/eight-simple-ways-to-let-the-spreadsheet-do-the-math-so-you-can-focus-on-the-story/>`__
 
 `NY Times. Data course spreadsheets
@@ -286,18 +284,18 @@ Journalism.co.uk,
 2012 <https://www.journalism.co.uk/skills/how-to-submit-a-freedom-of-information-request/s7/a548038/>`__
 
 `Basnett, Guy & McNamara, Paul. FOI at ten. How all journalists can use
-the freedom of information act to find great exclusives, Press
-Gazette,
+the freedom of information act to find great exclusives. Press
+Gazette.
 2015 <https://www.pressgazette.co.uk/foi-10-how-all-journalists-can-use-freedom-information-act-find-great-exclusives/>`__
 
-`BBC Academy. Freedom of Information requests,
+`BBC Academy. Freedom of Information requests.
 2017 <https://www.bbc.co.uk/academy/en/articles/art20140226095548310>`__
 
-Brooke, Heather. Your right to know. A citizen’s guide to the Freedom
-of Information Act. 2nd ed., Pluto, 2007
+Brooke, Heather. *Your right to know. A citizen’s guide to the Freedom
+of Information Act*. 2nd ed., Pluto, 2007
 
-Burgess, Matthew. Freedom of Information: A Practical Guide for UK
-Journalists. Routledge, 2015
+Burgess, Matthew. *Freedom of Information: A Practical Guide for UK
+Journalists*. Routledge, 2015
 
 `Burgess, Matthew. FOI directory <https://foi.directory/>`__
 
@@ -312,29 +310,28 @@ wrong <https://www.theguardian.com/media/2015/oct/30/freedom-of-information-act-
 `Campaign for Freedom of Information & Wood, Steve. UK Freedom of
 Information blog <http://foia.blogspot.com/>`__
 
-Dodd, Mike & Hanna, Mark. The Freedom of Information Act 2000, in
-McNae’s Essential Law for Journalists, 25th ed., 2020, p. 401-09
+Dodd, Mike & Hanna, Mark. The Freedom of Information Act 2000. *McNae’s Essential Law for Journalists*, 25th ed., 2020, p. 401-09
 
 `Gibbons, Paul. The Freedom of Information Officer. Open Data
-Institute. 40' Video <https://www.youtube.com/watch?v=pP6pHg-CWC4>`__
+Institute. 2019. 40' Video <https://www.youtube.com/watch?v=pP6pHg-CWC4>`__
 
 `GIJN. FOIA this! Article series <https://gijn.org/?s=foia+this>`__
 
 `Geoghegan, Peter. FOI. London Review of Books. 43/4,
 2021 <https://www.lrb.co.uk/the-paper/v43/n03/peter-geoghegan/short-cuts>`__
 
-`Goldberg, Kevin. FOI resources. GIJN,
+`Goldberg, Kevin. FOI resources. GIJN.
 2019 <https://drive.google.com/file/d/1VG1p1P0diz89ea64yll-GAo9mXesXCxH/view>`__
 
-Harris, Kelly, Metcalfe, Eric & Wadham, John. Blackstone’s guide to the
-Freedom of Information Act 2000. 5th ed., OUP, 2013
+Harris, Kelly, Metcalfe, Eric & Wadham, John. *Blackstone’s guide to the
+Freedom of Information Act 2000*. 5th ed., OUP, 2013
 
 `Higgerson, David. FOI
 ideas <https://davidhiggerson.wordpress.com/2016/03/27/foi-friday-10-foi-ideas-for-journalists-is-back/>`__
 
 `Information Commissioner’s Office. Guide to authorities that respond
 to
-FOI <https://ico.org.uk/media/for-organisations/guide-to-freedom-of-information-4-9.pdf>`__
+FOI. 2017 <https://ico.org.uk/media/for-organisations/guide-to-freedom-of-information-4-9.pdf>`__
 
 `Information Commissioner’s Office. How to get information from a
 public body (for
@@ -348,20 +345,20 @@ organisations) <https://ico.org.uk/for-organisations/guide-to-freedom-of-informa
 access government
 information <https://www.legalleaks.info/wp-content/uploads/2018/06/Legal_Leaks_English_International_Version.pdf>`__
 
-`McIntosh, Toby. Walking the FOI beat. Tipsheet. GIJN,
+`McIntosh, Toby. Walking the FOI beat. Tipsheet. GIJN.
 2019 <https://drive.google.com/file/d/1D41ZBiOPWLR9_8E7G-5lugLFJg3BQdJ4/view>`__
 
-`Miller, Claire, A great big list of FOI ideas, Jan
+`Miller, Claire, A great big list of FOI ideas. Jan
 2013 <http://clairemiller.net/blog/2013/01/a-great-big-list-of-foi-ideas/>`__
 
-Morrison, James. Freedom of Information, Essential public affairs for
-journalists. OUP, 2017, p. 468-85
+Morrison, James. Freedom of Information. *Essential public affairs for
+journalists*. OUP, 2017, p. 468-85
 
 `Reid, Alastair. Ten years of FOI. Resources and tips for journalists.
 Journalism.co.uk.
 2015 <https://www.journalism.co.uk/news/10-years-of-foi-resources-and-tips-for-journalists/s2/a563661/>`__
 
-`Rosenbaum, Martin. 10 things we found out because of FOI, BBC Online.
+`Rosenbaum, Martin. 10 things we found out because of FOI. BBC Online.
 2015 <https://www.bbc.co.uk/news/magazine-30645383>`__
 
 `TBIJ. Bureau launches action over hidden council finances. October
@@ -642,8 +639,8 @@ numbers*. Constable, 2019
 `Rosling, Hans. The joy of stats. 1h
 Video <https://www.gapminder.org/videos/the-joy-of-stats/>`__
 
-Rowntree, Derek. Statistics without tears. An introduction for
-non-mathematicians. Penguin, 2018
+Rowntree, Derek. *Statistics without tears. An introduction for
+non-mathematicians*. Penguin, 2018
 
 `Sense About Science. Making sense of statistics. What statistics tell
 you and how to ask the right questions. Sense About Science.
@@ -714,15 +711,18 @@ Datajournalism.com <https://datajournalism.com/read/newsletters/apis-for-journal
 Storytelling with data
 ======================
 
+`Blinderman, Ilia. How to make dope shit. Part 3 Storytelling. The
+Pudding <https://pudding.cool/process/how-to-make-dope-shit-part-3/>`__
+
 `Bradshaw, Paul. Here are the angles journalists use most often to tell
 stories in data.
 2020 <https://onlinejournalismblog.com/2020/08/11/here-are-the-7-types-of-stories-most-often-found-in-data/>`__
 
 `Bradshaw, Paul. It’s not all about numbers: six ways data can give you
 a story
-lead <https://onlinejournalismblog.com/2020/02/05/its-not-all-about-numbers-6-ways-that-data-can-give-you-a-story-lead/>`__
+lead. 2020 <https://onlinejournalismblog.com/2020/02/05/its-not-all-about-numbers-6-ways-that-data-can-give-you-a-story-lead/>`__
 
-`Bradshaw, Paul. 7 Story structures. GIJN.
+`Bradshaw, Paul. Seven story structures. GIJN.
 2019 <https://gijn.org/2019/07/22/get-crafty-7-story-structures-to-try-out-in-your-next-investigation>`__
 
 `Bradshaw, Paul. From relationships to ranking. Angles for your next
@@ -731,7 +731,7 @@ data story. GIJN.
 
 `Flowers, Andrew. The six types of data journalism stories. 48’ Video (from 10’). 2017 <https://www.youtube.com/watch?v=4zLo12JdeOA>`__
 
-Gottschall, Jonathan. The storytelling animal. First Mariner, 2013
+Gottschall, Jonathan. *The storytelling animal*. First Mariner, 2013
 
 `NY Times, Finding stories in data:
 tipsheets <https://drive.google.com/drive/folders/1FOLQKiQdVX2Wr5Z2YXw5beI6S9ECATg0?usp=sharing>`__
@@ -739,16 +739,13 @@ tipsheets <https://drive.google.com/drive/folders/1FOLQKiQdVX2Wr5Z2YXw5beI6S9ECA
 `ONS. House style
 guide <https://style.ons.gov.uk/category/house-style/>`__
 
-Paulos, John Allen. Once upon a number. The hidden mathematical logic
-of stories. Penguin, 1998
+Paulos, John Allen. *Once upon a number. The hidden mathematical logic
+of stories*. Penguin, 1998
 
-Storr, Will. The Science of Storytelling. William Collins, 2019
+Storr, Will. *The Science of Storytelling*. William Collins, 2019
 
 `Thomas, Amber. How to go from idea, to data, to story. The Pudding.
 2020 <https://pudding.cool/process/pivot-continue-down/>`__
-
-`Thomas, Amber. How to make dope shit. Part 3 Storytelling. The
-Pudding <https://pudding.cool/process/how-to-make-dope-shit-part-3/>`__
 
 `Webster, Mary-Jo. Bringing the power of data to deadline stories. Datajournalism.com. 2020 <https://datajournalism.com/read/longreads/how-to-bring-the-power-of-data>`__
 
@@ -757,7 +754,7 @@ Pudding <https://pudding.cool/process/how-to-make-dope-shit-part-3/>`__
 Visualisation
 =============
 
-Assorted guides on what kind of graph to use:
+Guides to what kind of graph to use:
 
 -  `ft-interactive.github.io/visual-vocabulary/ <http://ft-interactive.github.io/visual-vocabulary/>`__
 -  `flowingdata.com/chart-types <https://flowingdata.com/chart-types>`__
@@ -771,15 +768,15 @@ Assorted guides on what kind of graph to use:
 `Blinderman, Ilia. How to make dope shit. Part 2: Design. The
 Pudding <https://pudding.cool/process/how-to-make-dope-shit-part-2/>`__
 
-Cairo, Alberto. The functional art. New Rider, 2013
+Cairo, Alberto. *The functional art*. New Rider, 2013
 
-Cairo, Alberto. The truthful art. New Rider, 2016
+Cairo, Alberto. *The truthful art*. New Rider, 2016
 
 `Chalabi, Mona.
 Instagram <https://www.instagram.com/monachalabi/?hl=en>`__
 
 `Engebretsen, Martin & Kennedy, Helen. Data Visualisation in
-Society <https://www.jstor.org/stable/j.ctvzgb8c7>`__
+Society. 2020 <https://www.jstor.org/stable/j.ctvzgb8c7>`__
 
 `House of Commons. Library guide to designing effective
 charts <https://researchbriefings.files.parliament.uk/documents/SN05073/SN05073.pdf>`__
@@ -788,22 +785,19 @@ charts <https://researchbriefings.files.parliament.uk/documents/SN05073/SN05073.
 visualisation with free tools. Online course.
 2019 <https://live-journalismcourses.pantheonsite.io/course/data-journalism-and-visualization-with-free-tools/>`__
 
-`Makeover Monday on youtube (live walkthroughs) <https://www.youtube.com/hashtag/makeovermonday>`__
-
 `Matejka, Justin & Fitzmaurice, George. Same Stats, Different Graphs:
 Generating Datasets with Varied Appearance and Identical Statistics
 through Simulated Annealing, CHI,
 2017 <https://www.researchgate.net/publication/316652618_Same_Stats_Different_Graphs_Generating_Datasets_with_Varied_Appearance_and_Identical_Statistics_through_Simulated_Annealing>`__
 
-`Office for National Statistics.
-Styleguide <https://style.ons.gov.uk/category/data-visualisation/>`__
+`ONS. Styleguide <https://style.ons.gov.uk/category/data-visualisation/>`__
 
 `Levontin, Polina & Walton, Jo Lindsay, Visualising Uncertainty. Sad
 Press,
 2020 <https://spiral.imperial.ac.uk/bitstream/10044/1/80424/2/VUI_221219.pdf>`__
 
-`Posavec, Stefanie & Lupi, Giorgia. Dear Data. Particular Books,
-2016 <http://www.dear-data.com/theproject>`__
+Posavec, Stefanie & Lupi, Giorgia. *Dear Data*. Particular Books,
+2016 `Project <http://www.dear-data.com/theproject>`__
 
 `Rost, Lisa Charlotte. How to choose more beautiful colors for your data
 visualisation. Blogpost, Datawrapper,
@@ -827,8 +821,8 @@ Tableau resources
    gallery <https://public.tableau.com/en-gb/gallery/?tab=viz-of-the-day&type=viz-of-the-day>`__
 -  Makeover Monday: `data <https://www.makeovermonday.co.uk/data/>`__ &
    `gallery <https://www.makeovermonday.co.uk/gallery/>`__ &
-   `forum <https://data.world/makeovermonday/2017-w-52-christmas-trees-sold-in-the-us/discuss/2017-w52-christmas-trees-sold-in-the-us/g4zdsyjs>`__
+   `forum <https://data.world/makeovermonday/2017-w-52-christmas-trees-sold-in-the-us/discuss/2017-w52-christmas-trees-sold-in-the-us/g4zdsyjs>`__ & `youtube (live walkthroughs) <https://www.youtube.com/hashtag/makeovermonday>`__
 -  `BBC Style guide for
    Tableau <https://public.tableau.com/profile/bbc.audiences#!/vizhome/BBCAudiencesTableauStyleGuide/Hello>`__
 
-Wilkinson, Leland. The grammar of graphics. Springer, 1999
+Wilkinson, Leland. *The grammar of graphics*. Springer, 1999
