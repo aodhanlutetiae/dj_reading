@@ -495,11 +495,14 @@ with `code <https://github.com/BuzzFeedNews/2017-08-spy-plane-finder>`__
 `Google News Initiative. Introduction to machine learning
 <https://newsinitiative.withgoogle.com/training/course/introduction-to-machine-learning>`__
 
+`ICIJ. Datashare (tool for sorting large amounts of documents)
+<https://icij.gitbook.io/datashare/>`__
+
 `Merrill, Jeremy B. Chamber of Secrets: Teaching a Machine What Congress Cares About. Propublica. Oct 2017
 <https://www.propublica.org/nerds/teaching-a-machine-what-congress-cares-about>`__
 
-'Merrill, Jeremy B. Searching Bill de Blasio's Emails with the Universal Sentence Encoder. Quartz
-<https://github.com/Quartz/aistudio-searching-data-dumps-with-use>'__
+`Merrill, Jeremy B. Searching Bill de Blasio's Emails with the Universal Sentence Encoder. Quartz
+<https://github.com/Quartz/aistudio-searching-data-dumps-with-use>`__
 
 `Roberts, Brandon. Dissecting a Machine Learning Powered Investigation: Uncovering local property
 tax evasion using machine learning and statistical modeling. Artificial Informer. April 2019
@@ -508,7 +511,7 @@ https://artificialinformer.com/issue-one/dissecting-a-machine-learning-powered-i
 `Ronderos, Maria Teresa. How Innovative Newsrooms Are Using Artificial Intelligence. GIJN, January 2019
 <https://gijn.org/2019/01/22/artificial-intelligence-demands-genuine-journalism/>`__
 
-`Soma, Jonathan. Practical data science for journalists
+`Soma, Jonathan. Practical data science for journalists (lots of techniques and case studies for journalists)
 <https://investigate.ai/>`__
 
 `Stray, Jonathan. Beyond the Hype: Using AI Effectively in Investigative Journalism. GIJN, September 2019
