@@ -3,7 +3,7 @@ READING LIST FOR DATA JOURNALISM
 
 This is the reading list for data journalism and computational journalism classes at
 `Jomec <https://www.cardiff.ac.uk/journalism-media-and-culture>`__ (Cardiff University) for undergraduate and postgraduate journalism
-students. Some references have a link to the Cardiff University library system that is only available
+students. Some references have a link to the Cardiff University library that is only available
 to registered students but most of the works below are online and the others are generally available from book dealers.
 
 Basics
@@ -468,6 +468,60 @@ repository <https://docs.github.com/en/free-pro-team@latest/github/creating-clon
 
 `Lorentzen, Christian. I wasn’t just a brain in a jar. Review of Edward
 Snowden’s Permanent Record. London Review of Books. 41/18, Sept 2019 <https://www.lrb.co.uk/the-paper/v41/n18/christian-lorentzen/i-wasn-t-just-a-brain-in-a-jar>`__
+
+
+
+Machine Learning
+================
+
+`Aldhous. Peter. We Trained A Computer To Search For Hidden Spy Planes: This Is What It Found. Buzzfeed. 2017
+<https://www.buzzfeednews.com/article/peteraldhous/hidden-spy-planes>`__
+with `code <https://github.com/BuzzFeedNews/2017-08-spy-plane-finder>`__
+
+`Beckett, Charlie. New powers, new responsibilities: A global survey of journalism and artificial intelligence. 2019
+<https://blogs.lse.ac.uk/polis/2019/11/18/new-powers-new-responsibilities/>`__
+
+`Bradshaw, Paul. Ten ways AI can be used for investigations (slides). 2019
+<https://www.slideshare.net/onlinejournalist/10-ways-ai-can-be-used-for-investigations>`__
+
+`Cheung, Paul. Journalism’s superfood: AI? <https://knightfoundation.org/articles/journalisms-superfood-ai/>`__
+
+`DataFlair. Detecting fake news with python
+<https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/>`__
+
+`Deepnews. Article scorer for journalistic quality
+<https://www.deepnews.ai/about/technology/>`__
+
+`Google News Initiative. Introduction to machine learning
+<https://newsinitiative.withgoogle.com/training/course/introduction-to-machine-learning>`__
+
+`Merrill, Jeremy B. Chamber of Secrets: Teaching a Machine What Congress Cares About. Propublica. Oct 2017
+<https://www.propublica.org/nerds/teaching-a-machine-what-congress-cares-about>`__
+
+'Merrill, Jeremy B. Searching Bill de Blasio's Emails with the Universal Sentence Encoder. Quartz
+<https://github.com/Quartz/aistudio-searching-data-dumps-with-use>'__
+
+`Roberts, Brandon. Dissecting a Machine Learning Powered Investigation: Uncovering local property
+tax evasion using machine learning and statistical modeling. Artificial Informer. April 2019
+https://artificialinformer.com/issue-one/dissecting-a-machine-learning-powered-investigation.html`__
+
+`Ronderos, Maria Teresa. How Innovative Newsrooms Are Using Artificial Intelligence. GIJN, January 2019
+<https://gijn.org/2019/01/22/artificial-intelligence-demands-genuine-journalism/>`__
+
+`Soma, Jonathan. Practical data science for journalists
+<https://investigate.ai/>`__
+
+`Stray, Jonathan. Beyond the Hype: Using AI Effectively in Investigative Journalism. GIJN, September 2019
+<https://gijn.org/2019/09/09/beyond-the-hype-using-ai-effectively-in-investigative-journalism/>`__
+
+`Stray, Jonathan. Making Artificial Intelligence Work for Investigative Journalism. Digital Journalism. July 2019
+<http://jonathanstray.com/papers/Making%20Artificial%20Intelligence%20Work%20for%20Investigative%20Journalism.pdf>`__
+
+`Quartz. Helicopters circling (code)
+<https://github.com/Quartz/aistudio-copterbot-images>`__
+
+`Wu, Floris. How Machine Learning Can (And Can’t) Help Journalists. March 2019
+<https://gijn.org/2019/03/19/how-machine-learning-can-and-cant-help-journalists/>`__
 
 
 
