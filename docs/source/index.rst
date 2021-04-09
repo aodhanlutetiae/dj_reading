@@ -2,11 +2,9 @@ READING LIST FOR DATA JOURNALISM
 ================================
 
 This is the reading list for data journalism and computational journalism classes at
-`Jomec <https://www.cardiff.ac.uk/journalism-media-and-culture>`__ (Cardiff University)
-as of the middle of 2021, for undergraduate and postgraduate journalism
+`Jomec <https://www.cardiff.ac.uk/journalism-media-and-culture>`__ (Cardiff University) for undergraduate and postgraduate journalism
 students. Some references have a link to the Cardiff University library system that is only available
-to registered students but most of the works below are online and the others are available from book dealers.
-
+to registered students but most of the works below are online and the others are generally available from book dealers.
 
 Basics
 ======
@@ -155,8 +153,8 @@ and how to 'flatten the curve'. Washington Post. March
 
 
 
-Data sources & data hubs
-========================
+Data sources
+============
 
 — See this, our `growing list of
 datasets <https://docs.google.com/document/d/1jwWhnAXX1ctCH7C4Q3De6Za8PV5Xo61gCfeMVOeIUTg/edit?usp=sharing>`__
@@ -172,7 +170,7 @@ Digital security
 
 `Rory Peck Trust. Digital security resources for freelancers <https://rorypecktrust.org/freelance-resources/digital-security/>`__
 
-`RSF. Digital security guide <https://helpdesk.rsf.org/digital-security-guide/>`__
+`Reporters Without Borders. Digital security guide <https://helpdesk.rsf.org/digital-security-guide/>`__
 
 
 
@@ -212,7 +210,7 @@ cookbook*, Packt, 2018
 Marconi, Francesco. *Newsmakers: Artificial Intelligence and the Future
 of Journalism*. Columbia University Press, 2020
 
-Mitchell, Ryan. Legalities & ethics of web scraping. *Web scraping with Python*. 2nd ed., 2018
+Mitchell, Ryan. Legalities & ethics of web scraping. *Web scraping with Python*. O'Reilly, 2nd ed., 2018
 
 `NPR. Did George Floyd die or was he murdered?
 2020 <https://www.npr.org/sections/publiceditor/2020/06/04/868969745/did-george-floyd-die-or-was-he-murdered-one-of-many-ethics-questions-npr-must-an?t=1610277517399>`__
@@ -224,8 +222,7 @@ profiles, Sept
 Rogers, Richard. The API and the ethics turn. *Doing Digital Methods*.
 Sage, 2019, p. 206-09
 
-`Scrapinghub. The Web Scraping Best Practices
-Guide <https://scrapinghub.com/guides/web-scraping-best-practices>`__
+`Scrapinghub. Web Scraping Best Practices Guide <https://scrapinghub.com/guides/web-scraping-best-practices>`__
 
 `Sellars, Andrew. Twenty years of web scraping and the Computer Fraud
 and Abuse Act. Boston University Journal of Science & Technology Law.
@@ -238,7 +235,7 @@ and Abuse Act. Boston University Journal of Science & Technology Law.
 claims. Wired,
 2009 <https://www.wired.com/2009/12/netflix-privacy-lawsuit/>`__
 
-`Stone, Deborah. The Ethics of Counting. James Madison Award Lecture.
+`Stone, Deborah. The ethics of counting. James Madison Award Lecture.
 2017 <https://www.cambridge.org/core/services/aop-cambridge-core/content/view/6EB60C0EAB17A50F89038721F3379A9A/S1049096517001767a.pdf/2017_james_madison_award_lecture_the_ethics_of_counting.pdf>`__
 
 `Velotio. Scraping guidelines & best practices <https://www.velotio.com/engineering-blog/web-scraping-introduction-best-practices-caveats>`__
@@ -477,9 +474,6 @@ Snowden’s Permanent Record. London Review of Books. 41/18, Sept 2019 <https://
 Mapping
 =======
 
-`Bugnion, Pascal. Jupyter-gmaps: embedding google maps in notebooks.
-2016 <https://jupyter-gmaps.readthedocs.io/en/latest/tutorial.html>`__
-
 Cutts, Andrew. *QGIS quick start guide*. Packt, 2019
 
 `Datawrapper. Walkthrough for live choropleth
@@ -492,10 +486,9 @@ map <https://academy.datawrapper.de/article/236-how-to-create-a-live-updating-sy
 with data. Medium,
 2020 <https://medium.com/nightingale/sketching-the-world-an-icebreaker-to-working-with-data-de8df5e0c21a>`__
 
-`Dodge, Martin, Kitchin, Rob & Perkins, Chris. Thinking about maps,
-Rethinking Maps. New Frontiers in Cartographic Theory. Routledge,
-2009, p.
-1-25 <https://personalpages.manchester.ac.uk/staff/m.dodge/rethinking_maps_introduction_pageproof.pdf>`__
+`Dodge, Martin, Kitchin, Rob & Perkins, Chris. Thinking about maps.
+Rethinking Maps: New Frontiers in Cartographic Theory. Routledge,
+2009, p. 1-25 <https://personalpages.manchester.ac.uk/staff/m.dodge/rethinking_maps_introduction_pageproof.pdf>`__
 
 `Ericson, Matthew. When maps shouldn’t be maps.
 2011 <http://www.ericson.net/content/2011/10/when-maps-shouldnt-be-maps/>`__
@@ -504,7 +497,7 @@ Rethinking Maps. New Frontiers in Cartographic Theory. Routledge,
 2016 <https://communityhub.esriuk.com/geoxchange/2016/11/1/us-election-2016-battle-of-the-maps>`__
 
 `Field, Kenneth & Dorling, Danny. UK election cartography.
-International Journal of cartography. 2/2,
+International journal of cartography. 2/2,
 2016 <https://www.geog.ox.ac.uk/research/transformations/gis/papers/2017/UK_election_cartography.pdf>`__
 
 `Field, Kenneth. Thematic map
@@ -723,9 +716,6 @@ OSINT
 `Ahmad, Mohammed Idriss. Bellingcat and how open source reinvented journalism. The New York Review of Books. June 2019
 <https://www.nybooks.com/daily/2019/06/10/bellingcat-and-how-open-source-reinvented-investigative-journalism/>`__
 
-`Baack, Stefan. Data Journalism’s Entanglements with Civic Tech. The Data Journalism Handbook 2.
-<https://datajournalism.com/read/handbook/two/organising-data-journalism/data-journalisms-entanglements-with-civic-tech>`__
-
 Bazzell, Michael. *Open Source Intelligence Techniques*. Inteltechniques. 8th ed., 2021
 
 `Berkeley Law Human Rights Center. Berkeley Protocol on Digital Open Source Investigations. Berkeley & UN, 2020
@@ -791,7 +781,7 @@ Datajournalism.com <https://datajournalism.com/read/newsletters/apis-for-journal
 Storytelling with data
 ======================
 
-`Blinderman, Ilia. How to make dope shit. Part 3 Storytelling. The
+`Blinderman, Ilia. How to make dope shit: Part 3 Storytelling. The
 Pudding <https://pudding.cool/process/how-to-make-dope-shit-part-3/>`__
 
 `Bradshaw, Paul. Here are the angles journalists use most often to tell
@@ -805,7 +795,7 @@ lead. 2020 <https://onlinejournalismblog.com/2020/02/05/its-not-all-about-number
 `Bradshaw, Paul. Seven story structures. GIJN.
 2019 <https://gijn.org/2019/07/22/get-crafty-7-story-structures-to-try-out-in-your-next-investigation>`__
 
-`Bradshaw, Paul. From relationships to ranking. Angles for your next
+`Bradshaw, Paul. From relationships to ranking: angles for your next
 data story. GIJN.
 2020 <https://gijn.org/2020/08/18/from-relationships-to-ranking-angles-for-your-next-data-story/>`__
 
@@ -819,10 +809,10 @@ tipsheets <https://drive.google.com/drive/folders/1FOLQKiQdVX2Wr5Z2YXw5beI6S9ECA
 `ONS. House style
 guide <https://style.ons.gov.uk/category/house-style/>`__
 
-Paulos, John Allen. *Once upon a number. The hidden mathematical logic
+Paulos, John Allen. *Once upon a number: The hidden mathematical logic
 of stories*. Penguin, 1998
 
-Storr, Will. *The Science of Storytelling*. William Collins, 2019
+Storr, Will. *The science of storytelling*. William Collins, 2019
 
 `Thomas, Amber. How to go from idea, to data, to story. The Pudding.
 2020 <https://pudding.cool/process/pivot-continue-down/>`__
