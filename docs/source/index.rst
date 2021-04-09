@@ -1,9 +1,9 @@
 READING LIST FOR DATA JOURNALISM
 ================================
 
-This is the reading list for data journalism and computational journalism courses at
+This is the reading list for data journalism and computational journalism classes at
 `Jomec <https://www.cardiff.ac.uk/journalism-media-and-culture>`__ (Cardiff University)
-as of the middle of 2021 and are assigned to undergraduate and postgraduate journalism
+as of the middle of 2021, for undergraduate and postgraduate journalism
 students. Some references have a link to the Cardiff University library system that is only available
 to registered students but most of the works below are online and the others are available from book dealers.
 
@@ -39,7 +39,7 @@ Press, 2020
 playlist <https://media.journalismfestival.com/programme/2019/category/data-journalism-school>`__
 
 Meyer, Philip. The Journalism We Need. *Precision Journalism*.
-Rowman & Littlefield, 1973, 2002, 4th ed. p. 1-17
+Rowman & Littlefield, 1973, 2002, 4th ed., p. 1-17
 
 `Pilhofer, Aron. Getting started with datajournalism. 2017. 40'
 Video <https://www.youtube.com/watch?v=DYzDnufwHNE>`__
@@ -212,7 +212,7 @@ cookbook*, Packt, 2018
 Marconi, Francesco. *Newsmakers: Artificial Intelligence and the Future
 of Journalism*. Columbia University Press, 2020
 
-Mitchell, Ryan. Legalities & ethics of web scraping. *Web scraping with Python*. 2nd ed. 2018
+Mitchell, Ryan. Legalities & ethics of web scraping. *Web scraping with Python*. 2nd ed., 2018
 
 `NPR. Did George Floyd die or was he murdered?
 2020 <https://www.npr.org/sections/publiceditor/2020/06/04/868969745/did-george-floyd-die-or-was-he-murdered-one-of-many-ethics-questions-npr-must-an?t=1610277517399>`__
@@ -557,7 +557,7 @@ Wales <http://www2.nphs.wales.nhs.uk:8080/PubHObservatoryProjDocs.nsf/85c5075673
 Robinson, Arthur H. *The look of maps. An examination of cartographic
 design*. Esri press classics, 1952; 2010
 
-Slocum, Terry et al. *Thematic cartography and geovisualisation*. 3rd ed. Prentice Hall, 2010
+Slocum, Terry et al. *Thematic cartography and geovisualisation*. 3rd ed., Prentice Hall, 2010
 
 `Tableau. Overview of maps in
 Tableau <https://help.tableau.com/current/pro/desktop/en-us/maps_build.htm>`__
@@ -607,8 +607,8 @@ Tools:
 `Romano, Tricia. In Seattle art world, women run the show. The Seattle Times. 2016
 <https://www.seattletimes.com/entertainment/visual-arts/in-seattle-art-world-women-run-the-show/>`__
 
-`Wild, Johnna. Digital investigations for journalists: How to follow the digital trail of people and entities.
-Module 4: Network analysis <https://journalismcourses.org/course/digital-investigations-for-journalists_self/>`__
+`Wild, Johanna. Digital investigations for journalists: How to follow the digital trail of people and entities.
+Module 4: Network analysis. Knight Center. 2020 <https://journalismcourses.org/course/digital-investigations-for-journalists_self/>`__
 
 
 
@@ -624,8 +624,7 @@ through a world of numbers*. Profile, 2008
 `Cohen, Sarah. Numbers in the Newsroom: Using Math and Statistics in
 News, 2nd ed., IRE, 2014 <https://www.ire.org/product/numbers-in-the-newsroom-using-math-and-statistics-in-news-second-edition-e-version/>`__
 
-Cohn, Victor & Cope, Lewis. *News and numbers*. Wiley-Blackwell, 3rd ed.
-2012
+Cohn, Victor & Cope, Lewis. *News and numbers*. Wiley-Blackwell, 3rd ed., 2012
 
 `Cushion, Stephen, Lewis, Justin & Callaghan, Robert. Data Journalism,
 Impartiality And Statistical Claims. Towards more independent scrutiny
@@ -727,7 +726,7 @@ OSINT
 `Baack, Stefan. Data Journalism’s Entanglements with Civic Tech. The Data Journalism Handbook 2.
 <https://datajournalism.com/read/handbook/two/organising-data-journalism/data-journalisms-entanglements-with-civic-tech>`__
 
-Bazzell, Michael. *Open Source Intelligence Techniques*. Inteltechniques. 8th ed. 2021
+Bazzell, Michael. *Open Source Intelligence Techniques*. Inteltechniques. 8th ed., 2021
 
 `Berkeley Law Human Rights Center. Berkeley Protocol on Digital Open Source Investigations. Berkeley & UN, 2020
 <https://www.law.berkeley.edu/article/human-rights-center-berkeley-protocol-social-media-evidence-war-crimes-nuremberg/>`__
@@ -765,12 +764,12 @@ Bradshaw, Paul. *Scraping for Journalists*. Leanpub, 2017
 Heydt, Michael. *Python web scraping cookbook*. Packt, 2018
 
 Jarmul, Katherine & Lawson, Richard. *Python web scraping: fetching data
-from the web*. Packt, 2nd ed. 2017
+from the web*. Packt, 2nd ed., 2017
 
 Kouzis-Loukas, Dimitrios. *Learning Scrapy: learn the art of efficient
 web scraping and crawling with Python*. Packt, 2016
 
-Mitchell, Ryan. *Web scraping with Python*. O'Reilly, 2nd ed. 2018
+Mitchell, Ryan. *Web scraping with Python*. O'Reilly, 2nd ed., 2018
 
 `Ni, Daniel. Five Tips for web scraping without getting booted.
 2019 <https://www.scraperapi.com/blog/5-tips-for-web-scraping/>`__
@@ -884,7 +883,7 @@ visualisation. Blogpost, Datawrapper,
 `Sunlight Foundation. Dataviz style
 guidelines <https://github.com/amycesal/dataviz-style-guide/blob/master/Sunlight-StyleGuide-DataViz.pdf>`__
 
-Tufte, Edward. *The visual display of quantitative information*. 2nd ed.
+Tufte, Edward. *The visual display of quantitative information*. 2nd ed.,
 Graphics Press, 2001
 
 Tufte, Edward. *Envisioning information*. Graphics Press, 1990
