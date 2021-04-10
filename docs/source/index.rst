@@ -42,6 +42,8 @@ Rowman & Littlefield, 1973, 2002, 4th ed., p. 1-17
 `Pilhofer, Aron. Getting started with datajournalism. 2017. 40'
 Video <https://www.youtube.com/watch?v=DYzDnufwHNE>`__
 
+`Quartz. Bad data <Quartz/bad-data-guide: An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them>`__
+
 
 
 Census 2021
@@ -189,6 +191,7 @@ Journalistic Best Practices as Effect. *Journal of Mass Media Ethics*.
 Craig et al., To Post or Not to Post: Online Discussion of Gun Permit
 Mapping and the Development of Ethical Standards in Data Journalism.
 *Journalism & Mass Communication Quarterly*, January 2017
+`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_gale_infotracacademiconefile_A487432320>`__
 
 `Craig et al. Ethical questions in data journalism and the power of
 online discussion.
@@ -200,6 +203,7 @@ for men*. Abrams, 2019
 Gold, Zachardy & Latonero, Mark. Robots Welcome? Ethical and Legal
 Considerations for Web Crawling and Scraping. *Washington Journal of
 Law, Technology & Arts*. 13/3, 2018, p. 275
+`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA5186951260002420>`__
 
 Heydt, Michael. Scraping. Code of conduct. *Python web scraping
 cookbook*, Packt, 2018
@@ -209,6 +213,7 @@ cookbook*, Packt, 2018
 
 Marconi, Francesco. *Newsmakers: Artificial Intelligence and the Future
 of Journalism*. Columbia University Press, 2020
+`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_askewsholts_vlebooks_9780231549356>__`
 
 Mitchell, Ryan. Legalities & ethics of web scraping. *Web scraping with Python*. O'Reilly, 2nd ed., 2018
 
@@ -474,7 +479,7 @@ Snowden’s Permanent Record. London Review of Books. 41/18, Sept 2019 <https://
 Machine Learning
 ================
 
-`Aldhous. Peter. We Trained A Computer To Search For Hidden Spy Planes: This Is What It Found. Buzzfeed. 2017
+`Aldhous. Peter. We trained a computer to search for hidden spy planes: this is what it found. Buzzfeed. 2017
 <https://www.buzzfeednews.com/article/peteraldhous/hidden-spy-planes>`__
 with `code <https://github.com/BuzzFeedNews/2017-08-spy-plane-finder>`__
 
@@ -484,7 +489,7 @@ with `code <https://github.com/BuzzFeedNews/2017-08-spy-plane-finder>`__
 `Bradshaw, Paul. Ten ways AI can be used for investigations (slides). 2019
 <https://www.slideshare.net/onlinejournalist/10-ways-ai-can-be-used-for-investigations>`__
 
-`Cheung, Paul. Journalism’s superfood: AI? <https://knightfoundation.org/articles/journalisms-superfood-ai/>`__
+`Cheung, Paul. Journalism’s superfood: AI? Knight Foundation. 2019 <https://knightfoundation.org/articles/journalisms-superfood-ai/>`__
 
 `DataFlair. Detecting fake news with python
 <https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/>`__
@@ -498,32 +503,32 @@ with `code <https://github.com/BuzzFeedNews/2017-08-spy-plane-finder>`__
 `ICIJ. Datashare (tool for sorting large amounts of documents)
 <https://icij.gitbook.io/datashare/>`__
 
-`Merrill, Jeremy B. Chamber of Secrets: Teaching a Machine What Congress Cares About. Propublica. Oct 2017
+`Merrill, Jeremy B. Chamber of Secrets: teaching a machine what Congress cares about. Propublica. Oct 2017
 <https://www.propublica.org/nerds/teaching-a-machine-what-congress-cares-about>`__
 
-`Merrill, Jeremy B. Searching Bill de Blasio's Emails with the Universal Sentence Encoder. Quartz
+`Merrill, Jeremy B. Searching Bill de Blasio's emails with the universal sentence encoder. Quartz
 <https://github.com/Quartz/aistudio-searching-data-dumps-with-use>`__
 
-`Roberts, Brandon. Dissecting a Machine Learning Powered Investigation: Uncovering local property
+`Roberts, Brandon. Dissecting a machine learning powered investigation: Uncovering local property
 tax evasion using machine learning and statistical modeling. Artificial Informer. April 2019
 <https://artificialinformer.com/issue-one/dissecting-a-machine-learning-powered-investigation.html>`__
 
-`Ronderos, Maria Teresa. How Innovative Newsrooms Are Using Artificial Intelligence. GIJN, January 2019
+`Ronderos, Maria Teresa. How innovative newsrooms are using artificial intelligence. GIJN, January 2019
 <https://gijn.org/2019/01/22/artificial-intelligence-demands-genuine-journalism/>`__
 
 `Soma, Jonathan. Practical data science for journalists [Recommended!]
-<https://investigate.ai/>`__]
+<https://investigate.ai/>`__
 
-`Stray, Jonathan. Beyond the Hype: Using AI Effectively in Investigative Journalism. GIJN, September 2019
+`Stray, Jonathan. Beyond the hype: Using AI effectively in investigative journalism. GIJN, September 2019
 <https://gijn.org/2019/09/09/beyond-the-hype-using-ai-effectively-in-investigative-journalism/>`__
 
-`Stray, Jonathan. Making Artificial Intelligence Work for Investigative Journalism. Digital Journalism. July 2019
+`Stray, Jonathan. Making artificial intelligence work for investigative journalism. Digital Journalism. July 2019
 <http://jonathanstray.com/papers/Making%20Artificial%20Intelligence%20Work%20for%20Investigative%20Journalism.pdf>`__
 
 `Quartz. Helicopters circling (code)
 <https://github.com/Quartz/aistudio-copterbot-images>`__
 
-`Wu, Floris. How Machine Learning Can (And Can’t) Help Journalists. March 2019
+`Wu, Floris. How machine learning can (and can’t) help journalists. March 2019
 <https://gijn.org/2019/03/19/how-machine-learning-can-and-cant-help-journalists/>`__
 
 
@@ -532,6 +537,7 @@ Mapping
 =======
 
 Cutts, Andrew. *QGIS quick start guide*. Packt, 2019
+`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_safari_books_9781789341157>`__
 
 `Datawrapper. Walkthrough for live choropleth
 map <https://academy.datawrapper.de/article/236-how-to-create-a-live-updating-symbol-map-or-choropleth-map>`__
@@ -564,6 +570,7 @@ design <https://carto.maps.arcgis.com/apps/MapJournal/index.html?appid=e5518bc48
 Trento, 2020 <https://napo.github.io/geospatial_course_unitn/>`__
 
 Graser, Anita. *Learning QGIS*. Packt, 2016
+`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_safari_books_9781785880339>__`
 
 Graser, Anita & Peterson, Gretchen. *QGIS map design*. Locate Press, 2018
 
@@ -670,11 +677,13 @@ scepticism in a data-driven world*. Allen Lane, 2020
 
 Blastland, Michael & Dilnot, Andrew. *The Tiger that isn’t. Seeing
 through a world of numbers*. Profile, 2008
+`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_askewsholts_vlebooks_9781847650795>__`
 
 `Cohen, Sarah. Numbers in the Newsroom: Using Math and Statistics in
 News, 2nd ed., IRE, 2014 <https://www.ire.org/product/numbers-in-the-newsroom-using-math-and-statistics-in-news-second-edition-e-version/>`__
 
 Cohn, Victor & Cope, Lewis. *News and numbers*. Wiley-Blackwell, 3rd ed., 2012
+`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51158605680002420>`__
 
 `Cushion, Stephen, Lewis, Justin & Callaghan, Robert. Data Journalism,
 Impartiality And Statistical Claims. Towards more independent scrutiny
@@ -809,14 +818,18 @@ Bradshaw, Paul. *Scraping for Journalists*. Leanpub, 2017
 `Google. Robots.txt files overview <https://developers.google.com/search/docs/advanced/robots/intro>`__
 
 Heydt, Michael. *Python web scraping cookbook*. Packt, 2018
+`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_safari_books_9781787285217>`__
 
 Jarmul, Katherine & Lawson, Richard. *Python web scraping: fetching data
 from the web*. Packt, 2nd ed., 2017
+`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51125405060002420>`__
 
 Kouzis-Loukas, Dimitrios. *Learning Scrapy: learn the art of efficient
 web scraping and crawling with Python*. Packt, 2016
+`Library resource <https://learning.oreilly.com/library/view/learning-scrapy/9781784399788/ch03s02.html>`__
 
 Mitchell, Ryan. *Web scraping with Python*. O'Reilly, 2nd ed., 2018
+`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/3go6c4/44CAR_ALMA21109771520002420>`__
 
 `Ni, Daniel. Five Tips for web scraping without getting booted.
 2019 <https://www.scraperapi.com/blog/5-tips-for-web-scraping/>`__
@@ -896,8 +909,10 @@ Guides to what kind of graph to use:
 Pudding <https://pudding.cool/process/how-to-make-dope-shit-part-2/>`__
 
 Cairo, Alberto. *The functional art*. New Rider, 2013
+`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA2172237890002420>`__
 
 Cairo, Alberto. *The truthful art*. New Rider, 2016
+`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_askewsholts_vlebooks_9780133440539>`__
 
 `Chalabi, Mona.
 Instagram <https://www.instagram.com/monachalabi/?hl=en>`__
@@ -950,3 +965,4 @@ Tableau resources:
    Tableau <https://public.tableau.com/profile/bbc.audiences#!/vizhome/BBCAudiencesTableauStyleGuide/Hello>`__
 
 Wilkinson, Leland. *The grammar of graphics*. Springer, 1999
+`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51169539330002420>`__
