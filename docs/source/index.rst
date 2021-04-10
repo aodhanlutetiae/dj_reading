@@ -506,13 +506,13 @@ with `code <https://github.com/BuzzFeedNews/2017-08-spy-plane-finder>`__
 
 `Roberts, Brandon. Dissecting a Machine Learning Powered Investigation: Uncovering local property
 tax evasion using machine learning and statistical modeling. Artificial Informer. April 2019
-https://artificialinformer.com/issue-one/dissecting-a-machine-learning-powered-investigation.html`__
+<https://artificialinformer.com/issue-one/dissecting-a-machine-learning-powered-investigation.html>`__
 
 `Ronderos, Maria Teresa. How Innovative Newsrooms Are Using Artificial Intelligence. GIJN, January 2019
 <https://gijn.org/2019/01/22/artificial-intelligence-demands-genuine-journalism/>`__
 
-`Soma, Jonathan. Practical data science for journalists (lots of techniques and case studies for journalists)
-<https://investigate.ai/>`__
+`Soma, Jonathan. Practical data science for journalists [Recommended!]
+<https://investigate.ai/>`__]
 
 `Stray, Jonathan. Beyond the Hype: Using AI Effectively in Investigative Journalism. GIJN, September 2019
 <https://gijn.org/2019/09/09/beyond-the-hype-using-ai-effectively-in-investigative-journalism/>`__
