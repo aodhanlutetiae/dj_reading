@@ -37,7 +37,7 @@ Press, 2020
 playlist <https://media.journalismfestival.com/programme/2019/category/data-journalism-school>`__
 
 Meyer, Philip. The Journalism We Need. *Precision Journalism*.
-Rowman & Littlefield, 1973, 2002, 4th ed., p. 1-17
+Rowman & Littlefield, 1973, 2002, 4th ed., p. 1-17. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51112618970002420>`__
 
 `Pilhofer, Aron. Getting started with datajournalism. 2017. 40'
 Video <https://www.youtube.com/watch?v=DYzDnufwHNE>`__
@@ -186,7 +186,7 @@ Dataset. 2020 <https://arxiv.org/abs/2007.03019>`__
 
 Christian, Sue Ellen. Cognitive Biases and Errors as Cause—and
 Journalistic Best Practices as Effect. *Journal of Mass Media Ethics*.
-28:3, 2013. p. 160-74
+28:3, 2013. p. 160-74. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_crossref_primary_10_1080_08900523_2013_794674>`_
 
 Craig et al., To Post or Not to Post: Online Discussion of Gun Permit
 Mapping and the Development of Ethical Standards in Data Journalism.
@@ -212,10 +212,11 @@ cookbook*, Packt, 2018
 2020 <https://www.journalismcourses.org/course/equity-ethics-in-data-journalism-hands-on-approaches-to-getting-your-data-right-2/>`__
 
 Marconi, Francesco. *Newsmakers: Artificial Intelligence and the Future
-of Journalism*. Columbia University Press, 2020
-`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_askewsholts_vlebooks_9780231549356>__`
+of Journalism*. Columbia University Press, 2020.
+`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_askewsholts_vlebooks_9780231549356>`__
 
-Mitchell, Ryan. Legalities & ethics of web scraping. *Web scraping with Python*. O'Reilly, 2nd ed., 2018
+Mitchell, Ryan. Legalities & ethics of web scraping. *Web scraping with Python*. O'Reilly, 2nd ed., 2018.
+`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51125433210002420>`_
 
 `NPR. Did George Floyd die or was he murdered?
 2020 <https://www.npr.org/sections/publiceditor/2020/06/04/868969745/did-george-floyd-die-or-was-he-murdered-one-of-many-ethics-questions-npr-must-an?t=1610277517399>`__
@@ -516,8 +517,8 @@ tax evasion using machine learning and statistical modeling. Artificial Informer
 `Ronderos, Maria Teresa. How innovative newsrooms are using artificial intelligence. GIJN, January 2019
 <https://gijn.org/2019/01/22/artificial-intelligence-demands-genuine-journalism/>`__
 
-`Soma, Jonathan. Practical data science for journalists [Recommended!]
-<https://investigate.ai/>`__
+`Soma, Jonathan. Practical data science for journalists
+<https://investigate.ai/>`__ **[Recommended!]**
 
 `Stray, Jonathan. Beyond the hype: Using AI effectively in investigative journalism. GIJN, September 2019
 <https://gijn.org/2019/09/09/beyond-the-hype-using-ai-effectively-in-investigative-journalism/>`__
@@ -725,6 +726,7 @@ Video <https://www.youtube.com/watch?v=_qioPxHuk0U>`__
 
 Meyer, Philip. *Precision Journalism. A Reporter’s Introduction to
 Social Science Methods*. Rowman & Littlefield, 4th ed., 2002.
+`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51112618970002420>`__
 [Especially chapter 3, Some elements of data analysis and chapter 4,
 Harnessing the power of statistics]
 
