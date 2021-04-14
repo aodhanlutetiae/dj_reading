@@ -475,6 +475,7 @@ repository <https://docs.github.com/en/free-pro-team@latest/github/creating-clon
 `Lorentzen, Christian. I wasn’t just a brain in a jar. Review of Edward
 Snowden’s Permanent Record. London Review of Books. 41/18, Sept 2019 <https://www.lrb.co.uk/the-paper/v41/n18/christian-lorentzen/i-wasn-t-just-a-brain-in-a-jar>`__
 
+Murray, Andrew. *Information technology law: the law and society*. 4th ed., OUP, 2019. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/3go6c4/44CAR_ALMA51176279860002420>`_
 
 
 Machine Learning
@@ -497,6 +498,9 @@ with `code <https://github.com/BuzzFeedNews/2017-08-spy-plane-finder>`__
 
 `Deepnews. Article scorer for journalistic quality
 <https://www.deepnews.ai/about/technology/>`__
+
+`Gajtkowski, Adam. Predicting FT trending topics. 2021
+https://medium.com/ft-product-technology/predicting-ft-trending-topics-7eda85ece727`_
 
 `Google News Initiative. Introduction to machine learning
 <https://newsinitiative.withgoogle.com/training/course/introduction-to-machine-learning>`__
@@ -531,6 +535,9 @@ tax evasion using machine learning and statistical modeling. Artificial Informer
 
 `Wu, Floris. How machine learning can (and can’t) help journalists. March 2019
 <https://gijn.org/2019/03/19/how-machine-learning-can-and-cant-help-journalists/>`__
+
+`Wu, Floris. The future of machine learning in journalism. Storybench. 2019
+<https://www.storybench.org/the-future-of-machine-learning-in-journalism/>`_
 
 
 
@@ -571,7 +578,7 @@ design <https://carto.maps.arcgis.com/apps/MapJournal/index.html?appid=e5518bc48
 Trento, 2020 <https://napo.github.io/geospatial_course_unitn/>`__
 
 Graser, Anita. *Learning QGIS*. Packt, 2016
-`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_safari_books_9781785880339>__`
+`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_safari_books_9781785880339>`_
 
 Graser, Anita & Peterson, Gretchen. *QGIS map design*. Locate Press, 2018
 
@@ -678,7 +685,7 @@ scepticism in a data-driven world*. Allen Lane, 2020
 
 Blastland, Michael & Dilnot, Andrew. *The Tiger that isn’t. Seeing
 through a world of numbers*. Profile, 2008
-`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_askewsholts_vlebooks_9781847650795>__`
+`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_askewsholts_vlebooks_9781847650795>`_
 
 `Cohen, Sarah. Numbers in the Newsroom: Using Math and Statistics in
 News, 2nd ed., IRE, 2014 <https://www.ire.org/product/numbers-in-the-newsroom-using-math-and-statistics-in-news-second-edition-e-version/>`__
