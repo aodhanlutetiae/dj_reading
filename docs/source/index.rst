@@ -500,7 +500,7 @@ with `code <https://github.com/BuzzFeedNews/2017-08-spy-plane-finder>`__
 <https://www.deepnews.ai/about/technology/>`__
 
 `Gajtkowski, Adam. Predicting FT trending topics. 2021
-https://medium.com/ft-product-technology/predicting-ft-trending-topics-7eda85ece727`_
+<https://medium.com/ft-product-technology/predicting-ft-trending-topics-7eda85ece727>`_
 
 `Google News Initiative. Introduction to machine learning
 <https://newsinitiative.withgoogle.com/training/course/introduction-to-machine-learning>`__
