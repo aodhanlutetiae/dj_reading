@@ -51,7 +51,7 @@ Census 2021
 
 `BBC. Census to provide snapshot of life during pandemic. March 2021 <https://www.bbc.co.uk/news/uk-56458568>`__
 
-`Benton, Pete. Census 2021. Ask me anything. October 2020 <https://www.reddit.com/r/AskUK/comments/jel9pl/hello_everyone_im_pete_benton_from_the_office_for/>`__
+`Benton, Pete. Census 2021: ask me anything. Reddit. October 2020 <https://www.reddit.com/r/AskUK/comments/jel9pl/hello_everyone_im_pete_benton_from_the_office_for/>`__
 
 Hutchinson, Roger. *The Butcher, the baker, the candlestick maker*. Abacus, 2017
 
@@ -102,6 +102,8 @@ NY Times.
 `First Draft News. Covering coronavirus: an online course for
 journalists.
 2020 <https://firstdraftnews.org/latest/covering-coronavirus-an-online-course-for-journalists>`__
+
+`FT. Coronavirus tracker. <https://www.ft.com/content/a2901ce8-5eb7-4633-b89c-cbdf5b386938>`_
 
 `Georgia public health. What is a moving average and why is it useful?
 2020 <https://www.georgiaruralhealth.org/blog/what-is-a-moving-average-and-why-is-it-useful/>`__
@@ -445,6 +447,10 @@ Legal
 Journalism Review.
 2018 <https://www.cjr.org/tow_center_reports/data-journalism-and-the-law.php>`__
 
+`Bhandari, Esha & Goodman, Rachel. Data  Journalism  and  the  Computer  Fraud  and  Abuse  Act: Tips for Moving Forward in an Uncertain Landscape.
+Paper from COmputation+Journalism Symposium (Northwestern), 2017
+<https://www.aclu.org/sites/default/files/field_document/data_journalism_and_the_computer_fraud_and_abuse_act-_tips_for_moving_forward_in_an_uncertain_landscape.pdf>`_
+
 `Borger, Julian. NSA files: why the Guardian in London destroyed hard
 drives of leaked files. Guardian.
 2013 <https://www.theguardian.com/world/2013/aug/20/nsa-snowden-files-drives-destroyed-london>`__
@@ -522,7 +528,7 @@ tax evasion using machine learning and statistical modeling. Artificial Informer
 <https://gijn.org/2019/01/22/artificial-intelligence-demands-genuine-journalism/>`__
 
 `Soma, Jonathan. Practical data science for journalists
-<https://investigate.ai/>`__ **[Recommended!]**
+<https://investigate.ai/>`__ [**Recommended!**]
 
 `Stray, Jonathan. Beyond the hype: Using AI effectively in investigative journalism. GIJN, September 2019
 <https://gijn.org/2019/09/09/beyond-the-hype-using-ai-effectively-in-investigative-journalism/>`__
@@ -700,8 +706,9 @@ in news reporting. Journalism Practice, 11/2017, p. 1198-1215 <https://www.tandf
 `Davies, William. How statistics lost their power. Guardian,
 2017 <https://www.theguardian.com/politics/2017/jan/19/crisis-of-statistics-big-data-democracy>`__
 
-Goldacre, Ben. *Big Pharma. How drug companies mislead doctors and harm
-patients*. 4th Estate, 2012
+Goldacre, Ben. *Big Pharma. How drug companies mislead doctors and harm patients*. 4th Estate, 2012
+
+Goldacre, Ben. *I think you'll find it's a bit more complicated than that*. 4th Estate, 2014
 
 `Gould, Stephen Jay. The median isn’t the message. Ceylon Medical
 Journal. Vol.49(4), 2004, p. 139-40 <https://cmj.sljol.info/articles/abstract/10.4038/cmj.v49i4.1930/>`__
