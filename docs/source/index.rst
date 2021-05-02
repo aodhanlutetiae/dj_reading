@@ -12,10 +12,12 @@ Basics
 Associated Press. Data Journalism. *The Associated Press Stylebook*. 55th ed.,
 2020-22. p. 358-63
 
-`Bounegru, Liliana & Gray, Jonathan. The data journalism handbook: towards a critical data practice. Amsterdam University Press, 2021 <https://library.oapen.org/bitstream/handle/20.500.12657/47509/9789048542079.pdf>`__
+`Bounegru, Liliana & Gray, Jonathan. The data journalism handbook: towards a critical data practice. Amsterdam University Press, 2021 <https://library.oapen.org/bitstream/handle/20.500.12657/47509/9789048542079.pdf>`_
 
 `Bounegru, Liliana, Chambers, Lucy & Gray, Jonathan. The data journalism handbook (One). 2011
 Datajournalism.com <https://datajournalism.com/read/handbook/one>`__
+
+`Cabreros, Ireneo. Side-stepping safeguards, data journalists are doing science now. Undark. 2021 <https://undark.org/2021/04/22/data-journalists-are-doing-science/>`_
 
 Dasgupta, Subrata. The ‘stuff’ of computing, *Computer Science. A very
 short introduction*. OUP, 2016, p. 1-12
