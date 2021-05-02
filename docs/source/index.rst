@@ -161,14 +161,6 @@ and how to 'flatten the curve'. Washington Post. March
 
 
 
-Data sources
-============
-
-— See this, our `growing list of
-datasets <https://docs.google.com/document/d/1jwWhnAXX1ctCH7C4Q3De6Za8PV5Xo61gCfeMVOeIUTg/edit?usp=sharing>`__
-
-
-
 Digital security
 ================
 
