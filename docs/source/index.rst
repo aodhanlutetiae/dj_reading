@@ -9,8 +9,7 @@ to registered students but most of the works below are online and the others are
 Basics
 ======
 
-Associated Press. Data Journalism. *The Associated Press Stylebook*. 55th ed.,
-2020-22. p. 358-63
+Associated Press. Data Journalism. *The Associated Press Stylebook*. 55th ed., 2020-22. p. 358-63
 
 `Bounegru, Liliana & Gray, Jonathan. The data journalism handbook: towards a critical data practice. Amsterdam University Press, 2021 <https://library.oapen.org/bitstream/handle/20.500.12657/47509/9789048542079.pdf>`_
 
@@ -40,6 +39,9 @@ playlist <https://media.journalismfestival.com/programme/2019/category/data-jour
 
 Meyer, Philip. The Journalism We Need. *Precision Journalism*.
 Rowman & Littlefield, 1973, 2002, 4th ed., p. 1-17. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51112618970002420>`__
+
+Mutsvairo, Bruce et al. *Data Journalism in the Global South*. Springer. 2020.
+`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_askewsholts_vlebooks_9783030251772>`_
 
 `Pilhofer, Aron. Getting started with datajournalism. 2017. 40'
 Video <https://www.youtube.com/watch?v=DYzDnufwHNE>`__
