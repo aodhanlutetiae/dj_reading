@@ -2,7 +2,7 @@ READING LIST FOR DATA JOURNALISM
 ================================
 
 This is the reading list for data journalism and computational journalism classes at
-`Jomec <https://www.cardiff.ac.uk/journalism-media-and-culture>`__ (Cardiff University) for undergraduate and postgraduate journalism
+`Jomec <https://www.cardiff.ac.uk/journalism-media-and-culture>`_ (Cardiff University) for undergraduate and postgraduate journalism
 students. Some references have a link to the Cardiff University library that is only available
 to registered students but most of the works below are online and the others are generally available from book dealers.
 
@@ -14,7 +14,7 @@ Associated Press. Data Journalism. *The Associated Press Stylebook*. 55th ed., 2
 `Bounegru, Liliana & Gray, Jonathan. The data journalism handbook: towards a critical data practice. Amsterdam University Press, 2021 <https://library.oapen.org/bitstream/handle/20.500.12657/47509/9789048542079.pdf>`_
 
 `Bounegru, Liliana, Chambers, Lucy & Gray, Jonathan. The data journalism handbook (One). 2011
-Datajournalism.com <https://datajournalism.com/read/handbook/one>`__
+Datajournalism.com <https://datajournalism.com/read/handbook/one>`_
 
 `Cabreros, Ireneo. Side-stepping safeguards, data journalists are doing science now. Undark. 2021 <https://undark.org/2021/04/22/data-journalists-are-doing-science/>`_
 
@@ -22,31 +22,31 @@ Dasgupta, Subrata. The ‘stuff’ of computing, *Computer Science. A very
 short introduction*. OUP, 2016, p. 1-12
 
 `Freeguard, Gavin. A data reading list (books, blogs, podcasts).
-2021 <https://docs.google.com/spreadsheets/d/1aM-tiyWZrxvn7frpmqjh6ObByn2y3LOIn8ZPuN1Ng5o/edit?usp=sharing>`__
+2021 <https://docs.google.com/spreadsheets/d/1aM-tiyWZrxvn7frpmqjh6ObByn2y3LOIn8ZPuN1Ng5o/edit?usp=sharing>`_
 
 `Global Investigative Journalism Conference 2019. Video
-playlist <https://www.youtube.com/playlist?list=PLrCL-ZiCvKYteU2XOChSkW1l7-oRHzwxV>`__
+playlist <https://www.youtube.com/playlist?list=PLrCL-ZiCvKYteU2XOChSkW1l7-oRHzwxV>`_
 
 Harford, Tim. Ponder your personal experience. *How to make the world
 add up. Ten rules for thinking differently about numbers*. Bridge Street
 Press, 2020
 
 `Houston, Brant. Data Journalism. A brief history. GIJN,
-2015 <https://gijn.org/2015/11/12/fifty-years-of-journalism-and-data-a-brief-history/>`__
+2015 <https://gijn.org/2015/11/12/fifty-years-of-journalism-and-data-a-brief-history/>`_
 
 `International Journalism Festival (Perugia) 2019. Video
-playlist <https://media.journalismfestival.com/programme/2019/category/data-journalism-school>`__
+playlist <https://media.journalismfestival.com/programme/2019/category/data-journalism-school>`_
 
 Meyer, Philip. The Journalism We Need. *Precision Journalism*.
-Rowman & Littlefield, 1973, 2002, 4th ed., p. 1-17. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51112618970002420>`__
+Rowman & Littlefield, 1973, 2002, 4th ed., p. 1-17. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51112618970002420>`_
 
 Mutsvairo, Bruce et al. *Data Journalism in the Global South*. Springer. 2020.
 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_askewsholts_vlebooks_9783030251772>`_
 
 `Pilhofer, Aron. Getting started with datajournalism. 2017. 40'
-Video <https://www.youtube.com/watch?v=DYzDnufwHNE>`__
+Video <https://www.youtube.com/watch?v=DYzDnufwHNE>`_
 
-`Quartz. Bad data <Quartz/bad-data-guide: An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them>`__
+Rogers, Simon. *Facts are sacred*. Faber & Faber, 2013.
 
 
 
@@ -273,6 +273,8 @@ lab <http://lenagroeger.s3.amazonaws.com/talks/orlando/exercises/Spreadsheets/sp
 
 `NY Times. Data course spreadsheets
 cheatsheets <https://drive.google.com/drive/folders/1l2DAll0Jc3Vq6vA9sLDzsBQVo6KBnE7x>`__
+
+`Quartz. Bad data <https://github.com/Quartz/bad-data-guide>`_
 
 `Webster, Mary-Jo. Excel basics <https://sites.google.com/view/mj-basic-data-academy/excel-basics>`__
 
@@ -671,6 +673,8 @@ Tools:
 `Lindenberg, Frederich. Here's why investigative reporters need to know knowledge graphs. GIJN. 2020
 <https://gijn.org/2020/08/11/heres-why-investigative-reporters-need-to-know-knowledge-graphs>`__
 
+`Mohr, Jeff. Celebrity ice bucket challenge. 2021 <https://kumu.io/jeff/celebrity-ice-bucket-challenge>`_
+
 `Romano, Tricia. In Seattle art world, women run the show. The Seattle Times. 2016
 <https://www.seattletimes.com/entertainment/visual-arts/in-seattle-art-world-women-run-the-show/>`__
 
@@ -953,6 +957,8 @@ Posavec, Stefanie & Lupi, Giorgia. *Dear Data*. Particular Books,
 `Rost, Lisa Charlotte. How to choose more beautiful colors for your data
 visualisation. Blogpost, Datawrapper,
 2020 <https://blog.datawrapper.de/beautifulcolors/>`__
+
+`Rue, Jeremy. Visualising data: a guide to chart types. Berkeley. 2019. <https://multimedia.journalism.berkeley.edu/tutorials/visualizing-data-a-guide-to-chart-types/>`_
 
 `Sunlight Foundation. Dataviz style
 guidelines <https://github.com/amycesal/dataviz-style-guide/blob/master/Sunlight-StyleGuide-DataViz.pdf>`__
