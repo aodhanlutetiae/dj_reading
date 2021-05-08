@@ -16,8 +16,6 @@ Associated Press. Data Journalism. *The Associated Press Stylebook*. 55th ed., 2
 `Bounegru, Liliana, Chambers, Lucy & Gray, Jonathan. The data journalism handbook (One). 2011
 Datajournalism.com <https://datajournalism.com/read/handbook/one>`_
 
-`Cabreros, Ireneo. Side-stepping safeguards, data journalists are doing science now. Undark. 2021 <https://undark.org/2021/04/22/data-journalists-are-doing-science/>`_
-
 Dasgupta, Subrata. The ‘stuff’ of computing, *Computer Science. A very
 short introduction*. OUP, 2016, p. 1-12
 
@@ -182,6 +180,8 @@ Ethics
 `Alsudais, Abdulkareem. Incorrect Data in the Widely Used Inside Airbnb
 Dataset. 2020 <https://arxiv.org/abs/2007.03019>`__
 
+`Cabreros, Ireneo. Side-stepping safeguards, data journalists are doing science now. Undark. 2021 <https://undark.org/2021/04/22/data-journalists-are-doing-science/>`_
+
 Christian, Sue Ellen. Cognitive Biases and Errors as Cause—and
 Journalistic Best Practices as Effect. *Journal of Mass Media Ethics*.
 28:3, 2013. p. 160-74. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_crossref_primary_10_1080_08900523_2013_794674>`_
@@ -261,10 +261,7 @@ Bradshaw, Paul. *Finding stories with spreadsheets*. Leanpub, 2016
 `Groeger, Lena. Spreadsheets
 lab <http://lenagroeger.s3.amazonaws.com/talks/orlando/exercises/Spreadsheets/spreadsheetslab.html>`__
 
-`Houston, Brant. Spreadsheets for journalism. Datajournalism.com.
-2019 <https://datajournalism.com/read/longreads/spreadsheets-for-journalism>`__
-
-`Houston, Brant. Let the spreadsheet do the math.
+`Houston, Brant. Let the spreadsheet do the math. GIJN.
 2019 <https://gijn.org/2019/05/21/eight-simple-ways-to-let-the-spreadsheet-do-the-math-so-you-can-focus-on-the-story/>`__
 
 `Lambrechts, Maarten. Cleaning data in Excel: video course. Datajournalism.com. 1h 30' video <https://datajournalism.com/watch/cleaning-data-in-excel>`__
