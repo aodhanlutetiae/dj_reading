@@ -710,7 +710,7 @@ Goldacre, Ben. *I think you'll find it's a bit more complicated than that*. 4th 
 `Gould, Stephen Jay. The median isnâ€™t the message. Ceylon Medical
 Journal. Vol.49(4), 2004, p. 139-40 <https://cmj.sljol.info/articles/abstract/10.4038/cmj.v49i4.1930/>`__
 
-Hand, David J. *Statistics. A very short introduction*. OUP, 2008. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA2174879880002420>_`
+Hand, David J. *Statistics. A very short introduction*. OUP, 2008. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA2174879880002420>`_
 
 Harford, Tim. *How to make the world add up*. Bridge Street Press, 2020
 
@@ -723,7 +723,8 @@ Jerven, Morten. Preface. *Poor Numbers*. Cornell University Press, 2013, p. ixâ€
 guide to critical reporting. Datajournalism.com,
 2019 <https://datajournalism.com/read/longreads/hard-data-and-soft-statistics-a-guide-to-critical-reporting>`__
 
-Kahneman, Daniel. *Thinking, Fast and Slow*. Penguin, 2011. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA2171412520002420>_`
+Kahneman, Daniel. *Thinking, Fast and Slow*. Penguin, 2011. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA2171412520002420>`_
+
 
 `Kaplan, Daniel. Statistical Modelling.
 2017 <https://dtkaplan.github.io/SM2-bookdown>`__
