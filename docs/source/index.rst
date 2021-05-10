@@ -204,14 +204,14 @@ Law, Technology & Arts*. 13/3, 2018, p. 275
 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA5186951260002420>`__
 
 Heydt, Michael. Scraping. Code of conduct. *Python web scraping
-cookbook*, Packt, 2018
+cookbook*, Packt, 2018. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51156094260002420>`_
 
 `Knight Center. Ethics and equity in data journalism. Online course.
-2020 <https://www.journalismcourses.org/course/equity-ethics-in-data-journalism-hands-on-approaches-to-getting-your-data-right-2/>`__
+2020 <https://www.journalismcourses.org/course/equity-ethics-in-data-journalism-hands-on-approaches-to-getting-your-data-right-2/>`_
 
 Marconi, Francesco. *Newsmakers: Artificial Intelligence and the Future
 of Journalism*. Columbia University Press, 2020.
-`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_askewsholts_vlebooks_9780231549356>`__
+`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_askewsholts_vlebooks_9780231549356>`_
 
 Mitchell, Ryan. Legalities & ethics of web scraping. *Web scraping with Python*. O'Reilly, 2nd ed., 2018.
 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51125433210002420>`_
@@ -298,7 +298,7 @@ Gazette.
 2017 <https://www.bbc.co.uk/academy/en/articles/art20140226095548310>`__
 
 Brooke, Heather. *Your right to know. A citizen’s guide to the Freedom
-of Information Act*. 2nd ed., Pluto, 2007
+of Information Act*. 2nd ed., Pluto, 2007. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/3go6c4/44CAR_ALMA51151691970002420>`_
 
 Burgess, Matthew. *Freedom of Information: A Practical Guide for UK
 Journalists*. Routledge, 2015
@@ -710,7 +710,7 @@ Goldacre, Ben. *I think you'll find it's a bit more complicated than that*. 4th 
 `Gould, Stephen Jay. The median isn’t the message. Ceylon Medical
 Journal. Vol.49(4), 2004, p. 139-40 <https://cmj.sljol.info/articles/abstract/10.4038/cmj.v49i4.1930/>`__
 
-Hand, David J. *Statistics. A very short introduction*. OUP, 2008
+Hand, David J. *Statistics. A very short introduction*. OUP, 2008. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA2174879880002420>_`
 
 Harford, Tim. *How to make the world add up*. Bridge Street Press, 2020
 
@@ -723,7 +723,7 @@ Jerven, Morten. Preface. *Poor Numbers*. Cornell University Press, 2013, p. ix�
 guide to critical reporting. Datajournalism.com,
 2019 <https://datajournalism.com/read/longreads/hard-data-and-soft-statistics-a-guide-to-critical-reporting>`__
 
-Kahneman, Daniel. *Thinking, Fast and Slow*. Penguin, 2011
+Kahneman, Daniel. *Thinking, Fast and Slow*. Penguin, 2011. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA2171412520002420>_`
 
 `Kaplan, Daniel. Statistical Modelling.
 2017 <https://dtkaplan.github.io/SM2-bookdown>`__
