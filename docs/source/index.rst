@@ -708,7 +708,7 @@ Goldacre, Ben. *Big Pharma. How drug companies mislead doctors and harm patients
 Goldacre, Ben. *I think you'll find it's a bit more complicated than that*. 4th Estate, 2014
 
 `Gould, Stephen Jay. The median isn’t the message. Ceylon Medical
-Journal. Vol.49(4), 2004, p. 139-40 <https://cmj.sljol.info/articles/abstract/10.4038/cmj.v49i4.1930/>`__
+Journal. Vol. 49(4), 2004, p. 139-40 <https://cmj.sljol.info/articles/abstract/10.4038/cmj.v49i4.1930/>`__
 
 Hand, David J. *Statistics. A very short introduction*. OUP, 2008. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA2174879880002420>`_
 
@@ -725,7 +725,6 @@ guide to critical reporting. Datajournalism.com,
 
 Kahneman, Daniel. *Thinking, Fast and Slow*. Penguin, 2011. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA2171412520002420>`_
 
-
 `Kaplan, Daniel. Statistical Modelling.
 2017 <https://dtkaplan.github.io/SM2-bookdown>`__
 
@@ -741,6 +740,8 @@ Social Science Methods*. Rowman & Littlefield, 4th ed., 2002.
 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51112618970002420>`__
 [Especially chapter 3, Some elements of data analysis and chapter 4,
 Harnessing the power of statistics]
+
+Nguyen, An (ed.). News, numbers and public opinion in a data-driven world. Bloomsbury, 2018. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51144864580002420>`_
 
 Paulos, John Allen. *A Mathematician Reads the Newspapers*. Penguin,
 1995
