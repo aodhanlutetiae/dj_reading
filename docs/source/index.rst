@@ -717,7 +717,7 @@ Harford, Tim. *How to make the world add up*. Bridge Street Press, 2020
 `Huff, Darrell. How to lie with statistics. Norton,
 1954 <http://faculty.neu.edu.cn/cc/zhangyf/papers/How-to-Lie-with-Statistics.pdf>`__
 
-Jerven, Morten. Preface. *Poor Numbers*. Cornell University Press, 2013, p. ix–xiv
+Jerven, Morten. Preface. *Poor Numbers*. Cornell University Press, 2013, p. ix–xiv. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51171366170002420>`_
 
 `Jerven, Morten & Wilkinson, Kate. Hard data and soft statistics: A
 guide to critical reporting. Datajournalism.com,
@@ -865,6 +865,8 @@ Datajournalism.com <https://datajournalism.com/read/newsletters/apis-for-journal
 
 Storytelling with data
 ======================
+
+`Bastien, Karen. Story angles from data. 2020. 1hr Video (in French) <https://www.youtube.com/watch?v=5sTNxNubuc4&t=130s>`_
 
 `Blinderman, Ilia. How to make dope shit: Part 3 Storytelling. The
 Pudding <https://pudding.cool/process/how-to-make-dope-shit-part-3/>`__
