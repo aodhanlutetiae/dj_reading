@@ -242,7 +242,10 @@ claims. Wired,
 `Stone, Deborah. The ethics of counting. James Madison Award Lecture.
 2017 <https://www.cambridge.org/core/services/aop-cambridge-core/content/view/6EB60C0EAB17A50F89038721F3379A9A/S1049096517001767a.pdf/2017_james_madison_award_lecture_the_ethics_of_counting.pdf>`__
 
-`Velotio. Scraping guidelines & best practices <https://www.velotio.com/engineering-blog/web-scraping-introduction-best-practices-caveats>`__
+
+`UK Statistics Authority. Ethical considerations in the use of geospatial data. May 2021 <https://uksa.statisticsauthority.gov.uk/publication/ethical-considerations-in-the-use-of-geospatial-data-for-research-and-statistics/>`_
+
+`Velotio. Scraping guidelines & best practices <https://www.velotio.com/engineering-blog/web-scraping-introduction-best-practices-caveats>`_
 
 
 
