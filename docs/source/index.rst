@@ -426,15 +426,17 @@ videos <https://nctj.mylearningapp.com/course/index.php?categoryid=2>`__
 `NUJ. Code of conduct <https://www.nuj.org.uk/about/nuj-code/>`__
 
 `Ofcom. The Ofcom broadcasting
-code <https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-codes/broadcast-code>`__
+code <https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-codes/broadcast-code>`_
 
-`ONS. Style guide <https://style.ons.gov.uk/>`__
+`ONS. Style guide <https://style.ons.gov.uk/>`_
 
 `Orwell, George. Politics and the English Language.
-1946 <https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/>`__
+1946 <https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/>`_
+
+`Propublica. Guide to working with data and publishing apps <https://github.com/propublica/guides>`_
 
 `Reuters. Handbook of
-journalism <http://handbook.reuters.com/index.php?title=Main_Page>`__
+journalism <http://handbook.reuters.com/index.php?title=Main_Page>`_
 
 
 
@@ -503,6 +505,9 @@ with `code <https://github.com/BuzzFeedNews/2017-08-spy-plane-finder>`__
 `Deepnews. Article scorer for journalistic quality
 <https://www.deepnews.ai/about/technology/>`__
 
+`Fussell, Sidney. AI Shows ExxonMobil Downplayed Its Role in Climate Change. 2021
+ <https://www.wired.com/story/ai-shows-exxonmobil-downplayed-role-climate-change/>`_
+
 `Gajtkowski, Adam. Predicting FT trending topics. 2021
 <https://medium.com/ft-product-technology/predicting-ft-trending-topics-7eda85ece727>`_
 
@@ -520,25 +525,25 @@ with `code <https://github.com/BuzzFeedNews/2017-08-spy-plane-finder>`__
 
 `Roberts, Brandon. Dissecting a machine learning powered investigation: Uncovering local property
 tax evasion using machine learning and statistical modeling. Artificial Informer. April 2019
-<https://artificialinformer.com/issue-one/dissecting-a-machine-learning-powered-investigation.html>`__
+<https://artificialinformer.com/issue-one/dissecting-a-machine-learning-powered-investigation.html>`_
 
 `Ronderos, Maria Teresa. How innovative newsrooms are using artificial intelligence. GIJN, January 2019
-<https://gijn.org/2019/01/22/artificial-intelligence-demands-genuine-journalism/>`__
+<https://gijn.org/2019/01/22/artificial-intelligence-demands-genuine-journalism/>`_
 
 `Soma, Jonathan. Practical data science for journalists
 <https://investigate.ai/>`__ [**Recommended!**]
 
 `Stray, Jonathan. Beyond the hype: Using AI effectively in investigative journalism. GIJN, September 2019
-<https://gijn.org/2019/09/09/beyond-the-hype-using-ai-effectively-in-investigative-journalism/>`__
+<https://gijn.org/2019/09/09/beyond-the-hype-using-ai-effectively-in-investigative-journalism/>`_
 
 `Stray, Jonathan. Making artificial intelligence work for investigative journalism. Digital Journalism. July 2019
-<http://jonathanstray.com/papers/Making%20Artificial%20Intelligence%20Work%20for%20Investigative%20Journalism.pdf>`__
+<http://jonathanstray.com/papers/Making%20Artificial%20Intelligence%20Work%20for%20Investigative%20Journalism.pdf>`_
 
 `Quartz. Helicopters circling (code)
-<https://github.com/Quartz/aistudio-copterbot-images>`__
+<https://github.com/Quartz/aistudio-copterbot-images>`_
 
 `Wu, Floris. How machine learning can (and can’t) help journalists. March 2019
-<https://gijn.org/2019/03/19/how-machine-learning-can-and-cant-help-journalists/>`__
+<https://gijn.org/2019/03/19/how-machine-learning-can-and-cant-help-journalists/>`_
 
 `Wu, Floris. The future of machine learning in journalism. Storybench. 2019
 <https://www.storybench.org/the-future-of-machine-learning-in-journalism/>`_
