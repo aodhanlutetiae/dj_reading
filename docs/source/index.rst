@@ -97,23 +97,25 @@ around the world. ABC (au),
 
 `Chang, Kenneth. A different way to chart the spread of coronavirus.
 NY Times.
-2020 <https://www.nytimes.com/2020/03/20/health/coronavirus-data-logarithm-chart.html>`__
+2020 <https://www.nytimes.com/2020/03/20/health/coronavirus-data-logarithm-chart.html>`_
 
 `Field, Kenneth. Mapping coronavirus data responsibly. Feb
-2020 <https://www.esri.com/arcgis-blog/products/product/mapping/mapping-coronavirus-responsibly/>`__
+2020 <https://www.esri.com/arcgis-blog/products/product/mapping/mapping-coronavirus-responsibly/>`_
 
 `First Draft News. Covering coronavirus: an online course for
 journalists.
-2020 <https://firstdraftnews.org/latest/covering-coronavirus-an-online-course-for-journalists>`__
+2020 <https://firstdraftnews.org/latest/covering-coronavirus-an-online-course-for-journalists>`_
+
+`Frumkin, Rebekah. How to draw the coronavirus. The Paris Review. 2020 <https://www.theparisreview.org/blog/2020/05/18/how-to-draw-the-coronavirus/>`_
 
 `FT. Coronavirus tracker. <https://www.ft.com/content/a2901ce8-5eb7-4633-b89c-cbdf5b386938>`_
 
 `Georgia public health. What is a moving average and why is it useful?
-2020 <https://www.georgiaruralhealth.org/blog/what-is-a-moving-average-and-why-is-it-useful/>`__
+2020 <https://www.georgiaruralhealth.org/blog/what-is-a-moving-average-and-why-is-it-useful/>`_
 
-`GIJN. Evaluating the evidence. 2020. 1h 20' Video <https://www.youtube.com/watch?v=A7vLA7hQ5rI>`__
+`GIJN. Evaluating the evidence. 2020. 1h 20' Video <https://www.youtube.com/watch?v=A7vLA7hQ5rI>`_
 
-`GIJN. Covid-19 hub <https://gijn.org/series/covid19/>`__
+`GIJN. Covid-19 hub <https://gijn.org/series/covid19/>`_
 
 `Harford, Tim. Statistics, lies and the virus: Tim Harford’s five
 lessons from a pandemic. Financial Times. September
@@ -489,22 +491,22 @@ Machine Learning
 ================
 
 `Aldhous. Peter. We trained a computer to search for hidden spy planes: this is what it found. Buzzfeed. 2017
-<https://www.buzzfeednews.com/article/peteraldhous/hidden-spy-planes>`__
-with `code <https://github.com/BuzzFeedNews/2017-08-spy-plane-finder>`__
+<https://www.buzzfeednews.com/article/peteraldhous/hidden-spy-planes>`_
+with `code <https://github.com/BuzzFeedNews/2017-08-spy-plane-finder>`_
 
 `Beckett, Charlie. New powers, new responsibilities: A global survey of journalism and artificial intelligence. 2019
-<https://blogs.lse.ac.uk/polis/2019/11/18/new-powers-new-responsibilities/>`__
+<https://blogs.lse.ac.uk/polis/2019/11/18/new-powers-new-responsibilities/>`_
 
 `Bradshaw, Paul. Ten ways AI can be used for investigations (slides). 2019
-<https://www.slideshare.net/onlinejournalist/10-ways-ai-can-be-used-for-investigations>`__
+<https://www.slideshare.net/onlinejournalist/10-ways-ai-can-be-used-for-investigations>`_
 
-`Cheung, Paul. Journalism’s superfood: AI? Knight Foundation. 2019 <https://knightfoundation.org/articles/journalisms-superfood-ai/>`__
+`Cheung, Paul. Journalism’s superfood: AI? Knight Foundation. 2019 <https://knightfoundation.org/articles/journalisms-superfood-ai/>`_
 
 `DataFlair. Detecting fake news with python
-<https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/>`__
+<https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/>`_
 
 `Deepnews. Article scorer for journalistic quality
-<https://www.deepnews.ai/about/technology/>`__
+<https://www.deepnews.ai/about/technology/>`_
 
 `Fussell, Sidney. AI Shows ExxonMobil Downplayed Its Role in Climate Change. 2021
  <https://www.wired.com/story/ai-shows-exxonmobil-downplayed-role-climate-change/>`_
@@ -513,16 +515,16 @@ with `code <https://github.com/BuzzFeedNews/2017-08-spy-plane-finder>`__
 <https://medium.com/ft-product-technology/predicting-ft-trending-topics-7eda85ece727>`_
 
 `Google News Initiative. Introduction to machine learning
-<https://newsinitiative.withgoogle.com/training/course/introduction-to-machine-learning>`__
+<https://newsinitiative.withgoogle.com/training/course/introduction-to-machine-learning>`_
 
 `ICIJ. Datashare (tool for sorting large amounts of documents)
-<https://icij.gitbook.io/datashare/>`__
+<https://icij.gitbook.io/datashare/>`_
 
 `Merrill, Jeremy B. Chamber of Secrets: teaching a machine what Congress cares about. Propublica. Oct 2017
-<https://www.propublica.org/nerds/teaching-a-machine-what-congress-cares-about>`__
+<https://www.propublica.org/nerds/teaching-a-machine-what-congress-cares-about>`_
 
 `Merrill, Jeremy B. Searching Bill de Blasio's emails with the universal sentence encoder. Quartz
-<https://github.com/Quartz/aistudio-searching-data-dumps-with-use>`__
+<https://github.com/Quartz/aistudio-searching-data-dumps-with-use>`_
 
 `Roberts, Brandon. Dissecting a machine learning powered investigation: Uncovering local property
 tax evasion using machine learning and statistical modeling. Artificial Informer. April 2019
@@ -901,9 +903,6 @@ Gottschall, Jonathan. *The storytelling animal*. First Mariner, 2013
 
 `NY Times, Finding stories in data:
 tipsheets <https://drive.google.com/drive/folders/1FOLQKiQdVX2Wr5Z2YXw5beI6S9ECATg0?usp=sharing>`__
-
-`ONS. House style
-guide <https://style.ons.gov.uk/category/house-style/>`__
 
 Paulos, John Allen. *Once upon a number: The hidden mathematical logic
 of stories*. Penguin, 1998
