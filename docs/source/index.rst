@@ -183,7 +183,7 @@ Ethics
 `Alsudais, Abdulkareem. Incorrect Data in the Widely Used Inside Airbnb
 Dataset. 2020 <https://arxiv.org/abs/2007.03019>`__
 
-`Cabreros, Ireneo. Side-stepping safeguards, data journalists are doing science now. Undark. 2021 <https://undark.org/2021/04/22/data-journalists-are-doing-science/>`_
+`Cabreros, Irineo. Side-stepping safeguards, data journalists are doing science now. Undark. 2021 <https://undark.org/2021/04/22/data-journalists-are-doing-science/>`_
 
 Christian, Sue Ellen. Cognitive Biases and Errors as Cause—and
 Journalistic Best Practices as Effect. *Journal of Mass Media Ethics*.
