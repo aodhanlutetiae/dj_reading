@@ -16,11 +16,12 @@ Associated Press. Data Journalism. *The Associated Press Stylebook*. 55th ed., 2
 `Bounegru, Liliana, Chambers, Lucy & Gray, Jonathan. The data journalism handbook (One). 2011
 Datajournalism.com <https://datajournalism.com/read/handbook/one>`_
 
+`Coddington, Mark & Lewis, Seth. Do journalists hide behind sources when they use numbers in the news? Nieman Lab, 2021 <https://www.niemanlab.org/2021/06/do-journalists-hide-behind-sources-when-they-use-numbers-in-the-news/>`_
+&
+`Lawson, B.T. Hiding Behind Databases, Institutions and Actors: How Journalists Use Statistics in Reporting Humanitarian Crises. Journalism Practice, 2021 <https://www.tandfonline.com/doi/full/10.1080/17512786.2021.1930106>`_
+
 Dasgupta, Subrata. The ‘stuff’ of computing, *Computer Science. A very
 short introduction*. OUP, 2016, p. 1-12
-
-`Freeguard, Gavin. A data reading list (books, blogs, podcasts).
-2021 <https://docs.google.com/spreadsheets/d/1aM-tiyWZrxvn7frpmqjh6ObByn2y3LOIn8ZPuN1Ng5o/edit?usp=sharing>`_
 
 `Global Investigative Journalism Conference 2019. Video
 playlist <https://www.youtube.com/playlist?list=PLrCL-ZiCvKYteU2XOChSkW1l7-oRHzwxV>`_
@@ -825,6 +826,9 @@ concepts and techniques*. Syngress, April 2015.
 
 Dubberly, Sam, Koenig, Alexa & Murray, Daragh. *Digital Witness. Using Open Source Information for Human Rights Investigation, Documentation, and Accountability*. OUP, 2020
 
+Hassan, Nihad A & Hijazi, Rami. Open Source Intelligence Methods and Tools: A Practical Guide to Online Intelligence
+Apress, 2018. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51156108450002420>`_
+
 Higgins, Eliot. *We are Bellingcat. An intelligence agency for the people*. Bloomsbury, 2021
 
 Pool, Hans. *Bellingcat. Truth in a post-truth world*. 2018. 60’ documentary
@@ -921,14 +925,15 @@ Visualisation
 
 Guides to what kind of graph to use:
 
--  `ft-interactive.github.io/visual-vocabulary/ <http://ft-interactive.github.io/visual-vocabulary/>`__
--  `flowingdata.com/chart-types <https://flowingdata.com/chart-types>`__
--  `datavizcatalogue.com/search.html <https://datavizcatalogue.com/search.html>`__
--  `data-to-viz.com/caveats.html <https://www.data-to-viz.com/caveats.html>`__
--  `policyviz.com/2021/02/08/five-charts-youve-never-used-but-should/ <https://policyviz.com/2021/02/08/five-charts-youve-never-used-but-should/>`__
--  `style.ons.gov.uk/category/data-visualisation/ <https://style.ons.gov.uk/category/data-visualisation/>`__
--  `chartmaker.visualisingdata.com/ <http://chartmaker.visualisingdata.com/>`__
--  `policyviz.com/2016/11/30/style-guides/ <https://policyviz.com/2016/11/30/style-guides/>`__
+-  `https://datavizproject.com/`_
+-  `ft-interactive.github.io/visual-vocabulary/ <http://ft-interactive.github.io/visual-vocabulary/>`_
+-  `flowingdata.com/chart-types <https://flowingdata.com/chart-types>`_
+-  `datavizcatalogue.com/search.html <https://datavizcatalogue.com/search.html>`_
+-  `data-to-viz.com/caveats.html <https://www.data-to-viz.com/caveats.html>`_
+-  `policyviz.com/2021/02/08/five-charts-youve-never-used-but-should/ <https://policyviz.com/2021/02/08/five-charts-youve-never-used-but-should/>`_
+-  `style.ons.gov.uk/category/data-visualisation/ <https://style.ons.gov.uk/category/data-visualisation/>`_
+-  `chartmaker.visualisingdata.com/ <http://chartmaker.visualisingdata.com/>`_
+-  `policyviz.com/2016/11/30/style-guides/ <https://policyviz.com/2016/11/30/style-guides/>`_
 
 `Blinderman, Ilia. How to make dope shit. Part 2: Design. The
 Pudding <https://pudding.cool/process/how-to-make-dope-shit-part-2/>`__
