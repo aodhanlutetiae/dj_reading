@@ -16,10 +16,6 @@ Associated Press. Data Journalism. *The Associated Press Stylebook*. 55th ed., 2
 `Bounegru, Liliana, Chambers, Lucy & Gray, Jonathan. The data journalism handbook (One). 2011
 Datajournalism.com <https://datajournalism.com/read/handbook/one>`_
 
-`Coddington, Mark & Lewis, Seth. Do journalists hide behind sources when they use numbers in the news? Nieman Lab, 2021 <https://www.niemanlab.org/2021/06/do-journalists-hide-behind-sources-when-they-use-numbers-in-the-news/>`_
-&
-`Lawson, B.T. Hiding Behind Databases, Institutions and Actors: How Journalists Use Statistics in Reporting Humanitarian Crises. Journalism Practice, 2021 <https://www.tandfonline.com/doi/full/10.1080/17512786.2021.1930106>`_
-
 Dasgupta, Subrata. The ‘stuff’ of computing, *Computer Science. A very
 short introduction*. OUP, 2016, p. 1-12
 
@@ -193,6 +189,10 @@ Dataset. 2020 <https://arxiv.org/abs/2007.03019>`__
 Christian, Sue Ellen. Cognitive Biases and Errors as Cause—and
 Journalistic Best Practices as Effect. *Journal of Mass Media Ethics*.
 28:3, 2013. p. 160-74. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_crossref_primary_10_1080_08900523_2013_794674>`_
+
+`Coddington, Mark & Lewis, Seth. Do journalists hide behind sources when they use numbers in the news? Nieman Lab, 2021 <https://www.niemanlab.org/2021/06/do-journalists-hide-behind-sources-when-they-use-numbers-in-the-news/>`_
+&
+`Lawson, B.T. Hiding Behind Databases, Institutions and Actors: How Journalists Use Statistics in Reporting Humanitarian Crises. Journalism Practice, 2021 <https://www.tandfonline.com/doi/full/10.1080/17512786.2021.1930106>`_
 
 Craig et al., To Post or Not to Post: Online Discussion of Gun Permit
 Mapping and the Development of Ethical Standards in Data Journalism.
@@ -395,43 +395,37 @@ placed <https://www.whatdotheyknow.com/>`__
 Journalism
 ==========
 
-`ABC. Style
-guide <https://about.abc.net.au/abc-editorial/the-abc-style-guide/>`__
+`ABC. Style guide <https://about.abc.net.au/abc-editorial/the-abc-style-guide/>`_
 
 `Associated Press. News values &
-principles <https://www.ap.org/about/news-values-and-principles/downloads/ap-news-values-and-principles.pdf>`__
+principles <https://www.ap.org/about/news-values-and-principles/downloads/ap-news-values-and-principles.pdf>`_
 
-`BBC Academy <https://www.bbc.co.uk/academy/en/>`__
+`BBC Academy <https://www.bbc.co.uk/academy/en/>`_
 
 `BBC. Editorial
-guidelines <https://www.bbc.com/editorialguidelines/guidelines>`__
+guidelines <https://www.bbc.com/editorialguidelines/guidelines>`_
 
-`BBC. Style guide <https://www.bbc.co.uk/newsstyleguide/all>`__
+`BBC. Style guide <https://www.bbc.co.uk/newsstyleguide/all>`_
 
 `Corbett, Philip B. Copy edit
-this! (complete list of quiz links) <https://aodhanlutetiae.github.io/posts/2020/10/blog-post-13/>`__
+this! (complete list of quiz links) <https://aodhanlutetiae.github.io/posts/2020/10/blog-post-13/>`_
 
-`Editors’ Code of Practice Committee. The Editors’
-Codebook <https://www.editorscode.org.uk/downloads/codebook/codebook-2019.pdf>`__
+`Editors’ Code of Practice Committee. The Editors’ Codebook <https://www.editorscode.org.uk/downloads/codebook/codebook-2019.pdf>`_ or
+`Editors’ Code <https://www.ipso.co.uk/editors-code-of-practice/>`_
 
-`Guardian. Style guide <https://www.theguardian.com/guardian-observer-style-guide-a>`__
+`Guardian. Style guide <https://www.theguardian.com/guardian-observer-style-guide-a>`_
 
 `Impress. Standards code <https://www.impress.press/standards/>`__
 
-`IPSO.
-Rulings <https://www.ipso.co.uk/rulings-and-resolution-statements/>`__
-
-`IPSO. Editors’
-Code <https://www.ipso.co.uk/editors-code-of-practice/>`__
+`IPSO. Rulings <https://www.ipso.co.uk/rulings-and-resolution-statements/>`_
 
 Kovach, Bill & Rosenstiel, Tom. *The Elements of Journalism. What
 newspeople should know and the public should expect*. Three Rivers
 Press, 2012
 
-`NCTJ. Skills
-videos <https://nctj.mylearningapp.com/course/index.php?categoryid=2>`__
+`NCTJ. Skills videos <https://nctj.mylearningapp.com/course/index.php?categoryid=2>`_
 
-`NUJ. Code of conduct <https://www.nuj.org.uk/about/nuj-code/>`__
+`NUJ. Code of conduct <https://www.nuj.org.uk/about/nuj-code/>`_
 
 `Ofcom. The Ofcom broadcasting
 code <https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-codes/broadcast-code>`_
@@ -706,53 +700,53 @@ through a world of numbers*. Profile, 2008
 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_askewsholts_vlebooks_9781847650795>`_
 
 `Cohen, Sarah. Numbers in the Newsroom: Using Math and Statistics in
-News, 2nd ed., IRE, 2014 <https://www.ire.org/product/numbers-in-the-newsroom-using-math-and-statistics-in-news-second-edition-e-version/>`__
+News, 2nd ed., IRE, 2014 <https://www.ire.org/product/numbers-in-the-newsroom-using-math-and-statistics-in-news-second-edition-e-version/>`_
 
 Cohn, Victor & Cope, Lewis. *News and numbers*. Wiley-Blackwell, 3rd ed., 2012
-`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51158605680002420>`__
+`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51158605680002420>`_
 
 `Cushion, Stephen, Lewis, Justin & Callaghan, Robert. Data Journalism,
 Impartiality And Statistical Claims. Towards more independent scrutiny
-in news reporting. Journalism Practice, 11/2017, p. 1198-1215 <https://www.tandfonline.com/doi/full/10.1080/17512786.2016.1256789>`__
+in news reporting. Journalism Practice, 11/2017, p. 1198-1215 <https://www.tandfonline.com/doi/full/10.1080/17512786.2016.1256789>`_
 
 `Davies, William. How statistics lost their power. Guardian,
-2017 <https://www.theguardian.com/politics/2017/jan/19/crisis-of-statistics-big-data-democracy>`__
+2017 <https://www.theguardian.com/politics/2017/jan/19/crisis-of-statistics-big-data-democracy>`_
 
 Goldacre, Ben. *Big Pharma. How drug companies mislead doctors and harm patients*. 4th Estate, 2012
 
 Goldacre, Ben. *I think you'll find it's a bit more complicated than that*. 4th Estate, 2014
 
 `Gould, Stephen Jay. The median isn’t the message. Ceylon Medical
-Journal. Vol. 49(4), 2004, p. 139-40 <https://cmj.sljol.info/articles/abstract/10.4038/cmj.v49i4.1930/>`__
+Journal. Vol. 49(4), 2004, p. 139-40 <https://cmj.sljol.info/articles/abstract/10.4038/cmj.v49i4.1930/>`_
 
 Hand, David J. *Statistics. A very short introduction*. OUP, 2008. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA2174879880002420>`_
 
 Harford, Tim. *How to make the world add up*. Bridge Street Press, 2020
 
 `Huff, Darrell. How to lie with statistics. Norton,
-1954 <http://faculty.neu.edu.cn/cc/zhangyf/papers/How-to-Lie-with-Statistics.pdf>`__
+1954 <http://faculty.neu.edu.cn/cc/zhangyf/papers/How-to-Lie-with-Statistics.pdf>`_
 
 Jerven, Morten. Preface. *Poor Numbers*. Cornell University Press, 2013, p. ix–xiv. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51171366170002420>`_
 
 `Jerven, Morten & Wilkinson, Kate. Hard data and soft statistics: A
 guide to critical reporting. Datajournalism.com,
-2019 <https://datajournalism.com/read/longreads/hard-data-and-soft-statistics-a-guide-to-critical-reporting>`__
+2019 <https://datajournalism.com/read/longreads/hard-data-and-soft-statistics-a-guide-to-critical-reporting>`_
 
 Kahneman, Daniel. *Thinking, Fast and Slow*. Penguin, 2011. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA2171412520002420>`_
 
 `Kaplan, Daniel. Statistical Modelling.
-2017 <https://dtkaplan.github.io/SM2-bookdown>`__
+2017 <https://dtkaplan.github.io/SM2-bookdown>`_
 
 `Lievesley, Denise. A guide to statistics for journalists. Reuters
 Institute, 2020. 1h
-Video <https://www.youtube.com/watch?v=_qioPxHuk0U>`__
+Video <https://www.youtube.com/watch?v=_qioPxHuk0U>`_
 
 `Marshall, Sarah. How to correctly report numbers in the news.
-2012 <https://www.journalism.co.uk/skills/how-to-report-numbers-in-the-news/s7/a547659/>`__
+2012 <https://www.journalism.co.uk/skills/how-to-report-numbers-in-the-news/s7/a547659/>`_
 
 Meyer, Philip. *Precision Journalism. A Reporter’s Introduction to
 Social Science Methods*. Rowman & Littlefield, 4th ed., 2002.
-`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51112618970002420>`__
+`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51112618970002420>`_
 [Especially chapter 3, Some elements of data analysis and chapter 4,
 Harnessing the power of statistics]
 
@@ -772,14 +766,14 @@ Reuben, Anthony. *Statistical. Ten easy ways to avoid being misled by
 numbers*. Constable, 2019
 
 `Rosling, Hans. The joy of stats. 1h
-Video <https://www.gapminder.org/videos/the-joy-of-stats/>`__
+Video <https://www.gapminder.org/videos/the-joy-of-stats/>`_
 
 Rowntree, Derek. *Statistics without tears. An introduction for
 non-mathematicians*. Penguin, 2018
 
 `Sense About Science. Making sense of statistics. What statistics tell
 you and how to ask the right questions. Sense About Science.
-2010 <https://senseaboutscience.org/activities/making-sense-of-statistics/>`__
+2010 <https://senseaboutscience.org/activities/making-sense-of-statistics/>`_
 
 Silver, Nate. *The Signal and the Noise. The Art and Science of
 Prediction*. Penguin, 2012
@@ -789,17 +783,16 @@ Pelican, 2019
 
 `Spiegelhalter, David. Communicating statistics, risk and uncertainty
 in the age of Covid-19. 2020. 40' Video (from 7’
-20") <https://media.ed.ac.uk/media/Communicating+statistics%2C+risk+and+uncertainty+in+the+age+of+Covid/1_y2lw3u6d>`__
+20") <https://media.ed.ac.uk/media/Communicating+statistics%2C+risk+and+uncertainty+in+the+age+of+Covid/1_y2lw3u6d>`_
 
-`Stray, Jonathan. Drawing conclusions from data. 2013. 1h 30'
-Video <https://www.youtube.com/watch?v=3NuyRKNkBQg>`__
+`Stray, Jonathan. Drawing conclusions from data. 2013. <https://source.opennews.org/articles/statistically-sound-data-journalism/>`_
 
 `Stray, Jonathan. The curious journalist’s guide to data. Tow Center,
-2018 <https://towcenter.gitbooks.io/curious-journalist-s-guide-to-data/content/>`__
+2018 <https://towcenter.gitbooks.io/curious-journalist-s-guide-to-data/content/>`_
 
 `Taylor, Paul. Insanely complicated. Hopelessly inadequate. London
 Review of Books. 43/2, January
-2021 <https://www.lrb.co.uk/the-paper/v43/n02/paul-taylor/insanely-complicated-hopelessly-inadequate>`__
+2021 <https://www.lrb.co.uk/the-paper/v43/n02/paul-taylor/insanely-complicated-hopelessly-inadequate>`_
 
 Wheelan, Charles. *Naked statistics. Stripping the dread from the data*.
 Norton, 2013
@@ -930,7 +923,7 @@ Visualisation
 
 Guides to what kind of graph to use:
 
--  `https://datavizproject.com/`_
+-  `https://datavizproject.com <https://datavizproject.com/>`_
 -  `ft-interactive.github.io/visual-vocabulary/ <http://ft-interactive.github.io/visual-vocabulary/>`_
 -  `flowingdata.com/chart-types <https://flowingdata.com/chart-types>`_
 -  `datavizcatalogue.com/search.html <https://datavizcatalogue.com/search.html>`_
