@@ -626,9 +626,6 @@ Press, 2018
 `Morphocode. The use of color in
 maps <https://morphocode.com/the-use-of-color-in-maps/>`_
 
-Muehlenhaus, Ian. *Web cartography: map design for interactive and
-mobile devices*. CRC Press, 2014
-
 `NHS. Summary of geographical areas in
 Wales <http://www2.nphs.wales.nhs.uk:8080/PubHObservatoryProjDocs.nsf/85c50756737f79ac80256f2700534ea3/3b8079b7c790215680257e51004e0bd5/$FILE/20150422_WalesGeographies_Web.pdf>`_
 
