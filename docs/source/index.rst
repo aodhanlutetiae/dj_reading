@@ -45,7 +45,7 @@ Video <https://www.youtube.com/watch?v=DYzDnufwHNE>`_
 
 Rogers, Simon. *Facts are sacred*. Faber & Faber, 2013.
 
-`SPJ. Data tools & tipsheets [Overpowering list but worth browsing] <https://www.journaliststoolbox.org/2021/06/05/data-tools-tipsheets-and-research/>`_
+`SPJ. Data tools & tipsheets <https://www.journaliststoolbox.org/2021/06/05/data-tools-tipsheets-and-research/>`_ [Overpowering list but worth browsing]
 
 
 
@@ -934,46 +934,46 @@ Guides to what kind of graph to use:
 -  `policyviz.com/2016/11/30/style-guides/ <https://policyviz.com/2016/11/30/style-guides/>`_
 
 `Blinderman, Ilia. How to make dope shit. Part 2: Design. The
-Pudding <https://pudding.cool/process/how-to-make-dope-shit-part-2/>`__
+Pudding <https://pudding.cool/process/how-to-make-dope-shit-part-2/>`_
 
 Cairo, Alberto. *The functional art*. New Rider, 2013
-`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA2172237890002420>`__
+`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA2172237890002420>`_
 
 Cairo, Alberto. *The truthful art*. New Rider, 2016
-`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_askewsholts_vlebooks_9780133440539>`__
+`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_askewsholts_vlebooks_9780133440539>`_
 
 `Chalabi, Mona.
-Instagram <https://www.instagram.com/monachalabi/?hl=en>`__
+Instagram <https://www.instagram.com/monachalabi/?hl=en>`_
 
 `Engebretsen, Martin & Kennedy, Helen. Data Visualisation in
-Society. 2020 <https://www.jstor.org/stable/j.ctvzgb8c7>`__
+Society. 2020 <https://www.jstor.org/stable/j.ctvzgb8c7>`_
 
 `House of Commons. Library guide to designing effective
-charts <https://researchbriefings.files.parliament.uk/documents/SN05073/SN05073.pdf>`__
+charts <https://researchbriefings.files.parliament.uk/documents/SN05073/SN05073.pdf>`_
 
 `Knight Center. Module 5. Visualising. Data journalism and
 visualisation with free tools. Online course.
-2019 <https://live-journalismcourses.pantheonsite.io/course/data-journalism-and-visualization-with-free-tools/>`__
+2019 <https://live-journalismcourses.pantheonsite.io/course/data-journalism-and-visualization-with-free-tools/>`_
 
 `Levontin, Polina & Walton, Jo Lindsay, Visualising Uncertainty. Sad
-Press, 2020 <https://spiral.imperial.ac.uk/bitstream/10044/1/80424/2/VUI_221219.pdf>`__
+Press, 2020 <https://spiral.imperial.ac.uk/bitstream/10044/1/80424/2/VUI_221219.pdf>`_
 
 `Matejka, Justin & Fitzmaurice, George. Same Stats, Different Graphs:
 Generating Datasets with Varied Appearance and Identical Statistics
 through Simulated Annealing, CHI,
-2017 <https://www.researchgate.net/publication/316652618_Same_Stats_Different_Graphs_Generating_Datasets_with_Varied_Appearance_and_Identical_Statistics_through_Simulated_Annealing>`__
+2017 <https://www.researchgate.net/publication/316652618_Same_Stats_Different_Graphs_Generating_Datasets_with_Varied_Appearance_and_Identical_Statistics_through_Simulated_Annealing>`_
 
 Posavec, Stefanie & Lupi, Giorgia. *Dear Data*. Particular Books,
-2016 & `Project <http://www.dear-data.com/theproject>`__
+2016 & `Project <http://www.dear-data.com/theproject>`_
 
 `Rost, Lisa Charlotte. How to choose more beautiful colors for your data
 visualisation. Blogpost, Datawrapper,
-2020 <https://blog.datawrapper.de/beautifulcolors/>`__
+2020 <https://blog.datawrapper.de/beautifulcolors/>`_
 
 `Rue, Jeremy. Visualising data: a guide to chart types. Berkeley. 2019. <https://multimedia.journalism.berkeley.edu/tutorials/visualizing-data-a-guide-to-chart-types/>`_
 
 `Sunlight Foundation. Dataviz style
-guidelines <https://github.com/amycesal/dataviz-style-guide/blob/master/Sunlight-StyleGuide-DataViz.pdf>`__
+guidelines <https://github.com/amycesal/dataviz-style-guide/blob/master/Sunlight-StyleGuide-DataViz.pdf>`_
 
 Tufte, Edward. *The visual display of quantitative information*. 2nd ed.,
 Graphics Press, 2001
@@ -985,14 +985,16 @@ Tufte, Edward. *Beautiful Evidence*. Graphics Press, 2006
 Tableau resources:
 
 -  `Reference
-   gathering <http://www.dataplusscience.com/TableauReferenceGuide/>`__
+   gathering <http://www.dataplusscience.com/TableauReferenceGuide/>`_
 -  `Tableau
-   gallery <https://public.tableau.com/en-gb/gallery/?tab=viz-of-the-day&type=viz-of-the-day>`__
--  Makeover Monday: `data <https://www.makeovermonday.co.uk/data/>`__ &
-   `gallery <https://www.makeovermonday.co.uk/gallery/>`__ &
-   `forum <https://data.world/makeovermonday/2017-w-52-christmas-trees-sold-in-the-us/discuss/2017-w52-christmas-trees-sold-in-the-us/g4zdsyjs>`__ & `youtube (live walkthroughs) <https://www.youtube.com/hashtag/makeovermonday>`__
+   gallery <https://public.tableau.com/en-gb/gallery/?tab=viz-of-the-day&type=viz-of-the-day>`_
+-  Makeover Monday: `data <https://www.makeovermonday.co.uk/data/>`_ &
+   `gallery <https://www.makeovermonday.co.uk/gallery/>`_ &
+   `forum <https://data.world/makeovermonday/2017-w-52-christmas-trees-sold-in-the-us/discuss/2017-w52-christmas-trees-sold-in-the-us/g4zdsyjs>`_ & `youtube (live walkthroughs) <https://www.youtube.com/hashtag/makeovermonday>`_
 -  `BBC Style guide for
-   Tableau <https://public.tableau.com/profile/bbc.audiences#!/vizhome/BBCAudiencesTableauStyleGuide/Hello>`__
+   Tableau <https://public.tableau.com/profile/bbc.audiences#!/vizhome/BBCAudiencesTableauStyleGuide/Hello>`_
 
 Wilkinson, Leland. *The grammar of graphics*. Springer, 1999
-`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51169539330002420>`__
+`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51169539330002420>`_
+
+Wong, Dona M. *The Wall Street Journal Guide to Information Graphics*. Norton, 2013.
