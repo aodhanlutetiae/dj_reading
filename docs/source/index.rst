@@ -249,7 +249,6 @@ claims. Wired,
 `Stone, Deborah. The ethics of counting. James Madison Award Lecture.
 2017 <https://www.cambridge.org/core/services/aop-cambridge-core/content/view/6EB60C0EAB17A50F89038721F3379A9A/S1049096517001767a.pdf/2017_james_madison_award_lecture_the_ethics_of_counting.pdf>`__
 
-
 `UK Statistics Authority. Ethical considerations in the use of geospatial data. May 2021 <https://uksa.statisticsauthority.gov.uk/publication/ethical-considerations-in-the-use-of-geospatial-data-for-research-and-statistics/>`_
 
 `Velotio. Scraping guidelines & best practices <https://www.velotio.com/engineering-blog/web-scraping-introduction-best-practices-caveats>`_
@@ -696,6 +695,8 @@ Blastland, Michael & Dilnot, Andrew. *The Tiger that isn’t. Seeing
 through a world of numbers*. Profile, 2008
 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_askewsholts_vlebooks_9781847650795>`_
 
+Chivers, Tom. *How to read numbers. A guide to statistics in the news*. W&N, 2021.
+
 `Cohen, Sarah. Numbers in the Newsroom: Using Math and Statistics in
 News, 2nd ed., IRE, 2014 <https://www.ire.org/product/numbers-in-the-newsroom-using-math-and-statistics-in-news-second-edition-e-version/>`_
 
@@ -714,7 +715,7 @@ Goldacre, Ben. *Big Pharma. How drug companies mislead doctors and harm patients
 Goldacre, Ben. *I think you'll find it's a bit more complicated than that*. 4th Estate, 2014
 
 `Gould, Stephen Jay. The median isn’t the message. Ceylon Medical
-Journal. Vol. 49(4), 2004, p. 139-40 <https://cmj.sljol.info/articles/abstract/10.4038/cmj.v49i4.1930/>`_
+Journal. Vol. 49(4), 2004, p. 139-40 <https://cmj.sljol.info/articles/abstract/10.4038/cmj.v49i4.1930/>`_
 
 Hand, David J. *Statistics. A very short introduction*. OUP, 2008. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA2174879880002420>`_
 
@@ -731,11 +732,9 @@ guide to critical reporting. Datajournalism.com,
 
 Kahneman, Daniel. *Thinking, Fast and Slow*. Penguin, 2011. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA2171412520002420>`_
 
-`Kaplan, Daniel. Statistical Modelling.
-2017 <https://dtkaplan.github.io/SM2-bookdown>`_
+`Kaplan, Daniel. Statistical Modelling. 2017 <https://dtkaplan.github.io/SM2-bookdown>`_
 
-`Lievesley, Denise. A guide to statistics for journalists. Reuters
-Institute, 2020. 1h
+`Lievesley, Denise. A guide to statistics for journalists. Reuters Institute, 2020. 1h
 Video <https://www.youtube.com/watch?v=_qioPxHuk0U>`_
 
 `Marshall, Sarah. How to correctly report numbers in the news.
@@ -747,7 +746,7 @@ Social Science Methods*. Rowman & Littlefield, 4th ed., 2002.
 [Especially chapter 3, Some elements of data analysis and chapter 4,
 Harnessing the power of statistics]
 
-Nguyen, An (ed.). News, numbers and public opinion in a data-driven world. Bloomsbury, 2018. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51144864580002420>`_
+Nguyen, An (ed.). *News, numbers and public opinion in a data-driven world*. Bloomsbury, 2018. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51144864580002420>`_
 
 Paulos, John Allen. *A Mathematician Reads the Newspapers*. Penguin,
 1995
