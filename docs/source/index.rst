@@ -69,8 +69,7 @@ DATA SOURCES
 
 - `ECDC <https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide>`_
 - `ONS <https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/datalist?filter=datasets>`_
-- `PHW <https://public.tableau.com/profile/public.health.wales.health.protection#!/vizhome/RapidCOVID-19virology-Public/Headlinesummary>`_
-   (headline summary / download data)
+- `PHW <https://public.tableau.com/profile/public.health.wales.health.protection#!/vizhome/RapidCOVID-19virology-Public/Headlinesummary>`_ (headline summary / download data)
 - `UK.GOV <https://coronavirus.data.gov.uk/details/download>`_
 - `Wales vaccination numbers <https://public.tableau.com/app/profile/public.health.wales.health.protection/viz/RapidCOVID-19virology-Public/Headlinesummary>`_
 
@@ -368,8 +367,7 @@ information <https://www.legalleaks.info/wp-content/uploads/2018/06/Legal_Leaks_
 `Miller, Claire, A great big list of FOI ideas. Jan
 2013 <http://clairemiller.net/blog/2013/01/a-great-big-list-of-foi-ideas/>`__
 
-Morrison, James. Freedom of Information. *Essential public affairs for
-journalists*. OUP, 2017, p. 468-85
+Morrison, James. Freedom of Information. *Essential public affairs for journalists (7th ed.)*. OUP, 2021.
 
 `Reid, Alastair. Ten years of FOI. Resources and tips for journalists.
 Journalism.co.uk.
@@ -507,8 +505,7 @@ with `code <https://github.com/BuzzFeedNews/2017-08-spy-plane-finder>`_
 `Deepnews. Article scorer for journalistic quality
 <https://www.deepnews.ai/about/technology/>`_
 
-`Fussell, Sidney. AI Shows ExxonMobil Downplayed Its Role in Climate Change. 2021
- <https://www.wired.com/story/ai-shows-exxonmobil-downplayed-role-climate-change/>`_
+`Fussell, Sidney. AI Shows ExxonMobil Downplayed Its Role in Climate Change. 2021 <https://www.wired.com/story/ai-shows-exxonmobil-downplayed-role-climate-change/>`_
 
 `Gajtkowski, Adam. Predicting FT trending topics. 2021
 <https://medium.com/ft-product-technology/predicting-ft-trending-topics-7eda85ece727>`_
@@ -923,7 +920,7 @@ Visualisation
 
 Guides to what kind of graph to use:
 
--  `https://datavizproject.com <https://datavizproject.com/>`_
+-  `datavizproject.com <https://datavizproject.com/>`_
 -  `ft-interactive.github.io/visual-vocabulary/ <http://ft-interactive.github.io/visual-vocabulary/>`_
 -  `flowingdata.com/chart-types <https://flowingdata.com/chart-types>`_
 -  `datavizcatalogue.com/search.html <https://datavizcatalogue.com/search.html>`_
