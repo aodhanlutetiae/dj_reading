@@ -202,7 +202,7 @@ Mapping and the Development of Ethical Standards in Data Journalism.
 online discussion.
 Datajournalism.com <https://datajournalism.com/read/longreads/ethical-questions-in-data-journalism-and-the-power-of-online-discussion>`__
 
-Criado-Perez, Caroline. *Invisible women: data bias in a world designed for men*. Abrams, 2019
+Criado-Perez, Caroline. *Invisible women: data bias in a world designed for men*. Vintage, 2019
 
 `Diakopoulos, Nick. BuzzFeed’s pro tennis investigation displays ethical dilemmas of data journalism. CJR, 2016. <https://www.cjr.org/tow_center/transparency_algorithms_buzzfeed.php>`_
 
@@ -253,6 +253,8 @@ claims. Wired,
 
 `Velotio. Scraping guidelines & best practices <https://www.velotio.com/engineering-blog/web-scraping-introduction-best-practices-caveats>`_
 
+`Wilson, Greg et al. Good enough practices in scientific computing. PLOS. 2017 <https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510>`_
+
 
 
 Excel & Sheets
@@ -296,15 +298,15 @@ Amin, Lucas & Montague, Brendan. *FOIA without the lawyer: freedom, information 
 Amin, Lucas & Montague, Brendan. *EIRs without the lawyer: the journalist's guide to the Environmental Information Regulations*. TCIJ, 2013
 
 `Bartlett, Rachel. How to submit a freedom of information request. Journalism.co.uk,
-2012 <https://www.journalism.co.uk/skills/how-to-submit-a-freedom-of-information-request/s7/a548038/>`__
+2012 <https://www.journalism.co.uk/skills/how-to-submit-a-freedom-of-information-request/s7/a548038/>`_
 
 `Basnett, Guy & McNamara, Paul. FOI at ten. How all journalists can use
 the freedom of information act to find great exclusives. Press
 Gazette.
-2015 <https://www.pressgazette.co.uk/foi-10-how-all-journalists-can-use-freedom-information-act-find-great-exclusives/>`__
+2015 <https://www.pressgazette.co.uk/foi-10-how-all-journalists-can-use-freedom-information-act-find-great-exclusives/>`_
 
 `BBC Academy. Freedom of Information requests.
-2017 <https://www.bbc.co.uk/academy/en/articles/art20140226095548310>`__
+2017 <https://www.bbc.co.uk/academy/en/articles/art20140226095548310>`_
 
 Brooke, Heather. *Your right to know. A citizen’s guide to the Freedom
 of Information Act*. 2nd ed., Pluto, 2007. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/3go6c4/44CAR_ALMA51151691970002420>`_
@@ -312,80 +314,83 @@ of Information Act*. 2nd ed., Pluto, 2007. `Library resource <https://librarysea
 Burgess, Matthew. *Freedom of Information: A Practical Guide for UK
 Journalists*. Routledge, 2015
 
-`Burgess, Matthew. FOI directory <https://foi.directory/>`__
+`Burgess, Matthew. FOI directory <https://foi.directory/>`_
 
 `Burgess, Matthew. Some of the best stories based on FOI requests in
-2017 <https://www.foi.directory/some-of-the-best-stories-based-on-foi-requests-in-2017/>`__
+2017 <https://www.foi.directory/some-of-the-best-stories-based-on-foi-requests-in-2017/>`_
 
 `Burgess, Matt. FOIA. 103 stories that prove Chris Grayling
-wrong <https://www.theguardian.com/media/2015/oct/30/freedom-of-information-act-chris-grayling-misuse-foi>`__
+wrong <https://www.theguardian.com/media/2015/oct/30/freedom-of-information-act-chris-grayling-misuse-foi>`_
 
-`Campaign for Freedom of Information <https://www.cfoi.org.uk/>`__
+`Campaign for Freedom of Information <https://www.cfoi.org.uk/>`_
 
 `Campaign for Freedom of Information & Wood, Steve. UK Freedom of
-Information blog <http://foia.blogspot.com/>`__
+Information blog <http://foia.blogspot.com/>`_
 
 Dodd, Mike & Hanna, Mark. The Freedom of Information Act 2000. *McNae’s Essential Law for Journalists*, 25th ed., 2020, p. 401-09
 
 `Gibbons, Paul. The Freedom of Information Officer. Open Data
-Institute. 2019. 40' Video <https://www.youtube.com/watch?v=pP6pHg-CWC4>`__
+Institute. 2019. 40' Video <https://www.youtube.com/watch?v=pP6pHg-CWC4>`_
 
-`GIJN. FOIA this! Article series <https://gijn.org/?s=foia+this>`__
+`GIJN. FOIA this! Article series <https://gijn.org/?s=foia+this>`_
 
 `Geoghegan, Peter. FOI. London Review of Books. 43/4,
-2021 <https://www.lrb.co.uk/the-paper/v43/n03/peter-geoghegan/short-cuts>`__
+2021 <https://www.lrb.co.uk/the-paper/v43/n03/peter-geoghegan/short-cuts>`_
 
 `Goldberg, Kevin. FOI resources. GIJN.
-2019 <https://drive.google.com/file/d/1VG1p1P0diz89ea64yll-GAo9mXesXCxH/view>`__
+2019 <https://drive.google.com/file/d/1VG1p1P0diz89ea64yll-GAo9mXesXCxH/view>`_
 
 Harris, Kelly, Metcalfe, Eric & Wadham, John. *Blackstone’s guide to the
 Freedom of Information Act 2000*. 5th ed., OUP, 2013
 
 `Higgerson, David. FOI
-ideas <https://davidhiggerson.wordpress.com/2016/03/27/foi-friday-10-foi-ideas-for-journalists-is-back/>`__
+ideas <https://davidhiggerson.wordpress.com/2016/03/27/foi-friday-10-foi-ideas-for-journalists-is-back/>`_
 
 `Information Commissioner’s Office. Guide to authorities that respond
 to
-FOI. 2017 <https://ico.org.uk/media/for-organisations/guide-to-freedom-of-information-4-9.pdf>`__
+FOI. 2017 <https://ico.org.uk/media/for-organisations/guide-to-freedom-of-information-4-9.pdf>`_
 
 `Information Commissioner’s Office. How to get information from a
 public body (for
-individuals) <https://ico.org.uk/your-data-matters/official-information/>`__
+individuals) <https://ico.org.uk/your-data-matters/official-information/>`_
 
 `Information Commissioner’s Office. A guide to freedom of information
 (for
-organisations) <https://ico.org.uk/for-organisations/guide-to-freedom-of-information/>`__
+organisations) <https://ico.org.uk/for-organisations/guide-to-freedom-of-information/>`_
 
 `Legal-leaks. Legal leaks toolkit. A guide for journalists on how to
 access government
-information <https://www.legalleaks.info/wp-content/uploads/2018/06/Legal_Leaks_English_International_Version.pdf>`__
+information <https://www.legalleaks.info/wp-content/uploads/2018/06/Legal_Leaks_English_International_Version.pdf>`_
 
 `McIntosh, Toby. Walking the FOI beat. Tipsheet. GIJN.
-2019 <https://drive.google.com/file/d/1D41ZBiOPWLR9_8E7G-5lugLFJg3BQdJ4/view>`__
+2019 <https://drive.google.com/file/d/1D41ZBiOPWLR9_8E7G-5lugLFJg3BQdJ4/view>`_
 
 `Miller, Claire, A great big list of FOI ideas. Jan
-2013 <http://clairemiller.net/blog/2013/01/a-great-big-list-of-foi-ideas/>`__
+2013 <http://clairemiller.net/blog/2013/01/a-great-big-list-of-foi-ideas/>`_
 
 Morrison, James. Freedom of Information. *Essential public affairs for journalists (7th ed.)*. OUP, 2021.
 
+`Open Democracy. Freedom of Information (article series) <https://www.opendemocracy.net/search/?query=FOI>`_
+
+
 `Reid, Alastair. Ten years of FOI. Resources and tips for journalists.
 Journalism.co.uk.
-2015 <https://www.journalism.co.uk/news/10-years-of-foi-resources-and-tips-for-journalists/s2/a563661/>`__
+2015 <https://www.journalism.co.uk/news/10-years-of-foi-resources-and-tips-for-journalists/s2/a563661/>`_
 
 `Rosenbaum, Martin. 10 things we found out because of FOI. BBC Online.
-2015 <https://www.bbc.co.uk/news/magazine-30645383>`__
+2015 <https://www.bbc.co.uk/news/magazine-30645383>`_
 
 `TBIJ. Bureau launches action over hidden council finances. October
-2020 <https://www.thebureauinvestigates.com/stories/2020-10-22/bureau-launches-action-over-hidden-council-finances>`__
+2020 <https://www.thebureauinvestigates.com/stories/2020-10-22/bureau-launches-action-over-hidden-council-finances>`_
 
 `UCL. Chronology of FOI in the
-UK <https://www.ucl.ac.uk/constitution-unit/research/research-archive/foi-archive/what-freedom-information-data-protection>`__
+UK <https://www.ucl.ac.uk/constitution-unit/research/research-archive/foi-archive/what-freedom-information-data-protection>`_
 
 `UK government guide to
-FOI <https://www.gov.uk/make-a-freedom-of-information-request>`__
+FOI <https://www.gov.uk/make-a-freedom-of-information-request>`_
 
 `What do they know? FOIs already
-placed <https://www.whatdotheyknow.com/>`__
+placed <https://www.whatdotheyknow.com/>`_
 
 
 
