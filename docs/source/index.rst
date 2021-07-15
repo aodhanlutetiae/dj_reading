@@ -261,32 +261,34 @@ Excel & Sheets
 ==============
 
 `Berkeley Media Lab. A quick and easy guide to
-spreadsheets <https://multimedia.journalism.berkeley.edu/tutorials/spreadsheets/>`__
+spreadsheets <https://multimedia.journalism.berkeley.edu/tutorials/spreadsheets/>`_
 
 Bradshaw, Paul. *Finding stories with spreadsheets*. Leanpub, 2016
 
-`GCF Global. Google spreadsheets <https://edu.gcfglobal.org/en/googlespreadsheets>`__
+`GCF Global. Google spreadsheets <https://edu.gcfglobal.org/en/googlespreadsheets>`_
 
-`Google. Sheets training & help <https://support.google.com/a/users/answer/9282959>`__
+`Google. Sheets training & help <https://support.google.com/a/users/answer/9282959>`_
 
 `Groeger, Lena. Spreadsheets
-lab <http://lenagroeger.s3.amazonaws.com/talks/orlando/exercises/Spreadsheets/spreadsheetslab.html>`__
+lab <http://lenagroeger.s3.amazonaws.com/talks/orlando/exercises/Spreadsheets/spreadsheetslab.html>`_
 
 `Houston, Brant. Let the spreadsheet do the math. GIJN.
-2019 <https://gijn.org/2019/05/21/eight-simple-ways-to-let-the-spreadsheet-do-the-math-so-you-can-focus-on-the-story/>`__
+2019 <https://gijn.org/2019/05/21/eight-simple-ways-to-let-the-spreadsheet-do-the-math-so-you-can-focus-on-the-story/>`_
 
-`Lambrechts, Maarten. Cleaning data in Excel: video course. Datajournalism.com. 1h 30' video <https://datajournalism.com/watch/cleaning-data-in-excel>`__
+`Katz, Abbott. Excel dynamic array functions: what datajournalists need to know. Datajournalism.com <https://datajournalism.com/read/longreads/excel-dynamic-array-functions-what-data-journalists-need-to-know>`_
 
-`MacDonald, Matthew. Excel 2013: the missing manual. O'Reilly <http://index-of.co.uk/OFIMATICA/OReilly%20Excel%202013,%20The%20Missing%20Manual.pdf>`__
+`Lambrechts, Maarten. Cleaning data in Excel: video course. Datajournalism.com. 1h 30' video <https://datajournalism.com/watch/cleaning-data-in-excel>`_
+
+`MacDonald, Matthew. Excel 2013: the missing manual. O'Reilly <http://index-of.co.uk/OFIMATICA/OReilly%20Excel%202013,%20The%20Missing%20Manual.pdf>`_
 
 `NY Times. Data course spreadsheets
-cheatsheets <https://drive.google.com/drive/folders/1l2DAll0Jc3Vq6vA9sLDzsBQVo6KBnE7x>`__
+cheatsheets <https://drive.google.com/drive/folders/1l2DAll0Jc3Vq6vA9sLDzsBQVo6KBnE7x>`_
 
 `Quartz. Bad data <https://github.com/Quartz/bad-data-guide>`_
 
-`Webster, Mary-Jo. Excel basics <https://sites.google.com/view/mj-basic-data-academy/excel-basics>`__
+`Webster, Mary-Jo. Excel basics <https://sites.google.com/view/mj-basic-data-academy/excel-basics>`_
 
-`Webster, Mary-Jo. Excel magic. 2019 <https://mjwebster.github.io/DataJ/tipsheets/ExcelMagic.pdf>`__
+`Webster, Mary-Jo. Excel magic. 2019 <https://mjwebster.github.io/DataJ/tipsheets/ExcelMagic.pdf>`_
 
 
 
@@ -452,7 +454,7 @@ Journalism Review.
 2018 <https://www.cjr.org/tow_center_reports/data-journalism-and-the-law.php>`__
 
 `Bhandari, Esha & Goodman, Rachel. Data  Journalism  and  the  Computer  Fraud  and  Abuse  Act: Tips for Moving Forward in an Uncertain Landscape.
-Paper from COmputation+Journalism Symposium (Northwestern), 2017
+Paper from Computation+Journalism Symposium (Northwestern), 2017
 <https://www.aclu.org/sites/default/files/field_document/data_journalism_and_the_computer_fraud_and_abuse_act-_tips_for_moving_forward_in_an_uncertain_landscape.pdf>`_
 
 `Borger, Julian. NSA files: why the Guardian in London destroyed hard
