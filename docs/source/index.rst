@@ -75,25 +75,25 @@ DATA SOURCES
 
 `Barr, Caelinn et al., Counting the human cost of Covid-19: Numbers
 tell a story words can't. Guardian, May
-2020 <https://www.theguardian.com/membership/datablog/2020/may/09/data-covid-19-numbers-story-pandemic-guardian-statistics>`__
+2020 <https://www.theguardian.com/membership/datablog/2020/may/09/data-covid-19-numbers-story-pandemic-guardian-statistics>`_
 
 `Bradshaw, Paul. How to brainstorm Covid-19 data story ideas.
 Datajournalism.com, April
-2020 <https://datajournalism.com/read/longreads/brainstorm-covid-19-data-story-ideas>`__
+2020 <https://datajournalism.com/read/longreads/brainstorm-covid-19-data-story-ideas>`_
 
 `Bronner, Laura et al., Why it’s so freaking hard to make a good
 Covid-19 model, Fivethirtyeight. March
-2020 <https://fivethirtyeight.com/features/why-its-so-freaking-hard-to-make-a-good-covid-19-model/>`__
+2020 <https://fivethirtyeight.com/features/why-its-so-freaking-hard-to-make-a-good-covid-19-model/>`_
 
 `Burn-Murdoch, John. Coronavirus trajectory tracker explained. 2020.
-6' Video <https://www.ft.com/video/9a72a9d4-8db1-4615-8333-4b73ae3ddff8>`__
+6' Video <https://www.ft.com/video/9a72a9d4-8db1-4615-8333-4b73ae3ddff8>`_
 
 `Burn-Murdoch, John. EJC Trust conference: The FT’s trajectory
-tracker. 2020. 20' Video <https://www.youtube.com/watch?v=pn6PjdGc-lw>`__
+tracker. 2020. 20' Video <https://www.youtube.com/watch?v=pn6PjdGc-lw>`_
 
 `Byrd, Josh et al. These charts track how coronavirus is spreading
 around the world. ABC (au),
-2020 <https://www.abc.net.au/news/2020-05-13/coronavirus-numbers-worldwide-data-tracking-charts/12107500?nw=0&pfmredir=sm>`__
+2020 <https://www.abc.net.au/news/2020-05-13/coronavirus-numbers-worldwide-data-tracking-charts/12107500?nw=0&pfmredir=sm>`_
 
 `Chang, Kenneth. A different way to chart the spread of coronavirus.
 NY Times.
@@ -119,59 +119,59 @@ journalists.
 
 `Harford, Tim. Statistics, lies and the virus: Tim Harford’s five
 lessons from a pandemic. Financial Times. September
-2020 <https://www.ft.com/content/92f64ea9-3378-4ffe-9fff-318ed8e3245e>`__
+2020 <https://www.ft.com/content/92f64ea9-3378-4ffe-9fff-318ed8e3245e>`_
 
 `Johnson, Oliver. How to read coronavirus graphs. The Spectator.
 April
-2020 <https://www.spectator.co.uk/article/how-to-read-coronavirus-graphs>`__
+2020 <https://www.spectator.co.uk/article/how-to-read-coronavirus-graphs>`_
 
 `Krakov, Andy. 13 things to visualise about Covid-19 besides case
 loads. Medium. March
-2020 <https://medium.com/nightingale/thirteen-things-to-visualize-about-covid-19-besides-case-loads-581fa90348dd>`__
+2020 <https://medium.com/nightingale/thirteen-things-to-visualize-about-covid-19-besides-case-loads-581fa90348dd>`_
 
 `Makulic, Amanda. Ten considerations before you create another chart
 about Covid-19, Medium. March
-2020 <https://medium.com/nightingale/ten-considerations-before-you-create-another-chart-about-covid-19-27d3bd691be8>`__
+2020 <https://medium.com/nightingale/ten-considerations-before-you-create-another-chart-about-covid-19-27d3bd691be8>`_
 
 `Meers, Jelta, How data journalists exposed the real Covid-19 death
 toll in Brazil. GIJN, July
-2020 <https://gijn.org/2020/07/28/how-data-journalists-exposed-the-real-covid-19-death-toll-in-brazil>`__
+2020 <https://gijn.org/2020/07/28/how-data-journalists-exposed-the-real-covid-19-death-toll-in-brazil>`_
 
 `ONS. Project Cairo (overall portfolio but includes Covid-19
-work) <https://onsvisual.github.io/project_cairo/index.html>`__
+work) <https://onsvisual.github.io/project_cairo/index.html>`_
 
 `Philip, Rowan. How to tackle the global undercount in Covid-19 deaths:
 reporters offer tips and techniques, GIJN, May
-2020 <https://gijn.org/2020/05/26/how-to-tackle-the-global-undercount-in-covid-19-deaths-reporters-offer-tips-and-techniques>`__
+2020 <https://gijn.org/2020/05/26/how-to-tackle-the-global-undercount-in-covid-19-deaths-reporters-offer-tips-and-techniques>`_
 
 `Reuters. Breaking the wave: How to graph the
-curve <https://graphics.reuters.com/HEALTH-CORONAVIRUS/CASUALTIES/gjnpwjmqvwr/index.html>`__
+curve <https://graphics.reuters.com/HEALTH-CORONAVIRUS/CASUALTIES/gjnpwjmqvwr/index.html>`_
 
 `Reuters. A deluge of death in northern Italy, March
-2020 <https://graphics.reuters.com/HEALTH-CORONAVIRUS-LOMBARDY/0100B5LT46P/index.html>`__
+2020 <https://graphics.reuters.com/HEALTH-CORONAVIRUS-LOMBARDY/0100B5LT46P/index.html>`_
 
 `Spiegelhalter, David. Communicating statistics, risk and uncertainty in
 the age of Covid. 40'
-Video <https://media.ed.ac.uk/media/Communicating+statistics%2C+risk+and+uncertainty+in+the+age+of+Covid/1_y2lw3u6d>`__
+Video <https://media.ed.ac.uk/media/Communicating+statistics%2C+risk+and+uncertainty+in+the+age+of+Covid/1_y2lw3u6d>`_
 
 `Stevens, Harry. Why outbreaks like coronavirus spread exponentially,
 and how to 'flatten the curve'. Washington Post. March
-2020 <https://www.washingtonpost.com/graphics/2020/world/corona-simulator/>`__
+2020 <https://www.washingtonpost.com/graphics/2020/world/corona-simulator/>`_
 
-`Tableau. Covid-19 hub <https://www.tableau.com/covid-19-coronavirus-data-resources>`__
+`Tableau. Covid-19 hub <https://www.tableau.com/covid-19-coronavirus-data-resources>`_
 
 
 
 Digital security
 ================
 
-`Committee to Protect Journalists. Digital safety kit for journalists <https://cpj.org/2019/07/digital-safety-kit-journalists/>`__
+`Committee to Protect Journalists. Digital safety kit for journalists <https://cpj.org/2019/07/digital-safety-kit-journalists/>`_
 
-`Global Cyber Alliance. Cybersecurity toolkit for journalists <https://gcatoolkit.org/journalists>`__
+`Global Cyber Alliance. Cybersecurity toolkit for journalists <https://gcatoolkit.org/journalists>`_
 
-`Rory Peck Trust. Digital security resources for freelancers <https://rorypecktrust.org/freelance-resources/digital-security/>`__
+`Rory Peck Trust. Digital security resources for freelancers <https://rorypecktrust.org/freelance-resources/digital-security/>`_
 
-`Reporters Without Borders. Digital security guide <https://helpdesk.rsf.org/digital-security-guide/>`__
+`Reporters Without Borders. Digital security guide <https://helpdesk.rsf.org/digital-security-guide/>`_
 
 
 
@@ -180,8 +180,7 @@ Ethics
 
 — See **Journalism** section for Codes and Guidelines
 
-`Alsudais, Abdulkareem. Incorrect Data in the Widely Used Inside Airbnb
-Dataset. 2020 <https://arxiv.org/abs/2007.03019>`__
+`Alsudais, Abdulkareem. Incorrect Data in the Widely Used Inside Airbnb Dataset. 2020 <https://arxiv.org/abs/2007.03019>`_
 
 `Cabreros, Irineo. Side-stepping safeguards, data journalists are doing science now. Undark. 2021 <https://undark.org/2021/04/22/data-journalists-are-doing-science/>`_
 
@@ -196,11 +195,11 @@ Journalistic Best Practices as Effect. *Journal of Mass Media Ethics*.
 Craig et al., To Post or Not to Post: Online Discussion of Gun Permit
 Mapping and the Development of Ethical Standards in Data Journalism.
 *Journalism & Mass Communication Quarterly*, January 2017
-`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_gale_infotracacademiconefile_A487432320>`__
+`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_gale_infotracacademiconefile_A487432320>`_
 
 `Craig et al. Ethical questions in data journalism and the power of
 online discussion.
-Datajournalism.com <https://datajournalism.com/read/longreads/ethical-questions-in-data-journalism-and-the-power-of-online-discussion>`__
+Datajournalism.com <https://datajournalism.com/read/longreads/ethical-questions-in-data-journalism-and-the-power-of-online-discussion>`_
 
 Criado-Perez, Caroline. *Invisible women: data bias in a world designed for men*. Vintage, 2019
 
@@ -208,7 +207,7 @@ Criado-Perez, Caroline. *Invisible women: data bias in a world designed for men*
 
 Gold, Zachardy & Latonero, Mark. Robots Welcome? Ethical and Legal Considerations for Web Crawling and Scraping. *Washington Journal of
 Law, Technology & Arts*. 13/3, 2018, p. 275
-`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA5186951260002420>`__
+`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA5186951260002420>`_
 
 Heydt, Michael. Scraping. Code of conduct. *Python web scraping
 cookbook*, Packt, 2018. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51156094260002420>`_
@@ -224,30 +223,30 @@ Mitchell, Ryan. Legalities & ethics of web scraping. *Web scraping with Python*.
 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51125433210002420>`_
 
 `NPR. Did George Floyd die or was he murdered?
-2020 <https://www.npr.org/sections/publiceditor/2020/06/04/868969745/did-george-floyd-die-or-was-he-murdered-one-of-many-ethics-questions-npr-must-an?t=1610277517399>`__
+2020 <https://www.npr.org/sections/publiceditor/2020/06/04/868969745/did-george-floyd-die-or-was-he-murdered-one-of-many-ethics-questions-npr-must-an?t=1610277517399>`_
 
 `Reuters. Microsoft's LinkedIn loses appeal over access to user
 profiles, Sept
-2019 <https://www.reuters.com/article/us-microsoft-linkedin-profiles/microsofts-linkedin-loses-appeal-over-access-to-user-profiles-idUSKCN1VU21W>`__
+2019 <https://www.reuters.com/article/us-microsoft-linkedin-profiles/microsofts-linkedin-loses-appeal-over-access-to-user-profiles-idUSKCN1VU21W>`_
 
 Rogers, Richard. The API and the ethics turn. *Doing Digital Methods*.
 Sage, 2019, p. 206-09
 
-`Scrapinghub. Web Scraping Best Practices Guide <https://scrapinghub.com/guides/web-scraping-best-practices>`__
+`Scrapinghub. Web Scraping Best Practices Guide <https://scrapinghub.com/guides/web-scraping-best-practices>`_
 
 `Sellars, Andrew. Twenty years of web scraping and the Computer Fraud
 and Abuse Act. Boston University Journal of Science & Technology Law.
-24, 2018 <https://scholarship.law.bu.edu/faculty_scholarship/465>`__
+24, 2018 <https://scholarship.law.bu.edu/faculty_scholarship/465>`_
 
 `Shiab, Nael. On the ethics of web scraping. GIJN,
-2015 <https://gijn.org/2015/08/12/on-the-ethics-of-web-scraping-and-data-journalism/>`__
+2015 <https://gijn.org/2015/08/12/on-the-ethics-of-web-scraping-and-data-journalism/>`_
 
 `Singel, Ryan. Netflix spilled your Brokeback Mountain secret, lawsuit
 claims. Wired,
-2009 <https://www.wired.com/2009/12/netflix-privacy-lawsuit/>`__
+2009 <https://www.wired.com/2009/12/netflix-privacy-lawsuit/>`_
 
 `Stone, Deborah. The ethics of counting. James Madison Award Lecture.
-2017 <https://www.cambridge.org/core/services/aop-cambridge-core/content/view/6EB60C0EAB17A50F89038721F3379A9A/S1049096517001767a.pdf/2017_james_madison_award_lecture_the_ethics_of_counting.pdf>`__
+2017 <https://www.cambridge.org/core/services/aop-cambridge-core/content/view/6EB60C0EAB17A50F89038721F3379A9A/S1049096517001767a.pdf/2017_james_madison_award_lecture_the_ethics_of_counting.pdf>`_
 
 `UK Statistics Authority. Ethical considerations in the use of geospatial data. May 2021 <https://uksa.statisticsauthority.gov.uk/publication/ethical-considerations-in-the-use-of-geospatial-data-for-research-and-statistics/>`_
 
