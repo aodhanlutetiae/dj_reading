@@ -201,7 +201,7 @@ Mapping and the Development of Ethical Standards in Data Journalism.
 online discussion.
 Datajournalism.com <https://datajournalism.com/read/longreads/ethical-questions-in-data-journalism-and-the-power-of-online-discussion>`_
 
-Criado-Perez, Caroline. *Invisible women: data bias in a world designed for men*. Vintage, 2019
+Criado-Perez, Caroline. *Invisible women: data bias in a world designed for men*. Vintage, 2019. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/3go6c4/44CAR_ALMA51186904880002420>`_
 
 `Diakopoulos, Nick. BuzzFeed’s pro tennis investigation displays ethical dilemmas of data journalism. CJR, 2016. <https://www.cjr.org/tow_center/transparency_algorithms_buzzfeed.php>`_
 
@@ -780,8 +780,7 @@ you and how to ask the right questions. Sense About Science.
 Silver, Nate. *The Signal and the Noise. The Art and Science of
 Prediction*. Penguin, 2012
 
-Spiegelhalter, David. *The Art of Statistics. Learning from Data*.
-Pelican, 2019
+Spiegelhalter, David. *The Art of Statistics. Learning from Data*. Pelican, 2019
 
 `Spiegelhalter, David. Communicating statistics, risk and uncertainty
 in the age of Covid-19. 2020. 40' Video (from 7’
@@ -823,6 +822,8 @@ concepts and techniques*. Syngress, April 2015.
 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA5188045320002420>`__
 
 Dubberly, Sam, Koenig, Alexa & Murray, Daragh. *Digital Witness. Using Open Source Information for Human Rights Investigation, Documentation, and Accountability*. OUP, 2020
+
+`Economist. Open-source intelligence challenges state monopolies on information. August 2021. <https://www.economist.com/briefing/2021/08/07/open-source-intelligence-challenges-state-monopolies-on-information>`_
 
 Hassan, Nihad A & Hijazi, Rami. Open Source Intelligence Methods and Tools: A Practical Guide to Online Intelligence
 Apress, 2018. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51156108450002420>`_
@@ -944,8 +945,9 @@ Cairo, Alberto. *The functional art*. New Rider, 2013
 Cairo, Alberto. *The truthful art*. New Rider, 2016
 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_askewsholts_vlebooks_9780133440539>`_
 
-`Chalabi, Mona.
-Instagram <https://www.instagram.com/monachalabi/?hl=en>`_
+`Chalabi, Mona. Instagram <https://www.instagram.com/monachalabi/?hl=en>`_
+
+`Civil Service UK. Introduction to data visualisation <https://gss.civilservice.gov.uk/policy-store/introduction-to-data-visualisation/>`_
 
 `Engebretsen, Martin & Kennedy, Helen. Data Visualisation in
 Society. 2020 <https://www.jstor.org/stable/j.ctvzgb8c7>`_
@@ -968,9 +970,10 @@ through Simulated Annealing, CHI,
 Posavec, Stefanie & Lupi, Giorgia. *Dear Data*. Particular Books,
 2016 & `Project <http://www.dear-data.com/theproject>`_
 
-`Rost, Lisa Charlotte. How to choose more beautiful colors for your data
-visualisation. Blogpost, Datawrapper,
+`Rost, Lisa Charlotte. How to choose more beautiful colors for your data visualisation. Blogpost, Datawrapper,
 2020 <https://blog.datawrapper.de/beautifulcolors/>`_
+
+`Rost, Lisa Charlotte. In defense of simple charts. Blogpost, Datawrapper, <https://blog.datawrapper.de/in-defense-of-simple-charts/>`_
 
 `Rue, Jeremy. Visualising data: a guide to chart types. Berkeley. 2019. <https://multimedia.journalism.berkeley.edu/tutorials/visualizing-data-a-guide-to-chart-types/>`_
 
