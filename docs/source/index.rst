@@ -701,7 +701,7 @@ Blastland, Michael & Dilnot, Andrew. *The Tiger that isn’t. Seeing
 through a world of numbers*. Profile, 2008
 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_askewsholts_vlebooks_9781847650795>`_
 
-Chivers, Tom. *How to read numbers. A guide to statistics in the news*. W&N, 2021.
+Chivers, Tom & David Chivers. *How to read numbers. A guide to statistics in the news*. W&N, 2021.
 
 `Cohen, Sarah. Numbers in the Newsroom: Using Math and Statistics in
 News, 2nd ed., IRE, 2014 <https://www.ire.org/product/numbers-in-the-newsroom-using-math-and-statistics-in-news-second-edition-e-version/>`_
@@ -724,6 +724,8 @@ Goldacre, Ben. *I think you'll find it's a bit more complicated than that*. 4th 
 Journal. Vol. 49(4), 2004, p. 139-40 <https://cmj.sljol.info/articles/abstract/10.4038/cmj.v49i4.1930/>`_
 
 Hand, David J. *Statistics. A very short introduction*. OUP, 2008. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA2174879880002420>`_
+
+Hand, David J. *Dark Data. Why what you don't know matters*. Princeton, 2020. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911839411302420>`_
 
 Harford, Tim. *How to make the world add up*. Bridge Street Press, 2020
 
