@@ -150,6 +150,7 @@ curve <https://graphics.reuters.com/HEALTH-CORONAVIRUS/CASUALTIES/gjnpwjmqvwr/in
 `Reuters. A deluge of death in northern Italy, March
 2020 <https://graphics.reuters.com/HEALTH-CORONAVIRUS-LOMBARDY/0100B5LT46P/index.html>`_
 
+`Riva, Catherine & Tinari, Serena. Guide for journalists: Investigating health & medicine. GIJN <https://www.re-check.ch/wordpress/en/projects/gijn-guide/>`_
 `Spiegelhalter, David. Communicating statistics, risk and uncertainty in
 the age of Covid. 40'
 Video <https://media.ed.ac.uk/media/Communicating+statistics%2C+risk+and+uncertainty+in+the+age+of+Covid/1_y2lw3u6d>`_
@@ -264,6 +265,8 @@ spreadsheets <https://multimedia.journalism.berkeley.edu/tutorials/spreadsheets/
 
 Bradshaw, Paul. *Finding stories with spreadsheets*. Leanpub, 2016
 
+`Free Code Camp. 3-hr Google Sheets youtube video <https://www.youtube.com/watch?v=N2opj8XzYBY>`_
+
 `GCF Global. Google spreadsheets <https://edu.gcfglobal.org/en/googlespreadsheets>`_
 
 `Google. Sheets training & help <https://support.google.com/a/users/answer/9282959>`_
@@ -348,8 +351,7 @@ Freedom of Information Act 2000*. 5th ed., OUP, 2013
 ideas <https://davidhiggerson.wordpress.com/2016/03/27/foi-friday-10-foi-ideas-for-journalists-is-back/>`_
 
 `Information Commissioner’s Office. Guide to authorities that respond
-to
-FOI. 2017 <https://ico.org.uk/media/for-organisations/guide-to-freedom-of-information-4-9.pdf>`_
+to FOI. 2017 <https://ico.org.uk/media/for-organisations/guide-to-freedom-of-information-4-9.pdf>`_
 
 `Information Commissioner’s Office. How to get information from a
 public body (for
@@ -372,7 +374,6 @@ information <https://www.legalleaks.info/wp-content/uploads/2018/06/Legal_Leaks_
 Morrison, James. Freedom of Information. *Essential public affairs for journalists (7th ed.)*. OUP, 2021.
 
 `Open Democracy. Freedom of Information (article series) <https://www.opendemocracy.net/search/?query=FOI>`_
-
 
 `Reid, Alastair. Ten years of FOI. Resources and tips for journalists.
 Journalism.co.uk.
@@ -951,6 +952,8 @@ Cairo, Alberto. *The truthful art*. New Rider, 2016
 
 `Civil Service UK. Introduction to data visualisation <https://gss.civilservice.gov.uk/policy-store/introduction-to-data-visualisation/>`_
 
+Dick, Murray. The infographic: a history of data graphics in news and communications. MIT Press, 2020.
+
 `Engebretsen, Martin & Kennedy, Helen. Data Visualisation in
 Society. 2020 <https://www.jstor.org/stable/j.ctvzgb8c7>`_
 
@@ -977,7 +980,9 @@ Posavec, Stefanie & Lupi, Giorgia. *Dear Data*. Particular Books,
 
 `Rost, Lisa Charlotte. In defense of simple charts. Blogpost, Datawrapper, <https://blog.datawrapper.de/in-defense-of-simple-charts/>`_
 
-`Rue, Jeremy. Visualising data: a guide to chart types. Berkeley. 2019. <https://multimedia.journalism.berkeley.edu/tutorials/visualizing-data-a-guide-to-chart-types/>`_
+`Rue, Jeremy. Visualising data: a guide to chart types. Berkeley. 2019 <https://multimedia.journalism.berkeley.edu/tutorials/visualizing-data-a-guide-to-chart-types/>`_
+
+Schwabisch, Jonathan. Better data vizualisations, Columbia, 2021. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911891875702420>`_
 
 `Sunlight Foundation. Dataviz style
 guidelines <https://github.com/amycesal/dataviz-style-guide/blob/master/Sunlight-StyleGuide-DataViz.pdf>`_
