@@ -702,6 +702,8 @@ Blastland, Michael & Dilnot, Andrew. *The Tiger that isn’t. Seeing
 through a world of numbers*. Profile, 2008
 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_askewsholts_vlebooks_9781847650795>`_
 
+Blauw, Sanne. The number bias. Sceptre, 2020.
+
 Chivers, Tom & David Chivers. *How to read numbers. A guide to statistics in the news*. W&N, 2021.
 
 `Cohen, Sarah. Numbers in the Newsroom: Using Math and Statistics in
@@ -972,13 +974,13 @@ Generating Datasets with Varied Appearance and Identical Statistics
 through Simulated Annealing, CHI,
 2017 <https://www.researchgate.net/publication/316652618_Same_Stats_Different_Graphs_Generating_Datasets_with_Varied_Appearance_and_Identical_Statistics_through_Simulated_Annealing>`_
 
-Posavec, Stefanie & Lupi, Giorgia. *Dear Data*. Particular Books,
-2016 & `Project <http://www.dear-data.com/theproject>`_
-
-`Rost, Lisa Charlotte. How to choose more beautiful colors for your data visualisation. Blogpost, Datawrapper,
+`Muth, Lisa Charlotte. How to choose more beautiful colors for your data visualisation. Blogpost, Datawrapper,
 2020 <https://blog.datawrapper.de/beautifulcolors/>`_
 
-`Rost, Lisa Charlotte. In defense of simple charts. Blogpost, Datawrapper, <https://blog.datawrapper.de/in-defense-of-simple-charts/>`_
+`Muth, Lisa Charlotte. In defense of simple charts. Blogpost, Datawrapper, <https://blog.datawrapper.de/in-defense-of-simple-charts/>`_
+
+Posavec, Stefanie & Lupi, Giorgia. *Dear Data*. Particular Books,
+2016 & `Project <http://www.dear-data.com/theproject>`_
 
 `Rue, Jeremy. Visualising data: a guide to chart types. Berkeley. 2019 <https://multimedia.journalism.berkeley.edu/tutorials/visualizing-data-a-guide-to-chart-types/>`_
 
