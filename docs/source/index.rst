@@ -309,8 +309,8 @@ the freedom of information act to find great exclusives. Press
 Gazette.
 2015 <https://www.pressgazette.co.uk/foi-10-how-all-journalists-can-use-freedom-information-act-find-great-exclusives/>`_
 
-`BBC Academy. Freedom of Information requests.
-2017 <https://www.bbc.co.uk/academy/en/articles/art20140226095548310>`_
+`BBC & Miller, Charles. Five ways to stop your FOI request being rejected.
+2015 <https://www.bbc.co.uk/blogs/collegeofjournalism/entries/babd8f3c-934f-4b5b-b37a-d5b06cdac69a>`_
 
 Brooke, Heather. *Your right to know. A citizen’s guide to the Freedom
 of Information Act*. 2nd ed., Pluto, 2007. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/3go6c4/44CAR_ALMA51151691970002420>`_
@@ -324,12 +324,9 @@ Journalists*. Routledge, 2015
 2017 <https://www.foi.directory/some-of-the-best-stories-based-on-foi-requests-in-2017/>`_
 
 `Burgess, Matt. FOIA. 103 stories that prove Chris Grayling
-wrong <https://www.theguardian.com/media/2015/oct/30/freedom-of-information-act-chris-grayling-misuse-foi>`_
+wrong. Guardian, 2015 <https://www.theguardian.com/media/2015/oct/30/freedom-of-information-act-chris-grayling-misuse-foi>`_
 
 `Campaign for Freedom of Information <https://www.cfoi.org.uk/>`_
-
-`Campaign for Freedom of Information & Wood, Steve. UK Freedom of
-Information blog <http://foia.blogspot.com/>`_
 
 Dodd, Mike & Hanna, Mark. The Freedom of Information Act 2000. *McNae’s Essential Law for Journalists*, 25th ed., 2020, p. 401-09
 
