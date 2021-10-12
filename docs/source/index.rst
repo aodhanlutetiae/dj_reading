@@ -56,10 +56,11 @@ Census 2021
 
 `Benton, Pete. Census 2021: ask me anything. Reddit. October 2020 <https://www.reddit.com/r/AskUK/comments/jel9pl/hello_everyone_im_pete_benton_from_the_office_for/>`_
 
+`Dunn, Ed. "Census 2021 – the count is done, the data is in, so what happens next?" ONS. <https://blog.ons.gov.uk/2021/10/12/census-2021-the-count-is-done-the-data-is-in-so-what-happens-next/>`_
+
 Hutchinson, Roger. *The Butcher, the baker, the candlestick maker*. Abacus, 2017
 
 `Jack, Andrew & Giles, Chris. Academics warn census in pandemic risks distorting government grants. Financial Times. March 2021 <https://www.ft.com/content/f55336fc-9d89-4b43-92d1-dae18f6d950d>`_
-
 
 
 Covid-19
@@ -294,8 +295,10 @@ cheatsheets <https://drive.google.com/drive/folders/1l2DAll0Jc3Vq6vA9sLDzsBQVo6K
 
 
 
-FOI
-===
+FOI & EIR
+=========
+
+`11KBW. Pantopicon (blog) <https://panopticonblog.com/>`_
 
 Amin, Lucas & Montague, Brendan. *FOIA without the lawyer: freedom, information and the press*. TCIJ, 2012
 
@@ -333,7 +336,7 @@ Dodd, Mike & Hanna, Mark. The Freedom of Information Act 2000. *McNae’s Essent
 `Gibbons, Paul. The Freedom of Information Officer. Open Data
 Institute. 2019. 40' Video <https://www.youtube.com/watch?v=pP6pHg-CWC4>`_
 
-`GIJN. FOIA this! Article series <https://gijn.org/?s=foia+this>`_
+`GIJN. FOIA this! (article series) <https://gijn.org/?s=foia+this>`_
 
 `Geoghegan, Peter. FOI. London Review of Books. 43/4,
 2021 <https://www.lrb.co.uk/the-paper/v43/n03/peter-geoghegan/short-cuts>`_
@@ -368,7 +371,7 @@ information <https://www.legalleaks.info/wp-content/uploads/2018/06/Legal_Leaks_
 `Miller, Claire, A great big list of FOI ideas. Jan
 2013 <http://clairemiller.net/blog/2013/01/a-great-big-list-of-foi-ideas/>`_
 
-Morrison, James. Freedom of Information. *Essential public affairs for journalists (7th ed.)*. OUP, 2021.
+Morrison, James. Freedom of Information. *Essential public affairs for journalists (7th ed.)*. OUP, 2021, p. 436-52. `Library resource (6th ed) <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911846722102420>`_
 
 `Open Democracy. Freedom of Information (article series) <https://www.opendemocracy.net/search/?query=FOI>`_
 
@@ -887,16 +890,12 @@ Storytelling with data
 `Blinderman, Ilia. How to make dope shit: Part 3 Storytelling. The
 Pudding <https://pudding.cool/process/how-to-make-dope-shit-part-3/>`__
 
-`Bradshaw, Paul. Here are the angles journalists use most often to tell
-stories in data.
-2020 <https://onlinejournalismblog.com/2020/08/11/here-are-the-7-types-of-stories-most-often-found-in-data/>`__
+`Bradshaw, Paul. Seven story structures. GIJN.
+2019 <https://gijn.org/2019/07/22/get-crafty-7-story-structures-to-try-out-in-your-next-investigation>`__
 
 `Bradshaw, Paul. It’s not all about numbers: six ways data can give you
 a story
 lead. 2020 <https://onlinejournalismblog.com/2020/02/05/its-not-all-about-numbers-6-ways-that-data-can-give-you-a-story-lead/>`__
-
-`Bradshaw, Paul. Seven story structures. GIJN.
-2019 <https://gijn.org/2019/07/22/get-crafty-7-story-structures-to-try-out-in-your-next-investigation>`__
 
 `Bradshaw, Paul. From relationships to ranking: angles for your next
 data story. GIJN.
