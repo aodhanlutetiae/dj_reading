@@ -890,16 +890,16 @@ Storytelling with data
 `Blinderman, Ilia. How to make dope shit: Part 3 Storytelling. The
 Pudding <https://pudding.cool/process/how-to-make-dope-shit-part-3/>`__
 
-`Bradshaw, Paul. Seven story structures. GIJN.
-2019 <https://gijn.org/2019/07/22/get-crafty-7-story-structures-to-try-out-in-your-next-investigation>`__
+`Bradshaw, Paul. From relationships to ranking: angles for your next
+data story. GIJN.
+2020 <https://gijn.org/2020/08/18/from-relationships-to-ranking-angles-for-your-next-data-story/>`__
 
 `Bradshaw, Paul. It’s not all about numbers: six ways data can give you
 a story
 lead. 2020 <https://onlinejournalismblog.com/2020/02/05/its-not-all-about-numbers-6-ways-that-data-can-give-you-a-story-lead/>`__
 
-`Bradshaw, Paul. From relationships to ranking: angles for your next
-data story. GIJN.
-2020 <https://gijn.org/2020/08/18/from-relationships-to-ranking-angles-for-your-next-data-story/>`__
+`Bradshaw, Paul. Seven story structures. GIJN.
+2019 <https://gijn.org/2019/07/22/get-crafty-7-story-structures-to-try-out-in-your-next-investigation>`__
 
 `Constantaras & Valeeva. A data journalist's guide to building a hypothesis. Datajournalism.com, 2021 <https://datajournalism.com/read/longreads/hypothesis-data-journalism>`_
 
