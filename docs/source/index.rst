@@ -156,6 +156,8 @@ curve <https://graphics.reuters.com/HEALTH-CORONAVIRUS/CASUALTIES/gjnpwjmqvwr/in
 the age of Covid. 40'
 Video <https://media.ed.ac.uk/media/Communicating+statistics%2C+risk+and+uncertainty+in+the+age+of+Covid/1_y2lw3u6d>`_
 
+`Spiegelhalter, David & Masters, Anthony. Covid by Numbers: making sense of the pandemic with data. Penguin, 2021.`
+
 `Stevens, Harry. Why outbreaks like coronavirus spread exponentially,
 and how to 'flatten the curve'. Washington Post. March
 2020 <https://www.washingtonpost.com/graphics/2020/world/corona-simulator/>`_
@@ -348,7 +350,7 @@ Harris, Kelly, Metcalfe, Eric & Wadham, John. *Blackstone’s guide to the
 Freedom of Information Act 2000*. 5th ed., OUP, 2013
 
 `Higgerson, David. FOI
-ideas <https://davidhiggerson.wordpress.com/2016/03/27/foi-friday-10-foi-ideas-for-journalists-is-back/>`_
+ideas. 2016 <https://davidhiggerson.wordpress.com/2016/03/27/foi-friday-10-foi-ideas-for-journalists-is-back/>`_
 
 `Information Commissioner’s Office. Guide to authorities that respond
 to FOI. 2017 <https://ico.org.uk/media/for-organisations/guide-to-freedom-of-information-4-9.pdf>`_
@@ -751,6 +753,7 @@ Video <https://www.youtube.com/watch?v=_qioPxHuk0U>`_
 `Marshall, Sarah. How to correctly report numbers in the news.
 2012 <https://www.journalism.co.uk/skills/how-to-report-numbers-in-the-news/s7/a547659/>`_
 
+`Matthews, Robert. Storks deliver babies. Teaching statistics, 22/2, 2000 <https://onlinelibrary.wiley.com/doi/epdf/10.1111/1467-9639.00013>`_
 Meyer, Philip. *Precision Journalism. A Reporter’s Introduction to
 Social Science Methods*. Rowman & Littlefield, 4th ed., 2002.
 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51112618970002420>`_
