@@ -302,6 +302,8 @@ FOI & EIR
 
 `11KBW. Pantopicon (blog) <https://panopticonblog.com/>`_
 
+`Amin, Lucas. Access denied: the UK government attack on Freedom of Information. Open Democracy, October 2021 <https://www.documentcloud.org/documents/21091086-opendemocracy_acessdenied_report2021>`_
+
 Amin, Lucas & Montague, Brendan. *FOIA without the lawyer: freedom, information and the press*. TCIJ, 2012
 
 Amin, Lucas & Montague, Brendan. *EIRs without the lawyer: the journalist's guide to the Environmental Information Regulations*. TCIJ, 2013
@@ -332,6 +334,8 @@ Journalists*. Routledge, 2015
 wrong. Guardian, 2015 <https://www.theguardian.com/media/2015/oct/30/freedom-of-information-act-chris-grayling-misuse-foi>`_
 
 `Campaign for Freedom of Information <https://www.cfoi.org.uk/>`_
+
+`Committee Evidence on Cabinet Office FOI Clearing House, Oct 2021 <https://www.parliamentlive.tv/Event/Index/046db903-c4c1-46cc-b8cf-b1f565ca9df1>`_
 
 Dodd, Mike & Hanna, Mark. The Freedom of Information Act 2000. *McNae’s Essential Law for Journalists*, 25th ed., 2020, p. 401-09
 
