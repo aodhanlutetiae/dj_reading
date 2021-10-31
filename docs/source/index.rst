@@ -286,6 +286,8 @@ lab <http://lenagroeger.s3.amazonaws.com/talks/orlando/exercises/Spreadsheets/sp
 
 `MacDonald, Matthew. Excel 2013: the missing manual. O'Reilly <http://index-of.co.uk/OFIMATICA/OReilly%20Excel%202013,%20The%20Missing%20Manual.pdf>`_
 
+`Muth, Lisa Charlotte. How to match data with VLOOKUP. <https://blog.datawrapper.de/match-data-with-vlookup-in-excel-google-sheets/>`_
+
 `NY Times. Data course spreadsheets
 cheatsheets <https://drive.google.com/drive/folders/1l2DAll0Jc3Vq6vA9sLDzsBQVo6KBnE7x>`_
 
@@ -944,6 +946,8 @@ Guides to what kind of graph to use:
 -  `chartmaker.visualisingdata.com/ <http://chartmaker.visualisingdata.com/>`_
 -  `policyviz.com/2016/11/30/style-guides/ <https://policyviz.com/2016/11/30/style-guides/>`_
 
+`Anscombe, F.J. "Graphs in Statistical Analysis". *The American Statistician*, 27/1, 1973, pp. 17-21 <https://www.sjsu.edu/faculty/gerstman/StatPrimer/anscombe1973.pdf>`_
+
 `Blinderman, Ilia. How to make dope shit. Part 2: Design. The
 Pudding <https://pudding.cool/process/how-to-make-dope-shit-part-2/>`_
 
@@ -952,6 +956,8 @@ Cairo, Alberto. *The functional art*. New Rider, 2013
 
 Cairo, Alberto. *The truthful art*. New Rider, 2016
 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_askewsholts_vlebooks_9780133440539>`_
+
+`Cairo, Alberto. *Datasaurus*. 2016 <http://www.thefunctionalart.com/2016/08/download-datasaurus-never-trust-summary.html>`_
 
 `Chalabi, Mona. Instagram <https://www.instagram.com/monachalabi/?hl=en>`_
 
@@ -975,7 +981,7 @@ Press, 2020 <https://spiral.imperial.ac.uk/bitstream/10044/1/80424/2/VUI_221219.
 `Matejka, Justin & Fitzmaurice, George. Same Stats, Different Graphs:
 Generating Datasets with Varied Appearance and Identical Statistics
 through Simulated Annealing, CHI,
-2017 <https://www.researchgate.net/publication/316652618_Same_Stats_Different_Graphs_Generating_Datasets_with_Varied_Appearance_and_Identical_Statistics_through_Simulated_Annealing>`_
+2017 ['Datasaurus dozen'] <https://www.researchgate.net/publication/316652618_Same_Stats_Different_Graphs_Generating_Datasets_with_Varied_Appearance_and_Identical_Statistics_through_Simulated_Annealing>`_
 
 `Muth, Lisa Charlotte. How to choose more beautiful colors for your data visualisation. Blogpost, Datawrapper,
 2020 <https://blog.datawrapper.de/beautifulcolors/>`_
