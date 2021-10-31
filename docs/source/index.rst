@@ -936,17 +936,17 @@ Visualisation
 
 Guides to what kind of graph to use:
 
--  `datavizproject.com <https://datavizproject.com/>`_
--  `ft-interactive.github.io/visual-vocabulary/ <http://ft-interactive.github.io/visual-vocabulary/>`_
--  `flowingdata.com/chart-types <https://flowingdata.com/chart-types>`_
--  `datavizcatalogue.com/search.html <https://datavizcatalogue.com/search.html>`_
--  `data-to-viz.com/caveats.html <https://www.data-to-viz.com/caveats.html>`_
--  `policyviz.com/2021/02/08/five-charts-youve-never-used-but-should/ <https://policyviz.com/2021/02/08/five-charts-youve-never-used-but-should/>`_
--  `style.ons.gov.uk/category/data-visualisation/ <https://style.ons.gov.uk/category/data-visualisation/>`_
 -  `chartmaker.visualisingdata.com/ <http://chartmaker.visualisingdata.com/>`_
+-  `data-to-viz.com/caveats.html <https://www.data-to-viz.com/caveats.html>`_
+-  `datavizcatalogue.com/search.html <https://datavizcatalogue.com/search.html>`_
+-  `datavizproject.com <https://datavizproject.com/>`_
+-  `flowingdata.com/chart-types <https://flowingdata.com/chart-types>`_
+-  `ft-interactive.github.io/visual-vocabulary/ <http://ft-interactive.github.io/visual-vocabulary/>`_
+-  `policyviz.com/2021/02/08/five-charts-youve-never-used-but-should/ <https://policyviz.com/2021/02/08/five-charts-youve-never-used-but-should/>`_
 -  `policyviz.com/2016/11/30/style-guides/ <https://policyviz.com/2016/11/30/style-guides/>`_
+-  `style.ons.gov.uk/category/data-visualisation/ <https://style.ons.gov.uk/category/data-visualisation/>`_
 
-`Anscombe, F.J. "Graphs in Statistical Analysis". *The American Statistician*, 27/1, 1973, pp. 17-21 <https://www.sjsu.edu/faculty/gerstman/StatPrimer/anscombe1973.pdf>`_
+`Anscombe, F.J. Graphs in Statistical Analysis. The American Statistician, 27/1, 1973, pp. 17-21 <https://www.sjsu.edu/faculty/gerstman/StatPrimer/anscombe1973.pdf>`_
 
 `Blinderman, Ilia. How to make dope shit. Part 2: Design. The
 Pudding <https://pudding.cool/process/how-to-make-dope-shit-part-2/>`_
@@ -957,7 +957,7 @@ Cairo, Alberto. *The functional art*. New Rider, 2013
 Cairo, Alberto. *The truthful art*. New Rider, 2016
 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_askewsholts_vlebooks_9780133440539>`_
 
-`Cairo, Alberto. *Datasaurus*. 2016 <http://www.thefunctionalart.com/2016/08/download-datasaurus-never-trust-summary.html>`_
+`Cairo, Alberto. Datasaurus. 2016 <http://www.thefunctionalart.com/2016/08/download-datasaurus-never-trust-summary.html>`_
 
 `Chalabi, Mona. Instagram <https://www.instagram.com/monachalabi/?hl=en>`_
 
@@ -981,7 +981,7 @@ Press, 2020 <https://spiral.imperial.ac.uk/bitstream/10044/1/80424/2/VUI_221219.
 `Matejka, Justin & Fitzmaurice, George. Same Stats, Different Graphs:
 Generating Datasets with Varied Appearance and Identical Statistics
 through Simulated Annealing, CHI,
-2017 ['Datasaurus dozen'] <https://www.researchgate.net/publication/316652618_Same_Stats_Different_Graphs_Generating_Datasets_with_Varied_Appearance_and_Identical_Statistics_through_Simulated_Annealing>`_
+2017 ['the Datasaurus dozen'] <https://www.researchgate.net/publication/316652618_Same_Stats_Different_Graphs_Generating_Datasets_with_Varied_Appearance_and_Identical_Statistics_through_Simulated_Annealing>`_
 
 `Muth, Lisa Charlotte. How to choose more beautiful colors for your data visualisation. Blogpost, Datawrapper,
 2020 <https://blog.datawrapper.de/beautifulcolors/>`_
