@@ -38,6 +38,8 @@ Rowman & Littlefield, 1973, 2002, 4th ed., p. 1-17. `Library resource <https://l
 Mutsvairo, Bruce et al. *Data Journalism in the Global South*. Springer. 2020.
 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_askewsholts_vlebooks_9783030251772>`_
 
+`Nelson, Fraser. Covid statistics and the era of hyper-scrutiny <https://www.spectator.co.uk/article/covid-statistics-and-the-era-of-hyper-scrutiny>`_
+
 `News impact summit: democratising data (June 2021). Video, 5h <https://www.youtube.com/watch?v=0b4DjATPVR8>`_ & `programme <https://newsimpact.io/summits/news-impact-summit-online-data-2021>`_
 
 `Pilhofer, Aron. Getting started with datajournalism. 2017. 40'
@@ -186,6 +188,8 @@ Ethics
 
 `Alsudais, Abdulkareem. Incorrect Data in the Widely Used Inside Airbnb Dataset. 2020 <https://arxiv.org/abs/2007.03019>`_
 
+`Belmont Report (US govt) <https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/read-the-belmont-report/index.html>`_
+
 `Cabreros, Irineo. Side-stepping safeguards, data journalists are doing science now. Undark. 2021 <https://undark.org/2021/04/22/data-journalists-are-doing-science/>`_
 
 Christian, Sue Ellen. Cognitive Biases and Errors as Cause—and
@@ -228,6 +232,8 @@ Mitchell, Ryan. Legalities & ethics of web scraping. *Web scraping with Python*.
 
 `NPR. Did George Floyd die or was he murdered?
 2020 <https://www.npr.org/sections/publiceditor/2020/06/04/868969745/did-george-floyd-die-or-was-he-murdered-one-of-many-ethics-questions-npr-must-an?t=1610277517399>`_
+
+`ONS. <https://www.ons.gov.uk/aboutus/transparencyandgovernance/datastrategy/datapolicies/webscrapingpolicy>`_
 
 `Reuters. Microsoft's LinkedIn loses appeal over access to user
 profiles, Sept
@@ -626,7 +632,7 @@ NY Times.
 2020 <https://hi.stamen.com/how-we-watched-the-election-at-stamen-fd3cedae7ed9>`_
 
 Monmonier, Mark. *How to lie with maps*. 3rd ed., University of Chicago
-Press, 2018
+Press, 2018 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911558507802420>`_
 
 `Morphocode. The use of color in
 maps <https://morphocode.com/the-use-of-color-in-maps/>`_
@@ -860,6 +866,8 @@ Bradshaw, Paul. *Scraping for Journalists*. Leanpub, 2017
 
 `Google. Robots.txt files overview <https://developers.google.com/search/docs/advanced/robots/intro>`__
 
+`Harlow, Max. Fetch and enrich data with APIs. <https://github.com/maxharlow/tutorials/tree/master/fetch-and-enrich-data-with-apis)>`_
+
 Heydt, Michael. *Python web scraping cookbook*. Packt, 2018
 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_safari_books_9781787285217>`__
 
@@ -878,7 +886,7 @@ Mitchell, Ryan. *Web scraping with Python*. O'Reilly, 2nd ed., 2018
 2019 <https://www.scraperapi.com/blog/5-tips-for-web-scraping/>`__
 
 `Schacht, Kira. A web scraping toolkit for journalists,
-2019 <https://journocode.com/2019/01/web-scraping-tools-journalists-how-to/>`__
+2019 <https://journocode.com/en/tutorials/a-web-scraping-toolkit-for-journalists>`__
 
 `Shiab, Nael, Web scraping. A journalist’s guide, GIJN,
 2015 <https://gijn.org/2015/08/11/web-scraping-a-journalists-guide/>`__
