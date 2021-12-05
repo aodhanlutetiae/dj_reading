@@ -213,6 +213,8 @@ Criado-Perez, Caroline. *Invisible women: data bias in a world designed for men*
 
 `Diakopoulos, Nick. BuzzFeed’s pro tennis investigation displays ethical dilemmas of data journalism. CJR, 2016. <https://www.cjr.org/tow_center/transparency_algorithms_buzzfeed.php>`_
 
+`Diakopoulos, Nick. The ethics of predictive journalism. CJR, 2020 <https://www.cjr.org/tow_center/predictive-journalism-artificial-intelligence-ethics.php>`_
+
 Gold, Zachardy & Latonero, Mark. Robots Welcome? Ethical and Legal Considerations for Web Crawling and Scraping. *Washington Journal of
 Law, Technology & Arts*. 13/3, 2018, p. 275
 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA5186951260002420>`_
@@ -233,7 +235,7 @@ Mitchell, Ryan. Legalities & ethics of web scraping. *Web scraping with Python*.
 `NPR. Did George Floyd die or was he murdered?
 2020 <https://www.npr.org/sections/publiceditor/2020/06/04/868969745/did-george-floyd-die-or-was-he-murdered-one-of-many-ethics-questions-npr-must-an?t=1610277517399>`_
 
-`ONS. <https://www.ons.gov.uk/aboutus/transparencyandgovernance/datastrategy/datapolicies/webscrapingpolicy>`_
+`ONS. Web scraping policy <https://www.ons.gov.uk/aboutus/transparencyandgovernance/datastrategy/datapolicies/webscrapingpolicy>`_
 
 `Reuters. Microsoft's LinkedIn loses appeal over access to user
 profiles, Sept
@@ -255,10 +257,7 @@ and Abuse Act. Boston University Journal of Science & Technology Law.
 claims. Wired,
 2009 <https://www.wired.com/2009/12/netflix-privacy-lawsuit/>`_
 
-`Stone, Deborah. The ethics of counting. James Madison Award Lecture.
-2017 <https://www.cambridge.org/core/services/aop-cambridge-core/content/view/6EB60C0EAB17A50F89038721F3379A9A/S1049096517001767a.pdf/2017_james_madison_award_lecture_the_ethics_of_counting.pdf>`_
-
-`UK Statistics Authority. Ethical considerations in the use of geospatial data. May 2021 <https://uksa.statisticsauthority.gov.uk/publication/ethical-considerations-in-the-use-of-geospatial-data-for-research-and-statistics/>`_
+`UK Statistics Authority. Ethical considerations in the use of geospatial data. May 2021 [includes checklist] <https://uksa.statisticsauthority.gov.uk/publication/ethical-considerations-in-the-use-of-geospatial-data-for-research-and-statistics/>`_
 
 `Velotio. Scraping guidelines & best practices <https://www.velotio.com/engineering-blog/web-scraping-introduction-best-practices-caveats>`_
 
@@ -465,7 +464,7 @@ Legal
 
 `Baranetsky, Victoria. Data Journalism and the Law [US]. Columbia
 Journalism Review.
-2018 <https://www.cjr.org/tow_center_reports/data-journalism-and-the-law.php>`__
+2018 <https://www.cjr.org/tow_center_reports/data-journalism-and-the-law.php>`_
 
 `Bhandari, Esha & Goodman, Rachel. Data  Journalism  and  the  Computer  Fraud  and  Abuse  Act: Tips for Moving Forward in an Uncertain Landscape.
 Paper from Computation+Journalism Symposium (Northwestern), 2017
@@ -473,33 +472,33 @@ Paper from Computation+Journalism Symposium (Northwestern), 2017
 
 `Borger, Julian. NSA files: why the Guardian in London destroyed hard
 drives of leaked files. Guardian.
-2013 <https://www.theguardian.com/world/2013/aug/20/nsa-snowden-files-drives-destroyed-london>`__
+2013 <https://www.theguardian.com/world/2013/aug/20/nsa-snowden-files-drives-destroyed-london>`_
 
 `Coventry University. The Computer Misuse Act (R v. Gold & Schifreen
-(1988)) <https://www.futurelearn.com/info/courses/the-rise-of-connected-devices/0/steps/68487>`__
+(1988)) <https://www.futurelearn.com/info/courses/the-rise-of-connected-devices/0/steps/68487>`_
 
 `Defence and Security Media Advisory (DSMA) Committee. Standing
-Notices <https://dsma.uk/standing-notices/>`__
+Notices <https://dsma.uk/standing-notices/>`_
 
-Dodd, Mike & Hanna, Mark. *McNae’s Essential Law for Journalists*. 25th ed., 2020
+Dodd, Mike & Hanna, Mark. *McNae’s Essential Law for Journalists*. 25th ed., 2020. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911847517102420>`_
 
 `Georgiev, Peter. A robot commits libel. Who is responsible?, RJI,
 2019 <https://www.rjionline.org/stories/a-robot-commits-libel-who-is-responsible?fbclid=IwAR3KrcMo-AQqqiZmIeyTGbtSEBkcDBleVy4-K49_TT3XBVPlhWVG1LgMxM4>`__
 
 `Github. The legal side of open
-source <https://opensource.guide/legal/>`__
+source <https://opensource.guide/legal/>`_
 
 `Github. Licensing a
-repository <https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/licensing-a-repository>`__
+repository <https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/licensing-a-repository>`_
 
 `ICO. Data protection and journalism. A quick guide.
-2018 <https://ico.org.uk/media/for-organisations/documents/1547/data-protection-and-journalism-quick-guide.pdf>`__
+2018 <https://ico.org.uk/media/for-organisations/documents/1547/data-protection-and-journalism-quick-guide.pdf>`_
 
 `IPSO. Decision 03350-16 InFacts v The Sun.
-2016 <https://www.ipso.co.uk/rulings-and-resolution-statements/ruling/?id=03350-16>`__
+2016 <https://www.ipso.co.uk/rulings-and-resolution-statements/ruling/?id=03350-16>`_
 
 `Lorentzen, Christian. I wasn’t just a brain in a jar. Review of Edward
-Snowden’s Permanent Record. London Review of Books. 41/18, Sept 2019 <https://www.lrb.co.uk/the-paper/v41/n18/christian-lorentzen/i-wasn-t-just-a-brain-in-a-jar>`__
+Snowden’s Permanent Record. London Review of Books. 41/18, Sept 2019 <https://www.lrb.co.uk/the-paper/v41/n18/christian-lorentzen/i-wasn-t-just-a-brain-in-a-jar>`_
 
 Murray, Andrew. *Information technology law: the law and society*. 4th ed., OUP, 2019. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/3go6c4/44CAR_ALMA51176279860002420>`_
 
@@ -864,38 +863,42 @@ Scraping & APIs
 
 Bradshaw, Paul. *Scraping for Journalists*. Leanpub, 2017
 
-`Google. Robots.txt files overview <https://developers.google.com/search/docs/advanced/robots/intro>`__
+`Carter, Laura. There is always an element of judgement. Datakind UK. <https://medium.com/datakinduk/there-is-always-an-element-of-judgement-46e8dc3838c>`_
+
+`Google. Robots.txt files overview <https://developers.google.com/search/docs/advanced/robots/intro>`_
 
 `Harlow, Max. Fetch and enrich data with APIs. <https://github.com/maxharlow/tutorials/tree/master/fetch-and-enrich-data-with-apis)>`_
 
 Heydt, Michael. *Python web scraping cookbook*. Packt, 2018
-`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_safari_books_9781787285217>`__
+`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_safari_books_9781787285217>`_
 
 Jarmul, Katherine & Lawson, Richard. *Python web scraping: fetching data
 from the web*. Packt, 2nd ed., 2017
-`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51125405060002420>`__
+`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51125405060002420>`_
 
 Kouzis-Loukas, Dimitrios. *Learning Scrapy: learn the art of efficient
 web scraping and crawling with Python*. Packt, 2016
-`Library resource <https://learning.oreilly.com/library/view/learning-scrapy/9781784399788/ch03s02.html>`__
+`Library resource <https://learning.oreilly.com/library/view/learning-scrapy/9781784399788/ch03s02.html>`_
 
 Mitchell, Ryan. *Web scraping with Python*. O'Reilly, 2nd ed., 2018
-`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/3go6c4/44CAR_ALMA21109771520002420>`__
+`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/3go6c4/44CAR_ALMA21109771520002420>`_
 
 `Ni, Daniel. Five Tips for web scraping without getting booted.
-2019 <https://www.scraperapi.com/blog/5-tips-for-web-scraping/>`__
+2019 <https://www.scraperapi.com/blog/5-tips-for-web-scraping/>`_
 
 `Schacht, Kira. A web scraping toolkit for journalists,
-2019 <https://journocode.com/en/tutorials/a-web-scraping-toolkit-for-journalists>`__
+2019 <https://journocode.com/en/tutorials/a-web-scraping-toolkit-for-journalists>`_
 
 `Shiab, Nael, Web scraping. A journalist’s guide, GIJN,
-2015 <https://gijn.org/2015/08/11/web-scraping-a-journalists-guide/>`__
+2015 <https://gijn.org/2015/08/11/web-scraping-a-journalists-guide/>`_
 
 `Smith, Madolyn. APIs for journalism (newsletter).
-Datajournalism.com <https://datajournalism.com/read/newsletters/apis-for-journalism>`__
+Datajournalism.com <https://datajournalism.com/read/newsletters/apis-for-journalism>`_
+
+Sweigart, Al. "Web scraping", *Automate the boring stuff*, No starch press, 2nd ed, 2020, p. 267-300.
 
 `The Markup. Why web scraping is vital to democracy.
-2020 <https://gijn.org/2020/12/17/why-web-scraping-is-vital-to-democracy/>`__
+2020 <https://gijn.org/2020/12/17/why-web-scraping-is-vital-to-democracy/>`_
 
 
 
