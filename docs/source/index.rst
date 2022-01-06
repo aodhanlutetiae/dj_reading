@@ -415,7 +415,7 @@ Journalism
 `ABC. Style guide <https://about.abc.net.au/abc-editorial/the-abc-style-guide/>`_
 
 `Associated Press. News values &
-principles <https://www.ap.org/about/news-values-and-principles/downloads/ap-news-values-and-principles.pdf>`_
+principles <https://www.ap.org/about/news-values-and-principles/>`_
 
 `BBC Academy <https://www.bbc.co.uk/academy/en/>`_
 
@@ -571,6 +571,8 @@ tax evasion using machine learning and statistical modeling. Artificial Informer
 Mapping
 =======
 
+`Au, Yung. Thinking critically about maps. Exposing the invisible <https://kit.exposingtheinvisible.org/en/what/critical-maps.html>`_
+
 Cutts, Andrew. *QGIS quick start guide*. Packt, 2019
 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_safari_books_9781789341157>`_
 
@@ -600,6 +602,8 @@ International journal of cartography. 2/2,
 
 `Field, Kenneth. Thematic map
 design <https://carto.maps.arcgis.com/apps/MapJournal/index.html?appid=e5518bc48d0742f9975583079727be5c>`_
+
+`GIS Geography. Choropleth maps: a guide to data classification <https://gisgeography.com/choropleth-maps-data-classification/>`_
 
 `Giulani, Diego & Napolitano, Maurizio. Online course: Geospatial analysis and representation for data science. University of
 Trento, 2020 <https://napo.github.io/geospatial_course_unitn/>`_
@@ -671,37 +675,45 @@ Tools:
 - `Network X (python) <https://pypi.org/project/networkx/>`__
 - `Neo4j <https://neo4j.com/graphgists/?category=investigative-journalism>`__
 
-`Aldhous, Peter. NodeXL for network analysis. 2014 <https://www.peteraldhous.com/CAR/CAR2014_NodeXL.pdf>`__
+`Aldhous, Peter. NodeXL for network analysis. 2014 <https://www.peteraldhous.com/CAR/CAR2014_NodeXL.pdf>`_
 
-`Bounegru et al. Visual network exploration for data journalists. 2017 <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3043912>`__
+`Bloomberg. Who marries whom? 2016 <https://www.bloomberg.com/graphics/2016-who-marries-whom/>`_
 
-`Bounegru et al. Networks as storytelling devices in journalism. 2016 <https://www.tandfonline.com/doi/pdf/10.1080/21670811.2016.1186497>`__
+`Bounegru et al. Visual network exploration for data journalists. 2017 <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3043912>`_
 
-`Bradshaw, Paul. A journalist’s introduction to network analysis. 2020 <https://onlinejournalismblog.com/2020/06/08/a-journalists-introduction-to-network-analysis>`__
+`Bounegru et al. Networks as storytelling devices in journalism. 2016 <https://www.tandfonline.com/doi/pdf/10.1080/21670811.2016.1186497>`_
 
-`Bradshaw, Paul. Empathy as an investigative tool. 2020 <https://onlinejournalismblog.com/2020/02/19/empathy-investigative-journalism-story-ideas>`__
+`Bradshaw, Paul. A journalist’s introduction to network analysis. 2020 <https://onlinejournalismblog.com/2020/06/08/a-journalists-introduction-to-network-analysis>`_
 
-`Brown, Meta S. Why Panama Papers journalists use graph databases. 2016 <https://www.forbes.com/sites/metabrown/2016/04/30/why-panama-papers-journalists-use-graph-databases>`__
+`Bradshaw, Paul. Empathy as an investigative tool. 2020 <https://onlinejournalismblog.com/2020/02/19/empathy-investigative-journalism-story-ideas>`_
 
-`ICIJ. Neo4j sandbox and ICIJ datasets. <https://sandbox.neo4j.com/?usecase=icij-panama-papers>`__
+`Brown, Meta S. Why Panama Papers journalists use graph databases. 2016 <https://www.forbes.com/sites/metabrown/2016/04/30/why-panama-papers-journalists-use-graph-databases>`_
 
-`Hill, Sophie. My little crony. 2021 <https://sophieehill.shinyapps.io/my-little-crony/>`__
+`Eastwood, Jones & Wolfe. Trump, his children and 500+ potential conflicts of interest. WSJ, 2017 <https://www.wsj.com/graphics/donald-trump-potential-conflicts-of-interest/>`_
+
+`ICIJ. Neo4j sandbox and ICIJ datasets. <https://sandbox.neo4j.com/?usecase=icij-panama-papers>`_
+
+`Hill, Sophie. My little crony. 2021 <https://sophieehill.shinyapps.io/my-little-crony/>`_
 
 `Hunger, Michael & Lyon, William. Analyzing the Panama Papers with Neo4j: Data Models, Queries & More. 2016
-<https://neo4j.com/blog/analyzing-panama-papers-neo4j/>`__
+<https://neo4j.com/blog/analyzing-panama-papers-neo4j/>`_
 
-`Intal, Carla & Yasseri, Taha. Dissent and Rebellion in the House of Commons: a social network analysis of Brexit-related divisions. 2020 <https://arxiv.org/pdf/1908.08859.pdf>`__
+`Intal, Carla & Yasseri, Taha. Dissent and Rebellion in the House of Commons: a social network analysis of Brexit-related divisions. 2020 <https://arxiv.org/pdf/1908.08859.pdf>`_
 
 `Lindenberg, Frederich. Here's why investigative reporters need to know knowledge graphs. GIJN. 2020
-<https://gijn.org/2020/08/11/heres-why-investigative-reporters-need-to-know-knowledge-graphs>`__
+<https://gijn.org/2020/08/11/heres-why-investigative-reporters-need-to-know-knowledge-graphs>`_
+
+`Marshall, Alex. Radiohead’s corporate empire. 2016 <https://www.theguardian.com/music/2016/apr/29/radiohead-corporate-structure-firms>`_
 
 `Mohr, Jeff. Celebrity ice bucket challenge. 2021 <https://kumu.io/jeff/celebrity-ice-bucket-challenge>`_
 
+`Neo4j case studies <https://neo4j.com/graphgists/?category=investigative-journalism>`_
+
 `Romano, Tricia. In Seattle art world, women run the show. The Seattle Times. 2016
-<https://www.seattletimes.com/entertainment/visual-arts/in-seattle-art-world-women-run-the-show/>`__
+<https://www.seattletimes.com/entertainment/visual-arts/in-seattle-art-world-women-run-the-show/>`_
 
 `Wild, Johanna. Digital investigations for journalists: How to follow the digital trail of people and entities.
-Module 4: Network analysis. Knight Center. 2020 <https://journalismcourses.org/course/digital-investigations-for-journalists_self/>`__
+Module 4: Network analysis. Knight Center. 2020 <https://journalismcourses.org/course/digital-investigations-for-journalists_self/>`_
 
 
 
@@ -848,6 +860,8 @@ Hassan, Nihad A & Hijazi, Rami. Open Source Intelligence Methods and Tools: A Pr
 Apress, 2018. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51156108450002420>`_
 
 Higgins, Eliot. *We are Bellingcat. An intelligence agency for the people*. Bloomsbury, 2021
+
+`McDermott, Yvonne. Open Source Information’s Blind Spot: Human and Machine Bias in International Criminal Investigations. Journal of International Criminal Justice, 2021 <https://academic.oup.com/jicj/article/19/1/85/6214619>`_
 
 Pool, Hans. *Bellingcat. Truth in a post-truth world*. 2018. 60’ documentary
 `Library resource (Box of Broadcasts) <https://learningonscreen.ac.uk/ondemand/index.php/prog/15C85789?bcast=131686533>`__
