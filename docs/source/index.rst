@@ -29,6 +29,9 @@ Press, 2020
 `Houston, Brant. Data Journalism. A brief history. GIJN,
 2015 <https://gijn.org/2015/11/12/fifty-years-of-journalism-and-data-a-brief-history/>`_
 
+`Houston, Brant. Data Journalism. A brief history. Datajournalism.com,
+2021 <https://datajournalism.com/read/longreads/the-history-of-data-journalism>`_
+
 `International Journalism Festival (Perugia) 2019. Video
 playlist <https://media.journalismfestival.com/programme/2019/category/data-journalism-school>`_
 
@@ -191,6 +194,8 @@ Ethics
 `Belmont Report (US govt) <https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/read-the-belmont-report/index.html>`_
 
 `Cabreros, Irineo. Side-stepping safeguards, data journalists are doing science now. Undark. 2021 <https://undark.org/2021/04/22/data-journalists-are-doing-science/>`_
+
+'Chalabi, Mona. Mapping kidnappings in Nigeria. 538. 2014 <https://fivethirtyeight.com/features/mapping-kidnappings-in-nigeria/>'_
 
 Christian, Sue Ellen. Cognitive Biases and Errors as Cause—and
 Journalistic Best Practices as Effect. *Journal of Mass Media Ethics*.
@@ -965,6 +970,8 @@ Guides to what kind of graph to use:
 -  `data-to-viz.com/caveats.html <https://www.data-to-viz.com/caveats.html>`_
 -  `datavizcatalogue.com/search.html <https://datavizcatalogue.com/search.html>`_
 -  `datavizproject.com <https://datavizproject.com/>`_
+-  `Datawrapper: dos and don'ts series <https://blog.datawrapper.de/category/datavis-dos-and-donts/>`_
+-  `EEA: dos and don'ts of data viz <https://www.eea.europa.eu/data-and-maps/daviz/learn-more/chart-dos-and-donts>`_
 -  `flowingdata.com/chart-types <https://flowingdata.com/chart-types>`_
 -  `ft-interactive.github.io/visual-vocabulary/ <http://ft-interactive.github.io/visual-vocabulary/>`_
 -  `policyviz.com/2021/02/08/five-charts-youve-never-used-but-should/ <https://policyviz.com/2021/02/08/five-charts-youve-never-used-but-should/>`_
