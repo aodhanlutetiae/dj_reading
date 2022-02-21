@@ -173,6 +173,7 @@ and how to 'flatten the curve'. Washington Post. March
 
 Digital security
 ================
+— See also first section of Bazzell `in OSINT section <https://dj-reading.readthedocs.io/en/latest/#osint>`_ for how to safely set up a machine for online investigation
 
 `Committee to Protect Journalists. Digital safety kit for journalists <https://cpj.org/2019/07/digital-safety-kit-journalists/>`_
 
@@ -187,7 +188,7 @@ Digital security
 Ethics
 ======
 
-— See **Journalism** section for Codes and Guidelines
+— See `Journalism <https://dj-reading.readthedocs.io/en/latest/#journalism>`_ section for Codes and Guidelines
 
 `Alsudais, Abdulkareem. Incorrect Data in the Widely Used Inside Airbnb Dataset. 2020 <https://arxiv.org/abs/2007.03019>`_
 
