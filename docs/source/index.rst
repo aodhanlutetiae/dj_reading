@@ -173,7 +173,8 @@ and how to 'flatten the curve'. Washington Post. March
 
 Digital security
 ================
-— See also first section of Bazzell `in OSINT section <https://dj-reading.readthedocs.io/en/latest/#osint>`_ for how to safely set up a machine for online investigation
+
+— See first section of Bazzell in **OSINT** section on setting up machines for online investigation
 
 `Committee to Protect Journalists. Digital safety kit for journalists <https://cpj.org/2019/07/digital-safety-kit-journalists/>`_
 
@@ -188,7 +189,7 @@ Digital security
 Ethics
 ======
 
-— See `Journalism <https://dj-reading.readthedocs.io/en/latest/#journalism>`_ section for Codes and Guidelines
+— See **Journalism** section for Codes and Guidelines
 
 `Alsudais, Abdulkareem. Incorrect Data in the Widely Used Inside Airbnb Dataset. 2020 <https://arxiv.org/abs/2007.03019>`_
 
@@ -196,7 +197,7 @@ Ethics
 
 `Cabreros, Irineo. Side-stepping safeguards, data journalists are doing science now. Undark. 2021 <https://undark.org/2021/04/22/data-journalists-are-doing-science/>`_
 
-'Chalabi, Mona. Mapping kidnappings in Nigeria. 538. 2014 <https://fivethirtyeight.com/features/mapping-kidnappings-in-nigeria/>'_
+`Chalabi, Mona. Mapping kidnappings in Nigeria. 538. 2014 <https://fivethirtyeight.com/features/mapping-kidnappings-in-nigeria/>`_
 
 Christian, Sue Ellen. Cognitive Biases and Errors as Cause—and
 Journalistic Best Practices as Effect. *Journal of Mass Media Ethics*.
