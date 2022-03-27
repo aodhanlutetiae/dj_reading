@@ -19,9 +19,9 @@ Datajournalism.com <https://datajournalism.com/read/handbook/one>`_
 Dasgupta, Subrata. The ‘stuff’ of computing, *Computer Science. A very
 short introduction*. OUP, 2016, p. 1-12
 
-Felle, Tom et al. Data journalism: inside the global future. Abramis, 2015. Library resource
+Felle, Tom et al. *Data journalism: inside the global future*. Abramis, 2015. Library resource
 
-Global Investigative Journalism Conferences. `2019. <https://www.youtube.com/playlist?list=PLrCL-ZiCvKYteU2XOChSkW1l7-oRHzwxV>`_ | `2021 <https://www.youtube.com/hashtag/gijc21>`_
+Global Investigative Journalism Conferences. `2019 <https://www.youtube.com/playlist?list=PLrCL-ZiCvKYteU2XOChSkW1l7-oRHzwxV>`_ | `2021 <https://www.youtube.com/hashtag/gijc21>`_
 
 Harford, Tim. Ponder your personal experience. *How to make the world
 add up. Ten rules for thinking differently about numbers*. Bridge Street
