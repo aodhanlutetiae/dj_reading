@@ -19,9 +19,11 @@ Datajournalism.com <https://datajournalism.com/read/handbook/one>`_
 Dasgupta, Subrata. The ‘stuff’ of computing, *Computer Science. A very
 short introduction*. OUP, 2016, p. 1-12
 
-Felle, Tom et al. *Data journalism: inside the global future*. Abramis, 2015. Library resource
+Felle, Tom et al. *Data journalism: inside the global future*. Abramis, 2015. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912026677302420>`_
 
 Global Investigative Journalism Conferences. `2019 <https://www.youtube.com/playlist?list=PLrCL-ZiCvKYteU2XOChSkW1l7-oRHzwxV>`_ | `2021 <https://www.youtube.com/hashtag/gijc21>`_
+
+GIJN Introductory videos. `<https://gijn.org/2022/04/11/video-resources-for-data-investigations>`_
 
 Harford, Tim. Ponder your personal experience. *How to make the world
 add up. Ten rules for thinking differently about numbers*. Bridge Street
@@ -208,10 +210,10 @@ Journalistic Best Practices as Effect. *Journal of Mass Media Ethics*.
 &
 `Lawson, B.T. Hiding Behind Databases, Institutions and Actors: How Journalists Use Statistics in Reporting Humanitarian Crises. Journalism Practice, 2021 <https://www.tandfonline.com/doi/full/10.1080/17512786.2021.1930106>`_
 
-Craig et al., To Post or Not to Post: Online Discussion of Gun Permit
+`Craig et al., To Post or Not to Post: Online Discussion of Gun Permit
 Mapping and the Development of Ethical Standards in Data Journalism.
-*Journalism & Mass Communication Quarterly*, January 2017
-`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_gale_infotracacademiconefile_A487432320>`_
+*Journalism & Mass Communication Quarterly*,
+January 2017 <https://www.researchgate.net/publication/312187007_To_Post_or_Not_to_Post_Online_Discussion_of_Gun_Permit_Mapping_and_the_Development_of_Ethical_Standards_in_Data_Journalism>`_
 
 `Craig et al. Ethical questions in data journalism and the power of
 online discussion.
@@ -338,7 +340,7 @@ Brooke, Heather. *Your right to know. A citizen’s guide to the Freedom
 of Information Act*. 2nd ed., Pluto, 2007. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/3go6c4/44CAR_ALMA51151691970002420>`_
 
 Burgess, Matthew. *Freedom of Information: A Practical Guide for UK
-Journalists*. Routledge, 2015
+Journalists*. Routledge, 2015. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911840566902420>`_
 
 `Burgess, Matthew. FOI directory <https://foi.directory/>`_
 
@@ -432,6 +434,9 @@ guidelines <https://www.bbc.com/editorialguidelines/guidelines>`_
 
 `BBC. Style guide <https://www.bbc.co.uk/newsstyleguide/all>`_
 
+Carpenter, Siri. *The craft of science writing: selections from the Open Notebook*. Madison,
+2020. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912026677402420>`_
+
 `Corbett, Philip B. Copy edit
 this! (complete list of quiz links) <https://aodhanlutetiae.github.io/posts/2020/10/blog-post-13/>`_
 
@@ -498,6 +503,8 @@ source <https://opensource.guide/legal/>`_
 
 `Github. Licensing a
 repository <https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/licensing-a-repository>`_
+
+'Glanville, Jo. The journalistic exemption (Data Protection Act). LRB. 2018 <https://www.lrb.co.uk/the-paper/v40/n13/jo-glanville/the-journalistic-exemption>'_
 
 `ICO. Data protection and journalism. A quick guide.
 2018 <https://ico.org.uk/media/for-organisations/documents/1547/data-protection-and-journalism-quick-guide.pdf>`_
@@ -580,6 +587,8 @@ Mapping
 =======
 
 `Au, Yung. Thinking critically about maps. Exposing the invisible <https://kit.exposingtheinvisible.org/en/what/critical-maps.html>`_
+
+`Barney, Timothy. How maps show and hide key information about the Ukraine war <https://www.niemanlab.org/2022/03/how-maps-show-and-hide-key-information-about-the-ukraine-war/>`_
 
 Cutts, Andrew. *QGIS quick start guide*. Packt, 2019
 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_safari_books_9781789341157>`_
@@ -728,6 +737,8 @@ Module 4: Network analysis. Knight Center. 2020 <https://journalismcourses.org/c
 Numeracy & statistics
 =====================
 
+Bell, Andrew et al. *Making sense of data in the media*. SAGE, 2019. 
+
 Bergstrom, Carl T. & West, Jevin D. *Calling Bullsh-t. The art of
 scepticism in a data-driven world*. Allen Lane, 2020
 
@@ -764,6 +775,8 @@ Hand, David J. *Statistics. A very short introduction*. OUP, 2008. `Library reso
 Hand, David J. *Dark Data. Why what you don't know matters*. Princeton, 2020. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911839411302420>`_
 
 Harford, Tim. *How to make the world add up*. Bridge Street Press, 2020
+
+Harkness, Timandra. *Big data. Does size matter?* Bloomsbury, 2016. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911943454102420>`_
 
 `Huff, Darrell. How to lie with statistics. Norton,
 1954 <http://faculty.neu.edu.cn/cc/zhangyf/papers/How-to-Lie-with-Statistics.pdf>`_
@@ -867,7 +880,7 @@ Dubberly, Sam, Koenig, Alexa & Murray, Daragh. *Digital Witness. Using Open Sour
 Hassan, Nihad A & Hijazi, Rami. Open Source Intelligence Methods and Tools: A Practical Guide to Online Intelligence
 Apress, 2018. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51156108450002420>`_
 
-Higgins, Eliot. *We are Bellingcat. An intelligence agency for the people*. Bloomsbury, 2021
+Higgins, Eliot. *We are Bellingcat. An intelligence agency for the people*. Bloomsbury, 2021. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911943454002420>`_
 
 `McDermott, Yvonne. Open Source Information’s Blind Spot: Human and Machine Bias in International Criminal Investigations. Journal of International Criminal Justice, 2021 <https://academic.oup.com/jicj/article/19/1/85/6214619>`_
 
@@ -969,6 +982,7 @@ Visualisation
 
 Guides to what kind of graph to use:
 
+-  `Andy Kriebel's visual vocabulary <https://public.tableau.com/app/profile/andy.kriebel/viz/VisualVocabulary/VisualVocabulary>`_
 -  `chartmaker.visualisingdata.com/ <http://chartmaker.visualisingdata.com/>`_
 -  `data-to-viz.com/caveats.html <https://www.data-to-viz.com/caveats.html>`_
 -  `datavizcatalogue.com/search.html <https://datavizcatalogue.com/search.html>`_
@@ -998,7 +1012,7 @@ Cairo, Alberto. *The truthful art*. New Rider, 2016
 
 `Civil Service UK. Introduction to data visualisation <https://gss.civilservice.gov.uk/policy-store/introduction-to-data-visualisation/>`_
 
-Dick, Murray. The infographic: a history of data graphics in news and communications. MIT Press, 2020.
+Dick, Murray. *The infographic: a history of data graphics in news and communications*. MIT Press, 2020. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911943454202420>`_
 
 `Engebretsen, Martin & Kennedy, Helen. Data Visualisation in
 Society. 2020 <https://www.jstor.org/stable/j.ctvzgb8c7>`_
