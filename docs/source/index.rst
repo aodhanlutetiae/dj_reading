@@ -53,6 +53,8 @@ Video <https://www.youtube.com/watch?v=DYzDnufwHNE>`_
 
 Rogers, Simon. *Facts are sacred*. Faber & Faber, 2013.
 
+Rukmini, S. *Whole numbers and half truths: what data can and cannot tell us about modern India*. Context, 2021.
+
 `SPJ. Data tools & tipsheets <https://www.journaliststoolbox.org/2021/06/05/data-tools-tipsheets-and-research/>`_ [Overpowering list but worth browsing]
 
 
@@ -737,7 +739,7 @@ Module 4: Network analysis. Knight Center. 2020 <https://journalismcourses.org/c
 Numeracy & statistics
 =====================
 
-Bell, Andrew et al. *Making sense of data in the media*. SAGE, 2019. 
+Bell, Andrew et al. *Making sense of data in the media*. SAGE, 2019.
 
 Bergstrom, Carl T. & West, Jevin D. *Calling Bullsh-t. The art of
 scepticism in a data-driven world*. Allen Lane, 2020
