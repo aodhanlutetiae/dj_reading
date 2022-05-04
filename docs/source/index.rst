@@ -162,11 +162,12 @@ curve <https://graphics.reuters.com/HEALTH-CORONAVIRUS/CASUALTIES/gjnpwjmqvwr/in
 2020 <https://graphics.reuters.com/HEALTH-CORONAVIRUS-LOMBARDY/0100B5LT46P/index.html>`_
 
 `Riva, Catherine & Tinari, Serena. Guide for journalists: Investigating health & medicine. GIJN <https://www.re-check.ch/wordpress/en/projects/gijn-guide/>`_
+
 `Spiegelhalter, David. Communicating statistics, risk and uncertainty in
 the age of Covid. 40'
 Video <https://media.ed.ac.uk/media/Communicating+statistics%2C+risk+and+uncertainty+in+the+age+of+Covid/1_y2lw3u6d>`_
 
-`Spiegelhalter, David & Masters, Anthony. Covid by Numbers: making sense of the pandemic with data. Penguin, 2021.`
+Spiegelhalter, David & Masters, Anthony. Covid by Numbers: making sense of the pandemic with data. Penguin, 2021.
 
 `Stevens, Harry. Why outbreaks like coronavirus spread exponentially,
 and how to 'flatten the curve'. Washington Post. March
@@ -743,6 +744,7 @@ Bell, Andrew et al. *Making sense of data in the media*. SAGE, 2019.
 
 Bergstrom, Carl T. & West, Jevin D. *Calling Bullsh-t. The art of
 scepticism in a data-driven world*. Allen Lane, 2020
+`Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911944771502420>`_
 
 Blastland, Michael & Dilnot, Andrew. *The Tiger that isn’t. Seeing
 through a world of numbers*. Profile, 2008
@@ -800,6 +802,7 @@ Video <https://www.youtube.com/watch?v=_qioPxHuk0U>`_
 2012 <https://www.journalism.co.uk/skills/how-to-report-numbers-in-the-news/s7/a547659/>`_
 
 `Matthews, Robert. Storks deliver babies. Teaching statistics, 22/2, 2000 <https://onlinelibrary.wiley.com/doi/epdf/10.1111/1467-9639.00013>`_
+
 Meyer, Philip. *Precision Journalism. A Reporter’s Introduction to
 Social Science Methods*. Rowman & Littlefield, 4th ed., 2002.
 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51112618970002420>`_
@@ -835,10 +838,6 @@ Silver, Nate. *The Signal and the Noise. The Art and Science of
 Prediction*. Penguin, 2012
 
 Spiegelhalter, David. *The Art of Statistics. Learning from Data*. Pelican, 2019
-
-`Spiegelhalter, David. Communicating statistics, risk and uncertainty
-in the age of Covid-19. 2020. 40' Video (from 7’
-20") <https://media.ed.ac.uk/media/Communicating+statistics%2C+risk+and+uncertainty+in+the+age+of+Covid/1_y2lw3u6d>`_
 
 `Stray, Jonathan. Drawing conclusions from data. 2013. <https://source.opennews.org/articles/statistically-sound-data-journalism/>`_
 
@@ -1037,7 +1036,7 @@ through Simulated Annealing, CHI,
 `Muth, Lisa Charlotte. How to choose more beautiful colors for your data visualisation. Blogpost, Datawrapper,
 2020 <https://blog.datawrapper.de/beautifulcolors/>`_
 
-`Muth, Lisa Charlotte. In defense of simple charts. Blogpost, Datawrapper, <https://blog.datawrapper.de/in-defense-of-simple-charts/>`_
+`Muth, Lisa Charlotte. In defense of simple charts. Blogpost, Datawrapper, 2021 <https://blog.datawrapper.de/in-defense-of-simple-charts/>`_
 
 Posavec, Stefanie & Lupi, Giorgia. *Dear Data*. Particular Books,
 2016 & `Project <http://www.dear-data.com/theproject>`_
@@ -1049,12 +1048,12 @@ Schwabisch, Jonathan. Better data vizualisations, Columbia, 2021. `Library resou
 `Sunlight Foundation. Dataviz style
 guidelines <https://github.com/amycesal/dataviz-style-guide/blob/master/Sunlight-StyleGuide-DataViz.pdf>`_
 
-Tufte, Edward. *The visual display of quantitative information*. 2nd ed.,
-Graphics Press, 2001
+Tufte, Edward. *Beautiful Evidence*. Graphics Press, 2006
 
 Tufte, Edward. *Envisioning information*. Graphics Press, 1990
 
-Tufte, Edward. *Beautiful Evidence*. Graphics Press, 2006
+Tufte, Edward. *The visual display of quantitative information*. 2nd ed.,
+Graphics Press, 2001
 
 Tableau resources:
 
