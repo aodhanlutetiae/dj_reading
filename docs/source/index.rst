@@ -186,6 +186,9 @@ Digital security
 
 `Global Cyber Alliance. Cybersecurity toolkit for journalists <https://gcatoolkit.org/journalists>`_
 
+McGregor, Susan. *Information security essentials: a guide for reporters, editors, and newsroom leaders*. Columbia University Press,
+2021 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911984370002420>`_
+
 `Rory Peck Trust. Digital security resources for freelancers <https://rorypecktrust.org/freelance-resources/digital-security/>`_
 
 `Reporters Without Borders. Digital security guide <https://helpdesk.rsf.org/digital-security-guide/>`_
@@ -481,6 +484,8 @@ Legal
 `Baranetsky, Victoria. Data Journalism and the Law [US]. Columbia
 Journalism Review.
 2018 <https://www.cjr.org/tow_center_reports/data-journalism-and-the-law.php>`_
+
+`Beriain et al. Data protection in journalism: a practical handbook <https://bookdown.org/fede_caruso/bookdown/the-journalistic-exemption-in-the-gdpr.html>`_
 
 `Bhandari, Esha & Goodman, Rachel. Data  Journalism  and  the  Computer  Fraud  and  Abuse  Act: Tips for Moving Forward in an Uncertain Landscape.
 Paper from Computation+Journalism Symposium (Northwestern), 2017
