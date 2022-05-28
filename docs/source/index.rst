@@ -57,6 +57,7 @@ Rukmini, S. *Whole numbers and half truths: what data can and cannot tell us abo
 
 `SPJ. Data tools & tipsheets <https://www.journaliststoolbox.org/2021/06/05/data-tools-tipsheets-and-research/>`_ [Overpowering list but worth browsing]
 
+Tong, Jingrong. "Data Journalism", *Journalism in the data age*. Sage, 2022, p. 59-88.
 
 
 Census 2021
@@ -577,8 +578,8 @@ tax evasion using machine learning and statistical modeling. Artificial Informer
 `Stray, Jonathan. Beyond the hype: Using AI effectively in investigative journalism. GIJN, September 2019
 <https://gijn.org/2019/09/09/beyond-the-hype-using-ai-effectively-in-investigative-journalism/>`_
 
-`Stray, Jonathan. Making artificial intelligence work for investigative journalism. Digital Journalism. July 2019
-<http://jonathanstray.com/papers/Making%20Artificial%20Intelligence%20Work%20for%20Investigative%20Journalism.pdf>`_
+`Thurman, Neil (ed.). *Digital Journalism: algorithms, automation & news*, 7/8 (2019), p. 993-1012. Also in Thurman,
+Neil (ed.). *Algorithms, Automation & News*. Routledge, 2021 <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/b7291a/cdi_informaworld_taylorfrancis_310_1080_21670811_2019_1623700>`_
 
 `Quartz. Helicopters circling (code)
 <https://github.com/Quartz/aistudio-copterbot-images>`_
@@ -745,7 +746,7 @@ Module 4: Network analysis. Knight Center. 2020 <https://journalismcourses.org/c
 Numeracy & statistics
 =====================
 
-Bell, Andrew et al. *Making sense of data in the media*. SAGE, 2019.
+Bell, Andrew et al. *Making sense of data in the media*. SAGE, 2020. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912043576202420>`_
 
 Bergstrom, Carl T. & West, Jevin D. *Calling Bullsh-t. The art of
 scepticism in a data-driven world*. Allen Lane, 2020
