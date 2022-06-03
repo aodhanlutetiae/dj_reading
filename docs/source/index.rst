@@ -578,7 +578,7 @@ tax evasion using machine learning and statistical modeling. Artificial Informer
 `Stray, Jonathan. Beyond the hype: Using AI effectively in investigative journalism. GIJN, September 2019
 <https://gijn.org/2019/09/09/beyond-the-hype-using-ai-effectively-in-investigative-journalism/>`_
 
-`Thurman, Neil (ed.). *Digital Journalism: algorithms, automation & news*, 7/8 (2019), p. 993-1012. Also in Thurman,
+`Thurman, Neil (ed.). *Digital Journalism: algorithms, automation & news*, 7/8 (2019), p. 993-1012. Also as Thurman,
 Neil (ed.). *Algorithms, Automation & News*. Routledge, 2021 <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/b7291a/cdi_informaworld_taylorfrancis_310_1080_21670811_2019_1623700>`_
 
 `Quartz. Helicopters circling (code)
