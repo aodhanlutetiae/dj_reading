@@ -57,7 +57,7 @@ Rukmini, S. *Whole numbers and half truths: what data can and cannot tell us abo
 
 `SPJ. Data tools & tipsheets <https://www.journaliststoolbox.org/2021/06/05/data-tools-tipsheets-and-research/>`_ [Overpowering list but worth browsing]
 
-Tong, Jingrong. "Data Journalism", *Journalism in the data age*. Sage, 2022, p. 59-88.
+Tong, Jingrong. Data Journalism. *Journalism in the data age*. Sage, 2022, p. 59-88.
 
 
 Census 2021
@@ -67,7 +67,7 @@ Census 2021
 
 `Benton, Pete. Census 2021: ask me anything. Reddit. October 2020 <https://www.reddit.com/r/AskUK/comments/jel9pl/hello_everyone_im_pete_benton_from_the_office_for/>`_
 
-`Dunn, Ed. "Census 2021 – the count is done, the data is in, so what happens next?" ONS. <https://blog.ons.gov.uk/2021/10/12/census-2021-the-count-is-done-the-data-is-in-so-what-happens-next/>`_
+`Dunn, Ed. "Census 2021: the count is done, the data is in, so what happens next?" ONS. <https://blog.ons.gov.uk/2021/10/12/census-2021-the-count-is-done-the-data-is-in-so-what-happens-next/>`_
 
 Hutchinson, Roger. *The Butcher, the baker, the candlestick maker*. Abacus, 2017
 
@@ -236,6 +236,8 @@ Gold, Zachardy & Latonero, Mark. Robots Welcome? Ethical and Legal Consideration
 Law, Technology & Arts*. 13/3, 2018, p. 275
 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA5186951260002420>`_
 
+`Golumbia, David. Fair Game: commonly used by researchers and journalists, data scraping is an underacknowledged privacy concern. 2022 <https://reallifemag.com/fair-game/>`_
+
 Heydt, Michael. Scraping. Code of conduct. *Python web scraping
 cookbook*, Packt, 2018. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51156094260002420>`_
 
@@ -246,13 +248,15 @@ Marconi, Francesco. *Newsmakers: Artificial Intelligence and the Future
 of Journalism*. Columbia University Press, 2020.
 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_askewsholts_vlebooks_9780231549356>`_
 
-Mitchell, Ryan. Legalities & ethics of web scraping. *Web scraping with Python*. O'Reilly, 2nd ed., 2018.
+Mitchell, Ryan. Legalities & ethics of web scraping (p. 265-79); Note on ethics (p. 217-18). *Web scraping with Python*. O'Reilly, 2nd ed., 2018.
 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51125433210002420>`_
 
 `NPR. Did George Floyd die or was he murdered?
 2020 <https://www.npr.org/sections/publiceditor/2020/06/04/868969745/did-george-floyd-die-or-was-he-murdered-one-of-many-ethics-questions-npr-must-an?t=1610277517399>`_
 
 `ONS. Web scraping policy <https://www.ons.gov.uk/aboutus/transparencyandgovernance/datastrategy/datapolicies/webscrapingpolicy>`_
+
+`Open Data Institute. Assessing risk when sharing data: a guide. Feb 2022 <https://theodi.org/article/assessing-risk-when-sharing-data-a-guide/>`_
 
 `Reuters. Microsoft's LinkedIn loses appeal over access to user
 profiles, Sept
