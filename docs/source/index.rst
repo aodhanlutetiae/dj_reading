@@ -30,9 +30,7 @@ add up. Ten rules for thinking differently about numbers*. Bridge Street
 Press, 2020
 
 `Houston, Brant. Data Journalism. A brief history. GIJN,
-2015 <https://gijn.org/2015/11/12/fifty-years-of-journalism-and-data-a-brief-history/>`_
-
-`Houston, Brant. Data Journalism. A brief history. Datajournalism.com,
+2015 <https://gijn.org/2015/11/12/fifty-years-of-journalism-and-data-a-brief-history/>`_ and `Datajournalism.com,
 2021 <https://datajournalism.com/read/longreads/the-history-of-data-journalism>`_
 
 `International Journalism Festival (Perugia) 2019. Video
@@ -438,7 +436,7 @@ Journalism
 `Associated Press. News values &
 principles <https://www.ap.org/about/news-values-and-principles/>`_
 
-`BBC Academy <https://www.bbc.co.uk/academy/en/>`_
+`BBC Academy: journalism students <https://www.bbc.com/academy/learning-resources-for-journalism-students>`_
 
 `BBC. Editorial
 guidelines <https://www.bbc.com/editorialguidelines/guidelines>`_
@@ -455,6 +453,8 @@ this! (complete list of quiz links) <https://aodhanlutetiae.github.io/posts/2020
 `Editors’ Code <https://www.ipso.co.uk/editors-code-of-practice/>`_
 
 `Guardian. Style guide <https://www.theguardian.com/guardian-observer-style-guide-a>`_
+
+Hicks, Wynford. English for journalists. Routledge, 1993 (2013)
 
 `Impress. Standards code <https://www.impress.press/standards/>`__
 
@@ -760,9 +760,9 @@ Blastland, Michael & Dilnot, Andrew. *The Tiger that isn’t. Seeing
 through a world of numbers*. Profile, 2008
 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_askewsholts_vlebooks_9781847650795>`_
 
-Blauw, Sanne. The number bias. Sceptre, 2020.
+Blauw, Sanne. *The number bias*. Sceptre, 2020
 
-Chivers, Tom & David Chivers. *How to read numbers. A guide to statistics in the news*. W&N, 2021.
+Chivers, Tom & David Chivers. *How to read numbers. A guide to statistics in the news*. W&N, 2021
 
 `Cohen, Sarah. Numbers in the Newsroom: Using Math and Statistics in
 News, 2nd ed., IRE, 2014 <https://www.ire.org/product/numbers-in-the-newsroom-using-math-and-statistics-in-news-second-edition-e-version/>`_
