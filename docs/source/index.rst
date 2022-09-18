@@ -51,7 +51,7 @@ Video <https://www.youtube.com/watch?v=DYzDnufwHNE>`_
 
 Rogers, Simon. *Facts are sacred*. Faber & Faber, 2013.
 
-Rukmini, S. *Whole numbers and half truths: what data can and cannot tell us about modern India*. Context, 2021.
+Rukmini, S. *Whole numbers and half truths: what data can and cannot tell us about modern India*. Context, 2021. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912055077302420>`_
 
 `SPJ. Data tools & tipsheets <https://www.journaliststoolbox.org/2021/06/05/data-tools-tipsheets-and-research/>`_ [Overpowering list but worth browsing]
 
@@ -826,6 +826,8 @@ Paulos, John Allen. *A Mathematician Reads the Newspapers*. Penguin,
 
 Paulos, John Allen. *Innumeracy. Mathematical illiteracy and its
 consequences*. Penguin, 1988
+
+Porter, Theodore. Trust in numbers: the pursuit of objectivity in science and public life. Princeton University Press, 1996. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma996259583402420>`_
 
 `Reinhart, Alex. Statistics Done Wrong. The woefully complete guide.
 No Starch Press,
