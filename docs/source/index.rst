@@ -36,6 +36,8 @@ Press, 2020
 `International Journalism Festival (Perugia) 2019. Video
 playlist <https://media.journalismfestival.com/programme/2019/category/data-journalism-school>`_
 
+Mayhew, Henry. London labour and the London poor [1851-52]. Penguin, 1985. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/c1t5b/alma995702033402420>`_
+
 Meyer, Philip. The Journalism We Need. *Precision Journalism*.
 Rowman & Littlefield, 1973, 2002, 4th ed., p. 1-17. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51112618970002420>`_
 
