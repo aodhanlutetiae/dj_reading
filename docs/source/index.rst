@@ -303,10 +303,15 @@ Bradshaw, Paul. *Finding stories with spreadsheets*. Leanpub, 2016
 `Groeger, Lena. Spreadsheets
 lab <http://lenagroeger.s3.amazonaws.com/talks/orlando/exercises/Spreadsheets/spreadsheetslab.html>`_
 
+'Harford, Tim. The tyranny of spreadsheets. FT, June 2021 <https://www.ft.com/content/18db20d8-7726-43e2-87f1-c5861ad3dff5>'_
+
 `Houston, Brant. Let the spreadsheet do the math. GIJN.
 2019 <https://gijn.org/2019/05/21/eight-simple-ways-to-let-the-spreadsheet-do-the-math-so-you-can-focus-on-the-story/>`_
 
 `Katz, Abbott. Excel dynamic array functions: what datajournalists need to know. Datajournalism.com <https://datajournalism.com/read/longreads/excel-dynamic-array-functions-what-data-journalists-need-to-know>`_
+
+'Kelion, Leo. Excel: Why using Microsoft's tool caused Covid-19 results to be lost. BBC News, Oct 2020.
+<https://www.bbc.co.uk/news/technology-54423988>'_
 
 `Lambrechts, Maarten. Cleaning data in Excel: video course. Datajournalism.com. 1h 30' video <https://datajournalism.com/watch/cleaning-data-in-excel>`_
 
@@ -891,6 +896,10 @@ concepts and techniques*. Syngress, April 2015.
 Dubberly, Sam, Koenig, Alexa & Murray, Daragh. *Digital Witness. Using Open Source Information for Human Rights Investigation, Documentation, and Accountability*. OUP, 2020
 
 `Economist. Open-source intelligence challenges state monopolies on information. August 2021. <https://www.economist.com/briefing/2021/08/07/open-source-intelligence-challenges-state-monopolies-on-information>`_
+
+Hahn, Oliver & Stalph, Florian Hahn, Oliver, editor.; Stalph, Florian, editor.
+*Digital investigative journalism: data, visual analytics and innovative methodologies in international reporting*.
+Palgrave Macmillan, 2018. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911682114502420>`_
 
 Hassan, Nihad A & Hijazi, Rami. Open Source Intelligence Methods and Tools: A Practical Guide to Online Intelligence
 Apress, 2018. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51156108450002420>`_
