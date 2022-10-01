@@ -36,15 +36,13 @@ Press, 2020
 `International Journalism Festival (Perugia) 2019. Video
 playlist <https://media.journalismfestival.com/programme/2019/category/data-journalism-school>`_
 
-Mayhew, Henry. London labour and the London poor [1851-52]. Penguin, 1985. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/c1t5b/alma995702033402420>`_
+Mayhew, Henry. *London labour and the London poor* [1851-52]. Penguin, 1985. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/c1t5b/alma995702033402420>`_
 
 Meyer, Philip. The Journalism We Need. *Precision Journalism*.
 Rowman & Littlefield, 1973, 2002, 4th ed., p. 1-17. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51112618970002420>`_
 
 Mutsvairo, Bruce et al. *Data Journalism in the Global South*. Springer. 2020.
 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_askewsholts_vlebooks_9783030251772>`_
-
-`Nelson, Fraser. Covid statistics and the era of hyper-scrutiny <https://www.spectator.co.uk/article/covid-statistics-and-the-era-of-hyper-scrutiny>`_
 
 `News impact summit: democratising data (June 2021). Video, 5h <https://www.youtube.com/watch?v=0b4DjATPVR8>`_ & `programme <https://newsimpact.io/summits/news-impact-summit-online-data-2021>`_
 
@@ -303,15 +301,15 @@ Bradshaw, Paul. *Finding stories with spreadsheets*. Leanpub, 2016
 `Groeger, Lena. Spreadsheets
 lab <http://lenagroeger.s3.amazonaws.com/talks/orlando/exercises/Spreadsheets/spreadsheetslab.html>`_
 
-'Harford, Tim. The tyranny of spreadsheets. FT, June 2021 <https://www.ft.com/content/18db20d8-7726-43e2-87f1-c5861ad3dff5>'_
+`Harford, Tim. The tyranny of spreadsheets. FT, June 2021 <https://www.ft.com/content/18db20d8-7726-43e2-87f1-c5861ad3dff5>`_
 
 `Houston, Brant. Let the spreadsheet do the math. GIJN.
 2019 <https://gijn.org/2019/05/21/eight-simple-ways-to-let-the-spreadsheet-do-the-math-so-you-can-focus-on-the-story/>`_
 
 `Katz, Abbott. Excel dynamic array functions: what datajournalists need to know. Datajournalism.com <https://datajournalism.com/read/longreads/excel-dynamic-array-functions-what-data-journalists-need-to-know>`_
 
-'Kelion, Leo. Excel: Why using Microsoft's tool caused Covid-19 results to be lost. BBC News, Oct 2020.
-<https://www.bbc.co.uk/news/technology-54423988>'_
+`Kelion, Leo. Excel: Why using Microsoft's tool caused Covid-19 results to be lost. BBC News, Oct 2020.
+<https://www.bbc.co.uk/news/technology-54423988>`_
 
 `Lambrechts, Maarten. Cleaning data in Excel: video course. Datajournalism.com. 1h 30' video <https://datajournalism.com/watch/cleaning-data-in-excel>`_
 
@@ -460,8 +458,6 @@ this! (complete list of quiz links) <https://aodhanlutetiae.github.io/posts/2020
 `Editors’ Code <https://www.ipso.co.uk/editors-code-of-practice/>`_
 
 `Guardian. Style guide <https://www.theguardian.com/guardian-observer-style-guide-a>`_
-
-Hicks, Wynford. English for journalists. Routledge, 1993 (2013)
 
 `Impress. Standards code <https://www.impress.press/standards/>`__
 
