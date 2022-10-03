@@ -973,8 +973,8 @@ data story. GIJN.
 a story
 lead. 2020 <https://onlinejournalismblog.com/2020/02/05/its-not-all-about-numbers-6-ways-that-data-can-give-you-a-story-lead/>`__
 
-`Bradshaw, Paul. Seven story structures. GIJN.
-2019 <https://gijn.org/2019/07/22/get-crafty-7-story-structures-to-try-out-in-your-next-investigation>`__
+`Bradshaw, Paul. Seven story structures. Blogpost
+2019 <https://onlinejournalismblog.com/2020/08/11/here-are-the-7-types-of-stories-most-often-found-in-data/>`__
 
 `Constantaras & Valeeva. A data journalist's guide to building a hypothesis. Datajournalism.com, 2021 <https://datajournalism.com/read/longreads/hypothesis-data-journalism>`_
 
