@@ -368,7 +368,7 @@ wrong. Guardian, 2015 <https://www.theguardian.com/media/2015/oct/30/freedom-of-
 
 `Committee Evidence on Cabinet Office FOI Clearing House, Oct 2021 <https://www.parliamentlive.tv/Event/Index/046db903-c4c1-46cc-b8cf-b1f565ca9df1>`_
 
-`Dodd, Mike & Hanna, Mark. The Freedom of Information Act 2000. *McNae’s Essential Law for Journalists*, 26th ed., 2022, Chapter 37 (online). `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912105476202420>`_
+`Dodd, Mike & Hanna, Mark. The Freedom of Information Act 2000. *McNae’s Essential Law for Journalists*, 26th ed., 2022, Chapter 37 (online). Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912105476202420>`_
 
 `Gibbons, Paul. The Freedom of Information Officer. Open Data
 Institute. 2019. 40' Video <https://www.youtube.com/watch?v=pP6pHg-CWC4>`_
