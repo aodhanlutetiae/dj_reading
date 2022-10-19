@@ -23,7 +23,7 @@ Felle, Tom et al. *Data journalism: inside the global future*. Abramis, 2015. `L
 
 Global Investigative Journalism Conferences. `2019 <https://www.youtube.com/playlist?list=PLrCL-ZiCvKYteU2XOChSkW1l7-oRHzwxV>`_ | `2021 <https://www.youtube.com/hashtag/gijc21>`_
 
-GIJN Introductory videos. `<https://gijn.org/2022/04/11/video-resources-for-data-investigations>`_
+`GIJN Introductory videos. <https://gijn.org/2022/04/11/video-resources-for-data-investigations>`_
 
 Harford, Tim. Ponder your personal experience. *How to make the world
 add up. Ten rules for thinking differently about numbers*. Bridge Street
@@ -368,7 +368,7 @@ wrong. Guardian, 2015 <https://www.theguardian.com/media/2015/oct/30/freedom-of-
 
 `Committee Evidence on Cabinet Office FOI Clearing House, Oct 2021 <https://www.parliamentlive.tv/Event/Index/046db903-c4c1-46cc-b8cf-b1f565ca9df1>`_
 
-`Dodd, Mike & Hanna, Mark. The Freedom of Information Act 2000. *McNae’s Essential Law for Journalists*, 26th ed., 2022, Chapter 37 (online). Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912105476202420>`_
+`Harrison, Sian & Hanna, Mark. The Freedom of Information Act 2000. *McNae’s Essential Law for Journalists*, 26th ed., 2022, Chapter 37 (online). Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912105476202420>`_
 
 `Gibbons, Paul. The Freedom of Information Officer. Open Data
 Institute. 2019. 40' Video <https://www.youtube.com/watch?v=pP6pHg-CWC4>`_
@@ -509,7 +509,7 @@ drives of leaked files. Guardian.
 `Defence and Security Media Advisory (DSMA) Committee. Standing
 Notices <https://dsma.uk/standing-notices/>`_
 
-Dodd, Mike & Hanna, Mark. *McNae’s Essential Law for Journalists*. 26th ed., 2022. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912105476202420>`_ [Esp. Chapter 28, 'Data protection', p. 433-41]
+Harrison, Sian & Hanna, Mark. *McNae’s Essential Law for Journalists*. 26th ed., 2022. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912105476202420>`_ [Esp. Chapter 28, 'Data protection', p. 433-41]
 
 `Georgiev, Peter. A robot commits libel. Who is responsible?, RJI,
 2019 <https://www.rjionline.org/stories/a-robot-commits-libel-who-is-responsible?fbclid=IwAR3KrcMo-AQqqiZmIeyTGbtSEBkcDBleVy4-K49_TT3XBVPlhWVG1LgMxM4>`__
@@ -758,6 +758,8 @@ Bell, Andrew et al. *Making sense of data in the media*. SAGE, 2020. `Library re
 Bergstrom, Carl T. & West, Jevin D. *Calling Bullsh-t. The art of
 scepticism in a data-driven world*. Allen Lane, 2020
 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911944771502420>`_
+
+`Best, Joel. Damned lies and statistics. Updated ed. 2012. <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/b7291a/cdi_proquest_miscellaneous_1272077163>`_ & `More damned lies and statistics, 2004 <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911062523402420>`_
 
 Blastland, Michael & Dilnot, Andrew. *The Tiger that isn’t. Seeing
 through a world of numbers*. Profile, 2008
