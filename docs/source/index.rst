@@ -49,6 +49,8 @@ Mutsvairo, Bruce et al. *Data Journalism in the Global South*. Springer. 2020.
 `Pilhofer, Aron. Getting started with datajournalism. 2017. 40'
 Video <https://www.youtube.com/watch?v=DYzDnufwHNE>`_
 
+Reilley, Mike & Sunne, Samantha. *Data + Journalism: A story-driven approach to learning data reporting*. Routledge, 2023.
+
 Rogers, Simon. *Facts are sacred*. Faber & Faber, 2013.
 
 Rukmini, S. *Whole numbers and half truths: what data can and cannot tell us about modern India*. Context, 2021. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912055077302420>`_
@@ -750,7 +752,7 @@ Module 4: Network analysis. Knight Center. 2020 <https://journalismcourses.org/c
 
 
 
-Numeracy & statistics
+Numbers & statistics
 =====================
 
 Bell, Andrew et al. *Making sense of data in the media*. SAGE, 2020. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912043576202420>`_
@@ -759,7 +761,7 @@ Bergstrom, Carl T. & West, Jevin D. *Calling Bullsh-t. The art of
 scepticism in a data-driven world*. Allen Lane, 2020
 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911944771502420>`_
 
-`Best, Joel. Damned lies and statistics. Updated ed. 2012. <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/b7291a/cdi_proquest_miscellaneous_1272077163>`_ & `More damned lies and statistics, 2004 <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911062523402420>`_
+Best, Joel. *Damned lies and statistics*. University of California Press, 2012 (updated ed.). `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/b7291a/cdi_proquest_miscellaneous_1272077163>`_; *More damned lies and statistics*, University of California Press, 2004 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911062523402420>`_
 
 Blastland, Michael & Dilnot, Andrew. *The Tiger that isn’t. Seeing
 through a world of numbers*. Profile, 2008
