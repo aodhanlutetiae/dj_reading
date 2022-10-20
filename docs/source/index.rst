@@ -233,7 +233,7 @@ Criado-Perez, Caroline. *Invisible women: data bias in a world designed for men*
 `Diakopoulos, Nick. The ethics of predictive journalism. CJR, 2020 <https://www.cjr.org/tow_center/predictive-journalism-artificial-intelligence-ethics.php>`_
 
 Gold, Zachardy & Latonero, Mark. Robots Welcome? Ethical and Legal Considerations for Web Crawling and Scraping. *Washington Journal of
-Law, Technology & Arts*. 13/3, 2018, p. 275
+Law, Technology & Arts*. 13/3, 2018, p. 275.
 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA5186951260002420>`_
 
 `Golumbia, David. Fair Game: commonly used by researchers and journalists, data scraping is an underacknowledged privacy concern. 2022 <https://reallifemag.com/fair-game/>`_
@@ -355,22 +355,24 @@ Gazette.
 Brooke, Heather. *Your right to know. A citizen’s guide to the Freedom
 of Information Act*. 2nd ed., Pluto, 2007. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/3go6c4/44CAR_ALMA51151691970002420>`_
 
-Burgess, Matthew. *Freedom of Information: A Practical Guide for UK
+Burgess, Matt
+
+— `FOI directory <https://foi.directory/>`_
+
+— *Freedom of Information: A Practical Guide for UK
 Journalists*. Routledge, 2015. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911840566902420>`_
 
-`Burgess, Matthew. FOI directory <https://foi.directory/>`_
-
-`Burgess, Matthew. Some of the best stories based on FOI requests in
-2017 <https://www.foi.directory/some-of-the-best-stories-based-on-foi-requests-in-2017/>`_
-
-`Burgess, Matt. FOIA. 103 stories that prove Chris Grayling
+— `FOIA. 103 stories that prove Chris Grayling
 wrong. Guardian, 2015 <https://www.theguardian.com/media/2015/oct/30/freedom-of-information-act-chris-grayling-misuse-foi>`_
+
+— `Some of the best stories based on FOI requests in
+2017 <https://www.foi.directory/some-of-the-best-stories-based-on-foi-requests-in-2017/>`_
 
 `Campaign for Freedom of Information <https://www.cfoi.org.uk/>`_
 
 `Committee Evidence on Cabinet Office FOI Clearing House, Oct 2021 <https://www.parliamentlive.tv/Event/Index/046db903-c4c1-46cc-b8cf-b1f565ca9df1>`_
 
-`Harrison, Sian & Hanna, Mark. The Freedom of Information Act 2000. *McNae’s Essential Law for Journalists*, 26th ed., 2022, Chapter 37 (online). Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912105476202420>`_
+Harrison, Sian & Hanna, Mark. The Freedom of Information Act 2000. *McNae’s Essential Law for Journalists*, 26th ed., 2022, Chapter 37 (online). `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912105476202420>`_
 
 `Gibbons, Paul. The Freedom of Information Officer. Open Data
 Institute. 2019. 40' Video <https://www.youtube.com/watch?v=pP6pHg-CWC4>`_
@@ -384,21 +386,21 @@ Institute. 2019. 40' Video <https://www.youtube.com/watch?v=pP6pHg-CWC4>`_
 2019 <https://drive.google.com/file/d/1VG1p1P0diz89ea64yll-GAo9mXesXCxH/view>`_
 
 Harris, Kelly, Metcalfe, Eric & Wadham, John. *Blackstone’s guide to the
-Freedom of Information Act 2000*. 5th ed., OUP, 2013
+Freedom of Information Act 2000*. 5th ed., OUP, 2013. `Library resource <Blackstone’s guide to the Freedom of Information Act 2000>`_
 
 `Higgerson, David. FOI
 ideas. 2016 <https://davidhiggerson.wordpress.com/2016/03/27/foi-friday-10-foi-ideas-for-journalists-is-back/>`_
 
-`Information Commissioner’s Office. Guide to authorities that respond
+Information Commissioner’s Office
+— `Guide to authorities that respond
 to FOI. 2017 <https://ico.org.uk/media/for-organisations/guide-to-freedom-of-information-4-9.pdf>`_
 
-`Information Commissioner’s Office. How to get information from a
+— `How to get information from a
 public body (for
 individuals) <https://ico.org.uk/your-data-matters/official-information/>`_
 
-`Information Commissioner’s Office. A guide to freedom of information
-(for
-organisations) <https://ico.org.uk/for-organisations/guide-to-freedom-of-information/>`_
+— `A guide to freedom of information
+(for organisations) <https://ico.org.uk/for-organisations/guide-to-freedom-of-information/>`_
 
 `Legal-leaks. Legal leaks toolkit. A guide for journalists on how to
 access government
