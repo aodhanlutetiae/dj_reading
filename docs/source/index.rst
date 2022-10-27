@@ -757,13 +757,15 @@ Module 4: Network analysis. Knight Center. 2020 <https://journalismcourses.org/c
 Numbers & statistics
 =====================
 
+`BBC. Editorial guidelines: statistics. <https://www.bbc.com/editorialguidelines/guidance/reporting-statistics/>`_
+
 Bell, Andrew et al. *Making sense of data in the media*. SAGE, 2020. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912043576202420>`_
 
 Bergstrom, Carl T. & West, Jevin D. *Calling Bullsh-t. The art of
 scepticism in a data-driven world*. Allen Lane, 2020
 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911944771502420>`_
 
-Best, Joel. *Damned lies and statistics*. University of California Press, 2012 (updated ed.). `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/b7291a/cdi_proquest_miscellaneous_1272077163>`_; *More damned lies and statistics*, University of California Press, 2004 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911062523402420>`_
+Best, Joel. *Damned lies and statistics*. University of California Press, 2012 (updated ed.) `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/b7291a/cdi_proquest_miscellaneous_1272077163>`_; *More damned lies and statistics*, University of California Press, 2004 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911062523402420>`_
 
 Blastland, Michael & Dilnot, Andrew. *The Tiger that isn’t. Seeing
 through a world of numbers*. Profile, 2008
@@ -825,8 +827,6 @@ Video <https://www.youtube.com/watch?v=_qioPxHuk0U>`_
 Meyer, Philip. *Precision Journalism. A Reporter’s Introduction to
 Social Science Methods*. Rowman & Littlefield, 4th ed., 2002.
 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51112618970002420>`_
-[Especially chapter 3, Some elements of data analysis and chapter 4,
-Harnessing the power of statistics]
 
 Nguyen, An (ed.). *News, numbers and public opinion in a data-driven world*. Bloomsbury, 2018. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51144864580002420>`_
 
@@ -836,7 +836,7 @@ Paulos, John Allen. *A Mathematician Reads the Newspapers*. Penguin,
 Paulos, John Allen. *Innumeracy. Mathematical illiteracy and its
 consequences*. Penguin, 1988
 
-Porter, Theodore. Trust in numbers: the pursuit of objectivity in science and public life. Princeton University Press, 1996. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma996259583402420>`_
+Porter, Theodore. *Trust in numbers: the pursuit of objectivity in science and public life*. Princeton University Press, 1996. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma996259583402420>`_
 
 `Reinhart, Alex. Statistics Done Wrong. The woefully complete guide.
 No Starch Press,
@@ -1040,6 +1040,8 @@ Dick, Murray. *The infographic: a history of data graphics in news and communica
 `Engebretsen, Martin & Kennedy, Helen. Data Visualisation in
 Society. 2020 <https://www.jstor.org/stable/j.ctvzgb8c7>`_
 
+`Financial Times. Chart advice blogs. <https://www.ft.com/chart-doctor>`_
+
 `House of Commons. Library guide to designing effective
 charts <https://researchbriefings.files.parliament.uk/documents/SN05073/SN05073.pdf>`_
 
@@ -1093,3 +1095,4 @@ Wilkinson, Leland. *The grammar of graphics*. Springer, 1999
 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51169539330002420>`_
 
 Wong, Dona M. *The Wall Street Journal Guide to Information Graphics*. Norton, 2013.
+`Library resource (2010 ed.) <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911523421402420>`_
