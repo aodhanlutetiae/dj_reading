@@ -653,6 +653,8 @@ Graser, Anita & Peterson, Gretchen. *QGIS map design*. Locate Press, 2018
 `Green, Chris. Mapping the Brexit vote. Blogpost.
 2017 <https://www.ox.ac.uk/news-and-events/oxford-and-brexit/brexit-analysis/mapping-brexit-vote>`_
 
+`House of Commons. MSOA names. <https://houseofcommonslibrary.github.io/msoanames/>`
+
 `Knight Center. Online course: Intro to mapping for journalists.
 2018 <https://journalismcourses.org/course/intro-to-mapping-and-gis-for-journalists/>`_
 
@@ -684,7 +686,7 @@ Wales <http://www2.nphs.wales.nhs.uk:8080/PubHObservatoryProjDocs.nsf/85c5075673
 2019 <https://geoportal.statistics.gov.uk/datasets/a31e552c8a214ac2935dbb5701009a64>`_
 
 `ONS. All geographic codes for the UK.
-2020 <https://geoportal.statistics.gov.uk/datasets/register-of-geographic-codes-june-2020-for-the-united-kingdom-v2>`_
+2022 <https://geoportal.statistics.gov.uk/datasets/ons::register-of-geographic-codes-august-2022-for-the-united-kingdom/about>`_
 
 Robinson, Arthur H. *The look of maps. An examination of cartographic
 design*. Esri press classics, 1952; 2010
