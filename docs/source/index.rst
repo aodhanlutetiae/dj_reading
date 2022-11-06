@@ -683,7 +683,7 @@ maps <https://morphocode.com/the-use-of-color-in-maps/>`_
 Wales <http://www2.nphs.wales.nhs.uk:8080/PubHObservatoryProjDocs.nsf/85c50756737f79ac80256f2700534ea3/3b8079b7c790215680257e51004e0bd5/$FILE/20150422_WalesGeographies_Web.pdf>`_
 
 `ONS. A beginner’s guide to UK geography.
-2019 <https://geoportal.statistics.gov.uk/datasets/a31e552c8a214ac2935dbb5701009a64>`_
+2019 <https://geoportal.statistics.gov.uk/documents/ons::a-beginners-guide-to-uk-geography-2021-v1-0/about>`_
 
 `ONS. All geographic codes for the UK.
 2022 <https://geoportal.statistics.gov.uk/datasets/ons::register-of-geographic-codes-august-2022-for-the-united-kingdom/about>`_
