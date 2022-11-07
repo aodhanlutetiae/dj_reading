@@ -653,7 +653,7 @@ Graser, Anita & Peterson, Gretchen. *QGIS map design*. Locate Press, 2018
 `Green, Chris. Mapping the Brexit vote. Blogpost.
 2017 <https://www.ox.ac.uk/news-and-events/oxford-and-brexit/brexit-analysis/mapping-brexit-vote>`_
 
-`House of Commons. MSOA names. <https://houseofcommonslibrary.github.io/msoanames/>`
+`House of Commons. MSOA names. <https://houseofcommonslibrary.github.io/msoanames/>`_
 
 `Knight Center. Online course: Intro to mapping for journalists.
 2018 <https://journalismcourses.org/course/intro-to-mapping-and-gis-for-journalists/>`_
