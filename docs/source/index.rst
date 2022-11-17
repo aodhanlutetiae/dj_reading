@@ -278,6 +278,8 @@ and Abuse Act. Boston University Journal of Science & Technology Law.
 claims. Wired,
 2009 <https://www.wired.com/2009/12/netflix-privacy-lawsuit/>`_
 
+`Tameez, Hanaa. What type of local news stories should be automated?, Nielman Lab, 2022 <https://www.niemanlab.org/2022/11/what-types-of-local-news-stories-should-be-automated-the-toronto-star-is-figuring-it-out/>`_
+
 `UK Statistics Authority. Ethical considerations in the use of geospatial data. May 2021 [includes checklist] <https://uksa.statisticsauthority.gov.uk/publication/ethical-considerations-in-the-use-of-geospatial-data-for-research-and-statistics/>`_
 
 `Velotio. Scraping guidelines & best practices <https://www.velotio.com/engineering-blog/web-scraping-introduction-best-practices-caveats>`_
