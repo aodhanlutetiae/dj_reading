@@ -224,7 +224,7 @@ January 2017 <https://www.researchgate.net/publication/312187007_To_Post_or_Not_
 
 `Craig et al. Ethical questions in data journalism and the power of
 online discussion.
-Datajournalism.com <https://datajournalism.com/read/longreads/ethical-questions-in-data-journalism-and-the-power-of-online-discussion>`_
+Datajournalism.com, 2017 <https://datajournalism.com/read/longreads/ethical-questions-in-data-journalism-and-the-power-of-online-discussion>`_
 
 Criado-Perez, Caroline. *Invisible women: data bias in a world designed for men*. Vintage, 2019. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/3go6c4/44CAR_ALMA51186904880002420>`_
 
@@ -1072,6 +1072,8 @@ Posavec, Stefanie & Lupi, Giorgia. *Dear Data*. Particular Books,
 `Rue, Jeremy. Visualising data: a guide to chart types. Berkeley. 2019 <https://multimedia.journalism.berkeley.edu/tutorials/visualizing-data-a-guide-to-chart-types/>`_
 
 Schwabisch, Jonathan. Better data vizualisations, Columbia, 2021. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911891875702420>`_
+
+Smith, Alan. *How charts work*, Pearson, 2022.
 
 `Sunlight Foundation. Dataviz style
 guidelines <https://github.com/amycesal/dataviz-style-guide/blob/master/Sunlight-StyleGuide-DataViz.pdf>`_
