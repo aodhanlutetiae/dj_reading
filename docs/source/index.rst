@@ -238,6 +238,8 @@ Law, Technology & Arts*. 13/3, 2018, p. 275.
 
 `Golumbia, David. Fair Game: commonly used by researchers and journalists, data scraping is an underacknowledged privacy concern. 2022 <https://reallifemag.com/fair-game/>`_
 
+`Harris, Jacob. Connecting with the dots <https://source.opennews.org/articles/connecting-dots/>`_
+
 Heydt, Michael. Scraping. Code of conduct. *Python web scraping
 cookbook*, Packt, 2018. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51156094260002420>`_
 
@@ -518,7 +520,7 @@ Notices <https://dsma.uk/standing-notices/>`_
 Harrison, Sian & Hanna, Mark. *McNae’s Essential Law for Journalists*. 26th ed., 2022. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912105476202420>`_ [Esp. Chapter 28, 'Data protection', p. 433-41]
 
 `Georgiev, Peter. A robot commits libel. Who is responsible?, RJI,
-2019 <https://www.rjionline.org/stories/a-robot-commits-libel-who-is-responsible?fbclid=IwAR3KrcMo-AQqqiZmIeyTGbtSEBkcDBleVy4-K49_TT3XBVPlhWVG1LgMxM4>`__
+2019 <https://www.rjionline.org/stories/a-robot-commits-libel-who-is-responsible?>`__
 
 `Github. The legal side of open
 source <https://opensource.guide/legal/>`_
@@ -526,7 +528,7 @@ source <https://opensource.guide/legal/>`_
 `Github. Licensing a
 repository <https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/licensing-a-repository>`_
 
-'Glanville, Jo. The journalistic exemption (Data Protection Act). LRB. 2018 <https://www.lrb.co.uk/the-paper/v40/n13/jo-glanville/the-journalistic-exemption>'_
+`Glanville, Jo. The journalistic exemption (Data Protection Act). LRB. 2018 <https://www.lrb.co.uk/the-paper/v40/n13/jo-glanville/the-journalistic-exemption>`_
 
 `ICO. Data protection and journalism. A quick guide.
 2018 <https://ico.org.uk/media/for-organisations/documents/1547/data-protection-and-journalism-quick-guide.pdf>`_
