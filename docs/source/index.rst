@@ -9,8 +9,6 @@ to registered students but most of the works below are online and the others are
 Basics
 ======
 
-Associated Press. Data Journalism. *The Associated Press Stylebook*. 55th ed., 2020-22. p. 358-63
-
 `Bounegru, Liliana & Gray, Jonathan. The data journalism handbook: towards a critical data practice. Amsterdam University Press, 2021 <https://library.oapen.org/bitstream/handle/20.500.12657/47509/9789048542079.pdf>`_
 
 `Bounegru, Liliana, Chambers, Lucy & Gray, Jonathan. The data journalism handbook (One). 2011
@@ -449,6 +447,8 @@ Journalism
 `Associated Press. News values &
 principles <https://www.ap.org/about/news-values-and-principles/>`_
 
+Associated Press. Data Journalism. *The Associated Press Stylebook*. 55th ed., 2020-22. p. 358-63. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911996776202420>`_
+
 `BBC Academy: journalism students <https://www.bbc.com/academy/learning-resources-for-journalism-students>`_
 
 `BBC. Editorial
@@ -517,7 +517,7 @@ drives of leaked files. Guardian.
 `Defence and Security Media Advisory (DSMA) Committee. Standing
 Notices <https://dsma.uk/standing-notices/>`_
 
-Harrison, Sian & Hanna, Mark. *McNae’s Essential Law for Journalists*. 26th ed., 2022. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912105476202420>`_ [Esp. Chapter 28, 'Data protection', p. 433-41]
+Harrison, Sian & Hanna, Mark. *McNae’s Essential Law for Journalists*. 26th ed., 2022. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912123069002420>`_ [Esp. Chapter 28, 'Data protection', p. 433-41]
 
 `Georgiev, Peter. A robot commits libel. Who is responsible?, RJI,
 2019 <https://www.rjionline.org/stories/a-robot-commits-libel-who-is-responsible?>`__
@@ -905,6 +905,8 @@ Dubberly, Sam, Koenig, Alexa & Murray, Daragh. *Digital Witness. Using Open Sour
 
 `Economist. Open-source intelligence challenges state monopolies on information. August 2021. <https://www.economist.com/briefing/2021/08/07/open-source-intelligence-challenges-state-monopolies-on-information>`_
 
+`Edwards, Maxim. Open-source journalism in a wired world. Nieman report, 2022 <https://niemanreports.org/articles/open-source-journalism/>`_
+
 Hahn, Oliver & Stalph, Florian Hahn, Oliver, editor.; Stalph, Florian, editor.
 *Digital investigative journalism: data, visual analytics and innovative methodologies in international reporting*.
 Palgrave Macmillan, 2018. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911682114502420>`_
@@ -930,11 +932,13 @@ Scraping & APIs
 
 Bradshaw, Paul. *Scraping for Journalists*. Leanpub, 2017
 
-`Carter, Laura. There is always an element of judgement. Datakind UK. <https://medium.com/datakinduk/there-is-always-an-element-of-judgement-46e8dc3838c>`_
+`Bradshaw, Paul. What Data Journalists Need to Know About APIs. GIJN, 2022 <https://gijn.org/2022/12/06/what-data-journalists-need-to-know-about-application-programming-interfaces-apis/>`_
+
+`Carter, Laura. There is always an element of judgement. Datakind UK <https://medium.com/datakinduk/there-is-always-an-element-of-judgement-46e8dc3838c>`_
 
 `Google. Robots.txt files overview <https://developers.google.com/search/docs/advanced/robots/intro>`_
 
-`Harlow, Max. Fetch and enrich data with APIs. <https://github.com/maxharlow/tutorials/tree/master/fetch-and-enrich-data-with-apis)>`_
+`Harlow, Max. Fetch and enrich data with APIs. <https://github.com/maxharlow/tutorials/tree/master/fetch-and-enrich-data-with-apis>`_
 
 Heydt, Michael. *Python web scraping cookbook*. Packt, 2018
 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_safari_books_9781787285217>`_
@@ -959,7 +963,7 @@ Mitchell, Ryan. *Web scraping with Python*. O'Reilly, 2nd ed., 2018
 `Shiab, Nael, Web scraping. A journalist’s guide, GIJN,
 2015 <https://gijn.org/2015/08/11/web-scraping-a-journalists-guide/>`_
 
-`Smith, Madolyn. APIs for journalism (newsletter).
+`Smith, Madolyn. APIs for journalism.
 Datajournalism.com <https://datajournalism.com/read/newsletters/apis-for-journalism>`_
 
 Sweigart, Al. "Web scraping", *Automate the boring stuff*, No starch press, 2nd ed, 2020, p. 267-300.
