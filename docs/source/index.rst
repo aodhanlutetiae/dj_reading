@@ -1077,9 +1077,9 @@ Posavec, Stefanie & Lupi, Giorgia. *Dear Data*. Particular Books,
 
 `Rue, Jeremy. Visualising data: a guide to chart types. Berkeley. 2019 <https://multimedia.journalism.berkeley.edu/tutorials/visualizing-data-a-guide-to-chart-types/>`_
 
-Schwabisch, Jonathan. Better data vizualisations, Columbia, 2021. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911891875702420>`_
+Schwabisch, Jonathan. Better data vizualisations. Columbia, 2021. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911891875702420>`_
 
-Smith, Alan. *How charts work*, Pearson, 2022.
+Smith, Alan. *How charts work*. Pearson, 2022.
 
 `Sunlight Foundation. Dataviz style
 guidelines <https://github.com/amycesal/dataviz-style-guide/blob/master/Sunlight-StyleGuide-DataViz.pdf>`_
