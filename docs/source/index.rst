@@ -465,6 +465,8 @@ this! (complete list of quiz links) <https://aodhanlutetiae.github.io/posts/2020
 `Editors’ Code of Practice Committee. The Editors’ Codebook <https://www.editorscode.org.uk/downloads/codebook/codebook-2019.pdf>`_ or
 `Editors’ Code <https://www.ipso.co.uk/editors-code-of-practice/>`_
 
+`Editors' Codebook <https://www.editorscode.org.uk/downloads/codebook/Codebook-2021.pdf>`_
+
 `Guardian. Style guide <https://www.theguardian.com/guardian-observer-style-guide-a>`_
 
 `Impress. Standards code <https://www.impress.press/standards/>`__
