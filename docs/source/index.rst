@@ -31,8 +31,12 @@ Press, 2020
 2015 <https://gijn.org/2015/11/12/fifty-years-of-journalism-and-data-a-brief-history/>`_ and `Datajournalism.com,
 2021 <https://datajournalism.com/read/longreads/the-history-of-data-journalism>`_
 
+Houston, Brant. Data for journalists: a practical guide for computer-assisted reporting. Routledge, 2019. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911677123502420>`_
+
 `International Journalism Festival (Perugia) 2019. Video
 playlist <https://media.journalismfestival.com/programme/2019/category/data-journalism-school>`_
+
+Mair, John et al. Data journalism: past, present and future. Abramis, 2017. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911528815102420>`_
 
 Mayhew, Henry. *London labour and the London poor* [1851-52]. Penguin, 1985. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/c1t5b/alma995702033402420>`_
 
@@ -47,7 +51,7 @@ Mutsvairo, Bruce et al. *Data Journalism in the Global South*. Springer. 2020.
 `Pilhofer, Aron. Getting started with datajournalism. 2017. 40'
 Video <https://www.youtube.com/watch?v=DYzDnufwHNE>`_
 
-Reilley, Mike & Sunne, Samantha. *Data + Journalism: A story-driven approach to learning data reporting*. Routledge, 2023.
+Reilley, Mike & Sunne, Samantha. *Data + Journalism: A story-driven approach to learning data reporting*. Routledge, 2023. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912154402002420>`_
 
 Rogers, Simon. *Facts are sacred*. Faber & Faber, 2013.
 
@@ -464,8 +468,6 @@ this! (complete list of quiz links) <https://aodhanlutetiae.github.io/posts/2020
 
 `Editors’ Code of Practice Committee. The Editors’ Codebook <https://www.editorscode.org.uk/downloads/codebook/codebook-2019.pdf>`_ or
 `Editors’ Code <https://www.ipso.co.uk/editors-code-of-practice/>`_
-
-`Editors' Codebook <https://www.editorscode.org.uk/downloads/codebook/Codebook-2021.pdf>`_
 
 `Guardian. Style guide <https://www.theguardian.com/guardian-observer-style-guide-a>`_
 
