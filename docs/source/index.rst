@@ -546,8 +546,8 @@ Snowden’s Permanent Record. London Review of Books. 41/18, Sept 2019 <https://
 Murray, Andrew. *Information technology law: the law and society*. 4th ed., OUP, 2019. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/3go6c4/44CAR_ALMA51176279860002420>`_
 
 
-Machine Learning
-================
+Machine Learning & CS
+=====================
 
 `Aldhous. Peter. We trained a computer to search for hidden spy planes: this is what it found. Buzzfeed. 2017
 <https://www.buzzfeednews.com/article/peteraldhous/hidden-spy-planes>`_
@@ -597,8 +597,8 @@ tax evasion using machine learning and statistical modeling. Artificial Informer
 `Stray, Jonathan. Beyond the hype: Using AI effectively in investigative journalism. GIJN, September 2019
 <https://gijn.org/2019/09/09/beyond-the-hype-using-ai-effectively-in-investigative-journalism/>`_
 
-`Thurman, Neil (ed.). *Digital Journalism: algorithms, automation & news*, 7/8 (2019), p. 993-1012. Also as Thurman,
-Neil (ed.). *Algorithms, Automation & News*. Routledge, 2021 <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/b7291a/cdi_informaworld_taylorfrancis_310_1080_21670811_2019_1623700>`_
+Thurman, Neil et al. (eds.). *Algorithms, Automation & News*. Routledge, 2021. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912090193502420>`_
+See also *Digital Journalism*, vol 7/8, 2019. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911434057802420>`_
 
 `Quartz. Helicopters circling (code)
 <https://github.com/Quartz/aistudio-copterbot-images>`_
@@ -926,6 +926,8 @@ Pool, Hans. *Bellingcat. Truth in a post-truth world*. 2018. 60’ documentary
 `Library resource (Box of Broadcasts) <https://learningonscreen.ac.uk/ondemand/index.php/prog/15C85789?bcast=131686533>`__
 
 `Silverman, Craig. Verification Handbook 2 <http://verificationhandbook.com/downloads/verification.handbook.2.pdf>`__
+
+`Tett, Gillian, The keyboard warriors on Ukraine’s digital front line, FT. Feb 2023 <https://www.ft.com/content/7e3d95c3-8118-4ade-ae0c-68512383b7b4>`_
 
 
 
