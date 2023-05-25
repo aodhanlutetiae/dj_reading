@@ -1085,14 +1085,14 @@ Posavec, Stefanie & Lupi, Giorgia. *Dear Data*. Particular Books,
 
 Schwabisch, Jonathan. Better data vizualisations. Columbia, 2021. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911891875702420>`_
 
-Smith, Alan. *How charts work*. Pearson, 2022.
+Smith, Alan. *How charts work*. Pearson, 2022. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912124327802420>`_
 
 `Sunlight Foundation. Dataviz style
 guidelines <https://github.com/amycesal/dataviz-style-guide/blob/master/Sunlight-StyleGuide-DataViz.pdf>`_
 
 Tufte, Edward. *Beautiful Evidence*. Graphics Press, 2006
 
-Tufte, Edward. *Envisioning information*. Graphics Press, 1990
+Tufte, Edward. *Envisioning information*. Graphics Press, 1990. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma994076703402420>`_
 
 Tufte, Edward. *The visual display of quantitative information*. 2nd ed.,
 Graphics Press, 2001
