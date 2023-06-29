@@ -462,7 +462,7 @@ guidelines <https://www.bbc.com/editorialguidelines/guidelines>`_
 
 `BBC. Style guide <https://www.bbc.co.uk/newsstyleguide/all>`_
 
-Bloomberg Way. 2014 edition. `Library resource<https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/b7291a/cdi_proquest_ebookcentralchapters_1638550_7_23>`_
+Bloomberg Way. 2014 edition. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/b7291a/cdi_proquest_ebookcentralchapters_1638550_7_23>`_
 
 Carpenter, Siri. *The craft of science writing: selections from the Open Notebook*. Madison,
 2020. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912026677402420>`_
