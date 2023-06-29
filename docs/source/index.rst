@@ -53,6 +53,8 @@ Video <https://www.youtube.com/watch?v=DYzDnufwHNE>`_
 
 Reilley, Mike & Sunne, Samantha. *Data + Journalism: A story-driven approach to learning data reporting*. Routledge, 2023. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912154402002420>`_
 
+Richards, Alex. Foundations of data and digital journalism. Routledge, 2023. (US focused)
+
 Rogers, Simon. *Facts are sacred*. Faber & Faber, 2013.
 
 Rukmini, S. *Whole numbers and half truths: what data can and cannot tell us about modern India*. Context, 2021. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912055077302420>`_
@@ -459,6 +461,8 @@ Associated Press. Data Journalism. *The Associated Press Stylebook*. 55th ed., 2
 guidelines <https://www.bbc.com/editorialguidelines/guidelines>`_
 
 `BBC. Style guide <https://www.bbc.co.uk/newsstyleguide/all>`_
+
+Bloomberg Way. 2014 edition. `Library resource<https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/b7291a/cdi_proquest_ebookcentralchapters_1638550_7_23>`_
 
 Carpenter, Siri. *The craft of science writing: selections from the Open Notebook*. Madison,
 2020. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912026677402420>`_
@@ -902,6 +906,8 @@ Chauhan, Sudhanshu & Kumar Panda, Nutan. *Hacking Web Intelligence: open source 
 concepts and techniques*. Syngress, April 2015.
 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51125020520002420>`__
 
+`Creta, Sara. Open source investigations handbook. Al Jazeera <https://institute.aljazeera.net/sites/default/files/2023/Open%20Source%20Investigation%20Handbook.pdf>`_
+
 *Digital Investigation*. Academic journal.
 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA5188045320002420>`__
 
@@ -1057,6 +1063,8 @@ Dick, Murray. *The infographic: a history of data graphics in news and communica
 Society. 2020 <https://www.jstor.org/stable/j.ctvzgb8c7>`_
 
 `Financial Times. Chart advice blogs. <https://www.ft.com/chart-doctor>`_
+
+Frost, Adam et al. Communicating with data visualisation: a practical guide. Sage, 2022. `Library resource`<https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912059004702420>_
 
 `House of Commons. Library guide to designing effective
 charts <https://researchbriefings.files.parliament.uk/documents/SN05073/SN05073.pdf>`_
