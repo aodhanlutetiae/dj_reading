@@ -25,7 +25,7 @@ Global Investigative Journalism Conferences. `2019 <https://www.youtube.com/play
 
 Harford, Tim. Ponder your personal experience. *How to make the world
 add up. Ten rules for thinking differently about numbers*. Bridge Street
-Press, 2020
+Press, 2020. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912164477902420>`_
 
 `Houston, Brant. Data Journalism. A brief history. GIJN,
 2015 <https://gijn.org/2015/11/12/fifty-years-of-journalism-and-data-a-brief-history/>`_ and `Datajournalism.com,
@@ -36,11 +36,15 @@ Houston, Brant. Data for journalists: a practical guide for computer-assisted re
 `International Journalism Festival (Perugia) 2019. Video
 playlist <https://media.journalismfestival.com/programme/2019/category/data-journalism-school>`_
 
+Kovach, Bill & Rosenstiel, Tom. *The Elements of Journalism. What
+newspeople should know and the public should expect*. Three Rivers
+Press, 2012
+
 Mair, John et al. Data journalism: past, present and future. Abramis, 2017. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911528815102420>`_
 
 Mayhew, Henry. *London labour and the London poor* [1851-52]. Penguin, 1985. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/c1t5b/alma995702033402420>`_
 
-Meyer, Philip. The Journalism We Need. *Precision Journalism*.
+Meyer, Philip. The journalism we need. *Precision Journalism*.
 Rowman & Littlefield, 1973, 2002, 4th ed., p. 1-17. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51112618970002420>`_
 
 Mutsvairo, Bruce et al. *Data Journalism in the Global South*. Springer. 2020.
@@ -53,7 +57,7 @@ Video <https://www.youtube.com/watch?v=DYzDnufwHNE>`_
 
 Reilley, Mike & Sunne, Samantha. *Data + Journalism: A story-driven approach to learning data reporting*. Routledge, 2023. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912154402002420>`_
 
-Richards, Alex. Foundations of data and digital journalism. Routledge, 2023. (US focused)
+Richards, Alex. *Foundations of data and digital journalism*. Routledge, 2023. (US focused)
 
 Rogers, Simon. *Facts are sacred*. Faber & Faber, 2013.
 
@@ -400,6 +404,7 @@ Freedom of Information Act 2000*. 5th ed., OUP, 2013. `Library resource <Blackst
 ideas. 2016 <https://davidhiggerson.wordpress.com/2016/03/27/foi-friday-10-foi-ideas-for-journalists-is-back/>`_
 
 Information Commissioner’s Office
+
 — `Guide to authorities that respond
 to FOI. 2017 <https://ico.org.uk/media/for-organisations/guide-to-freedom-of-information-4-9.pdf>`_
 
@@ -462,7 +467,7 @@ guidelines <https://www.bbc.com/editorialguidelines/guidelines>`_
 
 `BBC. Style guide <https://www.bbc.co.uk/newsstyleguide/all>`_
 
-Bloomberg Way. 2014 edition. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/b7291a/cdi_proquest_ebookcentralchapters_1638550_7_23>`_
+Bloomberg. *The Bloomberg Way*. 2014 edition. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/b7291a/cdi_proquest_ebookcentralchapters_1638550_7_23>`_
 
 Carpenter, Siri. *The craft of science writing: selections from the Open Notebook*. Madison,
 2020. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912026677402420>`_
@@ -479,10 +484,6 @@ this! (complete list of quiz links) <https://aodhanlutetiae.github.io/posts/2020
 
 `IPSO. Rulings <https://www.ipso.co.uk/rulings-and-resolution-statements/>`_
 
-Kovach, Bill & Rosenstiel, Tom. *The Elements of Journalism. What
-newspeople should know and the public should expect*. Three Rivers
-Press, 2012
-
 `NCTJ. Skills videos <https://nctj.mylearningapp.com/course/index.php?categoryid=2>`_
 
 `NUJ. Code of conduct <https://www.nuj.org.uk/about/nuj-code/>`_
@@ -495,7 +496,7 @@ code <https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-codes/broadcast-
 `Orwell, George. Politics and the English Language.
 1946 <https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/>`_
 
-`Propublica. Guide to working with data and publishing apps <https://github.com/propublica/guides>`_
+`Propublica. "Data style guide". Guide to working with data and publishing apps <https://github.com/propublica/guides>`_
 
 `Reuters. Handbook of
 journalism <http://handbook.reuters.com/index.php?title=Main_Page>`_
@@ -1064,7 +1065,7 @@ Society. 2020 <https://www.jstor.org/stable/j.ctvzgb8c7>`_
 
 `Financial Times. Chart advice blogs. <https://www.ft.com/chart-doctor>`_
 
-Frost, Adam et al. Communicating with data visualisation: a practical guide. Sage, 2022. `Library resource`<https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912059004702420>_
+Frost, Adam et al. Communicating with data visualisation: a practical guide. Sage, 2022. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912059004702420>`_
 
 `House of Commons. Library guide to designing effective
 charts <https://researchbriefings.files.parliament.uk/documents/SN05073/SN05073.pdf>`_
@@ -1091,7 +1092,7 @@ Posavec, Stefanie & Lupi, Giorgia. *Dear Data*. Particular Books,
 
 `Rue, Jeremy. Visualising data: a guide to chart types. Berkeley. 2019 <https://multimedia.journalism.berkeley.edu/tutorials/visualizing-data-a-guide-to-chart-types/>`_
 
-Schwabisch, Jonathan. Better data vizualisations. Columbia, 2021. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911891875702420>`_
+Schwabisch, Jonathan. *Better data vizualisations*. Columbia, 2021. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911891875702420>`_
 
 Smith, Alan. *How charts work*. Pearson, 2022. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912124327802420>`_
 
