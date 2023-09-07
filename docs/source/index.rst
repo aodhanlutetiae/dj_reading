@@ -38,7 +38,7 @@ playlist <https://media.journalismfestival.com/programme/2019/category/data-jour
 
 Kovach, Bill & Rosenstiel, Tom. *The Elements of Journalism. What
 newspeople should know and the public should expect*. Three Rivers
-Press, 2012
+Press, 2012. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/c1t5b/alma9910660513402420>`_
 
 Mair, John et al. Data journalism: past, present and future. Abramis, 2017. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911528815102420>`_
 
@@ -202,6 +202,8 @@ McGregor, Susan. *Information security essentials: a guide for reporters, editor
 
 `Reporters Without Borders. Digital security guide <https://helpdesk.rsf.org/digital-security-guide/>`_
 
+`Totem project <https://totem-project.org/>`_
+
 
 
 Ethics
@@ -217,7 +219,7 @@ Ethics
 
 `Chalabi, Mona. Mapping kidnappings in Nigeria. 538. 2014 <https://fivethirtyeight.com/features/mapping-kidnappings-in-nigeria/>`_
 
-Christian, Sue Ellen. Cognitive Biases and Errors as Cause—and
+Christian, Sue Ellen. Cognitive Biases and Errors as Cause — and
 Journalistic Best Practices as Effect. *Journal of Mass Media Ethics*.
 28:3, 2013. p. 160-74. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_crossref_primary_10_1080_08900523_2013_794674>`_
 
@@ -597,7 +599,7 @@ tax evasion using machine learning and statistical modeling. Artificial Informer
 <https://gijn.org/2019/01/22/artificial-intelligence-demands-genuine-journalism/>`_
 
 `Soma, Jonathan. Practical data science for journalists
-<https://investigate.ai/>`__ [**Recommended!**]
+<https://investigate.ai/>`_
 
 `Stray, Jonathan. Beyond the hype: Using AI effectively in investigative journalism. GIJN, September 2019
 <https://gijn.org/2019/09/09/beyond-the-hype-using-ai-effectively-in-investigative-journalism/>`_
@@ -672,6 +674,8 @@ Graser, Anita & Peterson, Gretchen. *QGIS map design*. Locate Press, 2018
 2018 <https://journalismcourses.org/course/intro-to-mapping-and-gis-for-journalists/>`_
 
 `Lambrechts, Maarten. The essential lies in news maps. 2019.  <https://datajournalism.com/read/longreads/the-essential-lies-in-news-maps>`_
+
+`Manson, Stephen. Mapping, society & technology. University of Minnesota, 2017. <https://open.lib.umn.edu/mapping/> `_
 
 `Mapschool. A free introduction to GEO <https://mapschool.io/>`_
 
@@ -964,6 +968,8 @@ Kouzis-Loukas, Dimitrios. *Learning Scrapy: learn the art of efficient
 web scraping and crawling with Python*. Packt, 2016
 `Library resource <https://learning.oreilly.com/library/view/learning-scrapy/9781784399788/ch03s02.html>`_
 
+`McCarthy, Kieran. Web scraping for me, but not for thee. <https://blog.ericgoldman.org/archives/2023/08/web-scraping-for-me-but-not-for-thee-guest-blog-post.htm>`_
+
 Mitchell, Ryan. *Web scraping with Python*. O'Reilly, 2nd ed., 2018
 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/3go6c4/44CAR_ALMA21109771520002420>`_
 
@@ -1070,6 +1076,8 @@ Frost, Adam et al. Communicating with data visualisation: a practical guide. Sag
 `House of Commons. Library guide to designing effective
 charts <https://researchbriefings.files.parliament.uk/documents/SN05073/SN05073.pdf>`_
 
+Kirk, Andy. Data visualisation: a handbook for data driven design. SAGE, 2019 (2nd ed.) `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/c1t5b/alma9911831176702420>`_
+
 `Knight Center. Module 5. Visualising. Data journalism and
 visualisation with free tools. Online course.
 2019 <https://live-journalismcourses.pantheonsite.io/course/data-journalism-and-visualization-with-free-tools/>`_
@@ -1088,7 +1096,7 @@ through Simulated Annealing, CHI,
 `Muth, Lisa Charlotte. In defense of simple charts. Blogpost, Datawrapper, 2021 <https://blog.datawrapper.de/in-defense-of-simple-charts/>`_
 
 Posavec, Stefanie & Lupi, Giorgia. *Dear Data*. Particular Books,
-2016 & `Project <http://www.dear-data.com/theproject>`_
+2016 & `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912168438202420>`_
 
 `Rue, Jeremy. Visualising data: a guide to chart types. Berkeley. 2019 <https://multimedia.journalism.berkeley.edu/tutorials/visualizing-data-a-guide-to-chart-types/>`_
 
