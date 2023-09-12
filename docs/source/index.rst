@@ -968,7 +968,7 @@ Kouzis-Loukas, Dimitrios. *Learning Scrapy: learn the art of efficient
 web scraping and crawling with Python*. Packt, 2016
 `Library resource <https://learning.oreilly.com/library/view/learning-scrapy/9781784399788/ch03s02.html>`_
 
-`McCarthy, Kieran. Web scraping for me, but not for thee. <https://blog.ericgoldman.org/archives/2023/08/web-scraping-for-me-but-not-for-thee-guest-blog-post.htm>`_
+`McCarthy, Kieran. Web scraping for me, but not for thee. 2023. <https://blog.ericgoldman.org/archives/2023/08/web-scraping-for-me-but-not-for-thee-guest-blog-post.htm>`_
 
 Mitchell, Ryan. *Web scraping with Python*. O'Reilly, 2nd ed., 2018
 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/3go6c4/44CAR_ALMA21109771520002420>`_
@@ -1061,8 +1061,6 @@ Cairo, Alberto. *The truthful art*. New Rider, 2016
 `Cairo, Alberto. Datasaurus. 2016 <http://www.thefunctionalart.com/2016/08/download-datasaurus-never-trust-summary.html>`_
 
 `Chalabi, Mona. Instagram <https://www.instagram.com/monachalabi/?hl=en>`_
-
-`Civil Service UK. Introduction to data visualisation <https://gss.civilservice.gov.uk/policy-store/introduction-to-data-visualisation/>`_
 
 Dick, Murray. *The infographic: a history of data graphics in news and communications*. MIT Press, 2020. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911943454202420>`_
 
