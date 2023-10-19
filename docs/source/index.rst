@@ -477,8 +477,7 @@ Carpenter, Siri. *The craft of science writing: selections from the Open Noteboo
 `Corbett, Philip B. Copy edit
 this! (complete list of quiz links) <https://aodhanlutetiae.github.io/posts/2020/10/blog-post-13/>`_
 
-`Editors’ Code of Practice Committee. The Editors’ Codebook <https://www.editorscode.org.uk/downloads/codebook/codebook-2019.pdf>`_ or
-`Editors’ Code <https://www.ipso.co.uk/editors-code-of-practice/>`_
+`Editors’ Code <https://www.ipso.co.uk/editors-code-of-practice/>`_ or `Editors’ Code of Practice Committee. The Editors’ Codebook <https://www.editorscode.org.uk/downloads/codebook/codebook-2019.pdf>`_
 
 `Guardian. Style guide <https://www.theguardian.com/guardian-observer-style-guide-a>`_
 
@@ -834,6 +833,8 @@ guide to critical reporting. Datajournalism.com,
 Kahneman, Daniel. *Thinking, Fast and Slow*. Penguin, 2011. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA2171412520002420>`_
 
 `Kaplan, Daniel. Statistical Modelling. 2017 <https://dtkaplan.github.io/SM2-bookdown>`_
+
+`Lanchester, John. "Get a rabbit", *London Review of Books*, p. 3-8. 45/18, 2023 <https://www.lrb.co.uk/the-paper/v45/n18/john-lanchester/get-a-rabbit>`_
 
 `Lievesley, Denise. A guide to statistics for journalists. Reuters Institute, 2020. 1h
 Video <https://www.youtube.com/watch?v=_qioPxHuk0U>`_
