@@ -223,10 +223,6 @@ Christian, Sue Ellen. Cognitive Biases and Errors as Cause — and
 Journalistic Best Practices as Effect. *Journal of Mass Media Ethics*.
 28:3, 2013. p. 160-74. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_crossref_primary_10_1080_08900523_2013_794674>`_
 
-`Coddington, Mark & Lewis, Seth. Do journalists hide behind sources when they use numbers in the news? Nieman Lab, 2021 <https://www.niemanlab.org/2021/06/do-journalists-hide-behind-sources-when-they-use-numbers-in-the-news/>`_
-&
-`Lawson, B.T. Hiding Behind Databases, Institutions and Actors: How Journalists Use Statistics in Reporting Humanitarian Crises. Journalism Practice, 2021 <https://www.tandfonline.com/doi/full/10.1080/17512786.2021.1930106>`_
-
 `Craig et al., To Post or Not to Post: Online Discussion of Gun Permit
 Mapping and the Development of Ethical Standards in Data Journalism.
 *Journalism & Mass Communication Quarterly*,
@@ -792,6 +788,10 @@ through a world of numbers*. Profile, 2008
 Blauw, Sanne. *The number bias*. Sceptre, 2020
 
 Chivers, Tom & David Chivers. *How to read numbers. A guide to statistics in the news*. W&N, 2021
+
+`Coddington, Mark & Lewis, Seth. Do journalists hide behind sources when they use numbers in the news? Nieman Lab, 2021 <https://www.niemanlab.org/2021/06/do-journalists-hide-behind-sources-when-they-use-numbers-in-the-news/>`_
+&
+`Lawson, B.T. Hiding Behind Databases, Institutions and Actors: How Journalists Use Statistics in Reporting Humanitarian Crises. Journalism Practice, 2021 <https://www.tandfonline.com/doi/full/10.1080/17512786.2021.1930106>`_
 
 `Cohen, Sarah. Numbers in the Newsroom: Using Math and Statistics in
 News, 2nd ed., IRE, 2014 <https://www.ire.org/product/numbers-in-the-newsroom-using-math-and-statistics-in-news-second-edition-e-version/>`_
