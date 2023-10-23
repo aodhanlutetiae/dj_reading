@@ -483,6 +483,8 @@ this! (complete list of quiz links) <https://aodhanlutetiae.github.io/posts/2020
 
 `NCTJ. Skills videos <https://nctj.mylearningapp.com/course/index.php?categoryid=2>`_
 
+`NCTJ. IPSO (online course). <https://skillsacademy.nctj.com/enrol/index.php?id=85>`_
+
 `NUJ. Code of conduct <https://www.nuj.org.uk/about/nuj-code/>`_
 
 `Ofcom. The Ofcom broadcasting
@@ -847,6 +849,8 @@ Video <https://www.youtube.com/watch?v=_qioPxHuk0U>`_
 Meyer, Philip. *Precision Journalism. A Reporter’s Introduction to
 Social Science Methods*. Rowman & Littlefield, 4th ed., 2002.
 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51112618970002420>`_
+
+`NCTJ. Reporting polls (online course). <https://skillsacademy.nctj.com/course/view.php?id=84>`_
 
 Nguyen, An (ed.). *News, numbers and public opinion in a data-driven world*. Bloomsbury, 2018. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51144864580002420>`_
 
